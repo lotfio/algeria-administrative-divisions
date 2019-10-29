@@ -46,14 +46,14 @@ function parse_dz($htmlFile, $type = 'district', $lang = 'en')
     {
         $daira =  explode('#', $data);
 
-        $districts[$k][$lang == 'en' ? 'district_name'   : 'daira']          = $daira[2] ?? "-----";
-        $districts[$k][$lang == 'en' ? 'district_code'   : 'code_daira']     = $daira[1] ?? "-----";
-        $districts[$k][$lang == 'en' ? 'state_id'        : 'wilaya_id']      = $id;
+        $districts[$k][$lang == 'en' ? 'district_name'   : 'daira']          = (string)  $daira[2] ?? "-----";
+        $districts[$k][$lang == 'en' ? 'district_code'   : 'code_daira']     = (int)     $daira[1] ?? "-----";
+        $districts[$k][$lang == 'en' ? 'state_id'        : 'wilaya_id']      = (int)     $id;
 
-        $counies[$k][$lang   == 'en' ? 'county_name'     : 'commune']        = $daira[4] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'county_code'     : 'code_commune']   = $daira[3] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'district_code'   : 'code_daira']     = $daira[1] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'state_id'        : 'wilaya_id']      = $id;
+        $counies[$k][$lang   == 'en' ? 'county_name'     : 'commune']        = (string) $daira[4] ?? "-----";
+        $counies[$k][$lang   == 'en' ? 'county_code'     : 'code_commune']   = (int)    $daira[3] ?? "-----";
+        $counies[$k][$lang   == 'en' ? 'district_code'   : 'code_daira']     = (int)    $daira[1] ?? "-----";
+        $counies[$k][$lang   == 'en' ? 'state_id'        : 'wilaya_id']      = (int)    $id;
 
     }
 
@@ -73,3 +73,12 @@ foreach($files as $file)
 {
     $data =  array_merge($data, parse_dz('html/'.$file, 'county', 'fr'));
 }
+
+usort($data, function($a, $b){
+
+    $c  = $a['wilaya_id'] - $b['wilaya_id'];
+    $c .= $a['code_commune'] - $b['code_commune'];
+    return $c;
+});
+
+print_r($data);
