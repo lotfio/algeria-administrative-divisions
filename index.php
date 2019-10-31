@@ -89,4 +89,29 @@ usort($data, function($a, $b){
     return $c;
 });
 
-print_r(($data));
+
+
+/*
+insert into DB
+try{
+    $con = new PDO("mysql:host=localhost;dbname=aad", 'root', '');
+    $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}catch(PDOException $e)
+{
+    die($e->getMessage());
+}
+
+$sql = "INSERT INTO communes (`id`, `name`, `code`, `daira_code`, `wilaya_code`, `post_code`, `surface`, `population`, `lat`, `lng`) VALUES ";
+
+foreach($data as $commune)
+{
+    $d = array_values($commune);
+    $d = array_map(function($elem){ return "'". str_replace('-', " ", strtoupper(addslashes($elem))) ."'"; }, $d);
+
+    $sql .= "('NULL'," . implode(',', $d) .  ",'0','0','0','0','0'" . "),";
+}
+
+$sql =  rtrim($sql, "\n,") . ";";
+$stmt = $con->prepare($sql);
+$stmt->execute();
+*/
