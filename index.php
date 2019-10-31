@@ -1,7 +1,7 @@
 <?php
 
 /**
- * algerias cities project by lotfio lakehal
+ * algeria cities project by lotfio lakehal
  * https://onil.dz/wp-content/uploads/2017/10/10BOUIRA.pdf wilaya id + name capital .pdf
  *
  * https://pdftables.com/ to convert data to csv
@@ -11,6 +11,9 @@
  * remove hyphens from names
  * strtoupper all names
  * remove é charachter it was found in one file
+ *
+ * images for wilayat
+ * https://gadm.org/maps/DZA/eltarf.html
  */
 
 
