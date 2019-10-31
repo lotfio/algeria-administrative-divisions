@@ -6,6 +6,11 @@
  *
  * https://pdftables.com/ to convert data to csv
  *
+ * TODO
+ * when inserting into db add slashers
+ * remove hyphens from names
+ * strtoupper all names
+ * remove é charachter it was found in one file
  */
 
 
@@ -81,4 +86,4 @@ usort($data, function($a, $b){
     return $c;
 });
 
-print_r($data);
+print_r(($data));
