@@ -47,13 +47,13 @@ function parse_dz($htmlFile, $type = 'district', $lang = 'en')
         $daira =  explode('#', $data);
 
         $districts[$k][$lang == 'en' ? 'district_name'   : 'daira']          = (string)  $daira[2] ?? "-----";
-        $districts[$k][$lang == 'en' ? 'district_code'   : 'code_daira']     = (int)     $daira[1] ?? "-----";
-        $districts[$k][$lang == 'en' ? 'state_id'        : 'wilaya_id']      = (int)     $id;
+        $districts[$k][$lang == 'en' ? 'district_code'   : 'code_daira']     = (int)     strlen($daira[1] ?? "-----") < 4 ? 0 . $daira[1]: $daira[1];
+        $districts[$k][$lang == 'en' ? 'state_id'        : 'wilaya_id']      = (int)     strlen($id) < 2 ? 0 . $id: $id;
 
         $counies[$k][$lang   == 'en' ? 'county_name'     : 'commune']        = (string) $daira[4] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'county_code'     : 'code_commune']   = (int)    $daira[3] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'district_code'   : 'code_daira']     = (int)    $daira[1] ?? "-----";
-        $counies[$k][$lang   == 'en' ? 'state_id'        : 'wilaya_id']      = (int)    $id;
+        $counies[$k][$lang   == 'en' ? 'county_code'     : 'code_commune']   = (int)    strlen($daira[3] ?? "-----") < 4 ? 0 . $daira[3]: $daira[3];
+        $counies[$k][$lang   == 'en' ? 'district_code'   : 'code_daira']     = (int)    strlen($daira[1] ?? "-----") < 4 ? 0 . $daira[1]: $daira[1];
+        $counies[$k][$lang   == 'en' ? 'state_id'        : 'wilaya_id']      = (int)    strlen($id) < 2 ? 0 . $id: $id;
 
     }
 
