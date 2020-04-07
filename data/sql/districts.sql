@@ -12,26 +12,25 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 -- Dumping structure for table mlc.districts
-DROP TABLE IF EXISTS `districts`;
 CREATE TABLE IF NOT EXISTS `districts` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `code` int(4) unsigned NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `ar_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `fk_county_code` int(10) unsigned NOT NULL,
+  `county_code` int(10) unsigned NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
   `updated_at` timestamp NULL DEFAULT NULL,
   `deleted_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
-  KEY `districts_fk_county_code_foreign` (`fk_county_code`),
+  KEY `districts_fk_county_code_foreign` (`county_code`),
   KEY `districts_code_index` (`code`),
-  CONSTRAINT `districts_fk_county_code_foreign` FOREIGN KEY (`fk_county_code`) REFERENCES `counties` (`code`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `districts_fk_county_code_foreign` FOREIGN KEY (`county_code`) REFERENCES `counties` (`code`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB AUTO_INCREMENT=1551 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- Dumping data for table mlc.districts: ~1,550 rows (approximately)
 DELETE FROM `districts`;
 /*!40000 ALTER TABLE `districts` DISABLE KEYS */;
-INSERT INTO `districts` (`id`, `code`, `name`, `ar_name`, `fk_county_code`, `created_at`, `updated_at`, `deleted_at`) VALUES
+INSERT INTO `districts` (`id`, `code`, `name`, `ar_name`, `county_code`, `created_at`, `updated_at`, `deleted_at`) VALUES
 	(1, 101, 'Adrar', 'أدرار', 101, '2020-03-02 18:26:42', NULL, NULL),
 	(2, 121, 'Ouled ahmed timmi', 'أولاد أحمد تيمي', 101, '2020-03-02 18:26:42', NULL, NULL),
 	(3, 122, 'Bouda', 'بودة', 101, '2020-03-02 18:26:42', NULL, NULL),

@@ -1,435 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <states>
-  <state>
-    <id>1</id>
-    <code>1</code>
-    <name>Adrar</name>
-    <ar_name>أدرار</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>2</id>
-    <code>2</code>
-    <name>Chlef</name>
-    <ar_name>الشلف</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>3</id>
-    <code>3</code>
-    <name>Laghouat</name>
-    <ar_name>الأغواط</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>4</id>
-    <code>4</code>
-    <name>Oum el bouaghi</name>
-    <ar_name>أم البواقي</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>5</id>
-    <code>5</code>
-    <name>Batna</name>
-    <ar_name>باتنة</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>6</id>
-    <code>6</code>
-    <name>Béjaïa</name>
-    <ar_name>بجاية</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>7</id>
-    <code>7</code>
-    <name>Biskra</name>
-    <ar_name>بسكرة</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>8</id>
-    <code>8</code>
-    <name>Bechar</name>
-    <ar_name>بشار</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>9</id>
-    <code>9</code>
-    <name>Blida</name>
-    <ar_name>البليدة</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>10</id>
-    <code>10</code>
-    <name>Bouira</name>
-    <ar_name>البويرة</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>11</id>
-    <code>11</code>
-    <name>Tamanrasset</name>
-    <ar_name>تمنراست</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>12</id>
-    <code>12</code>
-    <name>Tbessa</name>
-    <ar_name>تبسة</ar_name>
-    <created_at>2020-03-02 18:25:16</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>13</id>
-    <code>13</code>
-    <name>Tlemcen</name>
-    <ar_name>تلمسان</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>14</id>
-    <code>14</code>
-    <name>Tiaret</name>
-    <ar_name>تيارت</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>15</id>
-    <code>15</code>
-    <name>Tizi ouzou</name>
-    <ar_name>تيزي وزو</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>16</id>
-    <code>16</code>
-    <name>Alger</name>
-    <ar_name>الجزائر</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>17</id>
-    <code>17</code>
-    <name>Djelfa</name>
-    <ar_name>الجلفة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>18</id>
-    <code>18</code>
-    <name>Jijel</name>
-    <ar_name>جيجل</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>19</id>
-    <code>19</code>
-    <name>Sétif</name>
-    <ar_name>سطيف</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>20</id>
-    <code>20</code>
-    <name>Saefda</name>
-    <ar_name>سعيدة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>21</id>
-    <code>21</code>
-    <name>Skikda</name>
-    <ar_name>سكيكدة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>22</id>
-    <code>22</code>
-    <name>Sidi bel abbes</name>
-    <ar_name>سيدي بلعباس</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>23</id>
-    <code>23</code>
-    <name>Annaba</name>
-    <ar_name>عنابة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>24</id>
-    <code>24</code>
-    <name>Guelma</name>
-    <ar_name>قالمة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>25</id>
-    <code>25</code>
-    <name>Constantine</name>
-    <ar_name>قسنطينة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>26</id>
-    <code>26</code>
-    <name>Medea</name>
-    <ar_name>المدية</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>27</id>
-    <code>27</code>
-    <name>Mostaganem</name>
-    <ar_name>مستغانم</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>28</id>
-    <code>28</code>
-    <name>M&apos;sila</name>
-    <ar_name>المسيلة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>29</id>
-    <code>29</code>
-    <name>Mascara</name>
-    <ar_name>معسكر</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>30</id>
-    <code>30</code>
-    <name>Ouargla</name>
-    <ar_name>ورقلة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>31</id>
-    <code>31</code>
-    <name>Oran</name>
-    <ar_name>وهران</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>32</id>
-    <code>32</code>
-    <name>El bayadh</name>
-    <ar_name>البيض</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>33</id>
-    <code>33</code>
-    <name>Illizi</name>
-    <ar_name>إليزي</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>34</id>
-    <code>34</code>
-    <name>Bordj bou arreridj</name>
-    <ar_name>برج بوعريريج</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>35</id>
-    <code>35</code>
-    <name>Boumerdes</name>
-    <ar_name>بومرداس</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>36</id>
-    <code>36</code>
-    <name>El tarf</name>
-    <ar_name>الطارف</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>37</id>
-    <code>37</code>
-    <name>Tindouf</name>
-    <ar_name>تندوف</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>38</id>
-    <code>38</code>
-    <name>Tissemsilt</name>
-    <ar_name>تيسمسيلت</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>39</id>
-    <code>39</code>
-    <name>El oued</name>
-    <ar_name>الوادي</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>40</id>
-    <code>40</code>
-    <name>Khenchela</name>
-    <ar_name>خنشلة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>41</id>
-    <code>41</code>
-    <name>Souk ahras</name>
-    <ar_name>سوق أهراس</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>42</id>
-    <code>42</code>
-    <name>Tipaza</name>
-    <ar_name>تيبازة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>43</id>
-    <code>43</code>
-    <name>Mila</name>
-    <ar_name>ميلة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>44</id>
-    <code>44</code>
-    <name>Ain defla</name>
-    <ar_name>عين الدفلى</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>45</id>
-    <code>45</code>
-    <name>Naama</name>
-    <ar_name>النعامة</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>46</id>
-    <code>46</code>
-    <name>Ain temouchent</name>
-    <ar_name>عين تموشنت</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>47</id>
-    <code>47</code>
-    <name>Ghardaïa</name>
-    <ar_name>غرداية</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
-  <state>
-    <id>48</id>
-    <code>48</code>
-    <name>Relizane</name>
-    <ar_name>غليزان</ar_name>
-    <created_at>2020-03-02 18:25:17</created_at>
-    <updated_at></updated_at>
-    <deleted_at></deleted_at>
-  </state>
+	<state>
+		<id>1</id>
+		<code>01</code>
+		<name>Adrar</name>
+		<ar_name>أدرار</ar_name>
+	</state>
+	<state>
+		<id>2</id>
+		<code>02</code>
+		<name>Chlef</name>
+		<ar_name>الشلف</ar_name>
+	</state>
+	<state>
+		<id>3</id>
+		<code>03</code>
+		<name>Laghouat</name>
+		<ar_name>الأغواط</ar_name>
+	</state>
+	<state>
+		<id>4</id>
+		<code>04</code>
+		<name>Oum el bouaghi</name>
+		<ar_name>أم البواقي</ar_name>
+	</state>
+	<state>
+		<id>5</id>
+		<code>05</code>
+		<name>Batna</name>
+		<ar_name>باتنة</ar_name>
+	</state>
+	<state>
+		<id>6</id>
+		<code>06</code>
+		<name>Béjaïa</name>
+		<ar_name>بجاية</ar_name>
+	</state>
+	<state>
+		<id>7</id>
+		<code>07</code>
+		<name>Biskra</name>
+		<ar_name>بسكرة</ar_name>
+	</state>
+	<state>
+		<id>8</id>
+		<code>08</code>
+		<name>Bechar</name>
+		<ar_name>بشار</ar_name>
+	</state>
+	<state>
+		<id>9</id>
+		<code>09</code>
+		<name>Blida</name>
+		<ar_name>البليدة</ar_name>
+	</state>
+	<state>
+		<id>10</id>
+		<code>10</code>
+		<name>Bouira</name>
+		<ar_name>البويرة</ar_name>
+	</state>
+	<state>
+		<id>11</id>
+		<code>11</code>
+		<name>Tamanrasset</name>
+		<ar_name>تمنراست</ar_name>
+	</state>
+	<state>
+		<id>12</id>
+		<code>12</code>
+		<name>Tbessa</name>
+		<ar_name>تبسة</ar_name>
+	</state>
+	<state>
+		<id>13</id>
+		<code>13</code>
+		<name>Tlemcen</name>
+		<ar_name>تلمسان</ar_name>
+	</state>
+	<state>
+		<id>14</id>
+		<code>14</code>
+		<name>Tiaret</name>
+		<ar_name>تيارت</ar_name>
+	</state>
+	<state>
+		<id>15</id>
+		<code>15</code>
+		<name>Tizi ouzou</name>
+		<ar_name>تيزي وزو</ar_name>
+	</state>
+	<state>
+		<id>16</id>
+		<code>16</code>
+		<name>Alger</name>
+		<ar_name>الجزائر</ar_name>
+	</state>
+	<state>
+		<id>17</id>
+		<code>17</code>
+		<name>Djelfa</name>
+		<ar_name>الجلفة</ar_name>
+	</state>
+	<state>
+		<id>18</id>
+		<code>18</code>
+		<name>Jijel</name>
+		<ar_name>جيجل</ar_name>
+	</state>
+	<state>
+		<id>19</id>
+		<code>19</code>
+		<name>Sétif</name>
+		<ar_name>سطيف</ar_name>
+	</state>
+	<state>
+		<id>20</id>
+		<code>20</code>
+		<name>Saefda</name>
+		<ar_name>سعيدة</ar_name>
+	</state>
+	<state>
+		<id>21</id>
+		<code>21</code>
+		<name>Skikda</name>
+		<ar_name>سكيكدة</ar_name>
+	</state>
+	<state>
+		<id>22</id>
+		<code>22</code>
+		<name>Sidi bel abbes</name>
+		<ar_name>سيدي بلعباس</ar_name>
+	</state>
+	<state>
+		<id>23</id>
+		<code>23</code>
+		<name>Annaba</name>
+		<ar_name>عنابة</ar_name>
+	</state>
+	<state>
+		<id>24</id>
+		<code>24</code>
+		<name>Guelma</name>
+		<ar_name>قالمة</ar_name>
+	</state>
+	<state>
+		<id>25</id>
+		<code>25</code>
+		<name>Constantine</name>
+		<ar_name>قسنطينة</ar_name>
+	</state>
+	<state>
+		<id>26</id>
+		<code>26</code>
+		<name>Medea</name>
+		<ar_name>المدية</ar_name>
+	</state>
+	<state>
+		<id>27</id>
+		<code>27</code>
+		<name>Mostaganem</name>
+		<ar_name>مستغانم</ar_name>
+	</state>
+	<state>
+		<id>28</id>
+		<code>28</code>
+		<name>M'sila</name>
+		<ar_name>المسيلة</ar_name>
+	</state>
+	<state>
+		<id>29</id>
+		<code>29</code>
+		<name>Mascara</name>
+		<ar_name>معسكر</ar_name>
+	</state>
+	<state>
+		<id>30</id>
+		<code>30</code>
+		<name>Ouargla</name>
+		<ar_name>ورقلة</ar_name>
+	</state>
+	<state>
+		<id>31</id>
+		<code>31</code>
+		<name>Oran</name>
+		<ar_name>وهران</ar_name>
+	</state>
+	<state>
+		<id>32</id>
+		<code>32</code>
+		<name>El bayadh</name>
+		<ar_name>البيض</ar_name>
+	</state>
+	<state>
+		<id>33</id>
+		<code>33</code>
+		<name>Illizi</name>
+		<ar_name>إليزي</ar_name>
+	</state>
+	<state>
+		<id>34</id>
+		<code>34</code>
+		<name>Bordj bou arreridj</name>
+		<ar_name>برج بوعريريج</ar_name>
+	</state>
+	<state>
+		<id>35</id>
+		<code>35</code>
+		<name>Boumerdes</name>
+		<ar_name>بومرداس</ar_name>
+	</state>
+	<state>
+		<id>36</id>
+		<code>36</code>
+		<name>El tarf</name>
+		<ar_name>الطارف</ar_name>
+	</state>
+	<state>
+		<id>37</id>
+		<code>37</code>
+		<name>Tindouf</name>
+		<ar_name>تندوف</ar_name>
+	</state>
+	<state>
+		<id>38</id>
+		<code>38</code>
+		<name>Tissemsilt</name>
+		<ar_name>تيسمسيلت</ar_name>
+	</state>
+	<state>
+		<id>39</id>
+		<code>39</code>
+		<name>El oued</name>
+		<ar_name>الوادي</ar_name>
+	</state>
+	<state>
+		<id>40</id>
+		<code>40</code>
+		<name>Khenchela</name>
+		<ar_name>خنشلة</ar_name>
+	</state>
+	<state>
+		<id>41</id>
+		<code>41</code>
+		<name>Souk ahras</name>
+		<ar_name>سوق أهراس</ar_name>
+	</state>
+	<state>
+		<id>42</id>
+		<code>42</code>
+		<name>Tipaza</name>
+		<ar_name>تيبازة</ar_name>
+	</state>
+	<state>
+		<id>43</id>
+		<code>43</code>
+		<name>Mila</name>
+		<ar_name>ميلة</ar_name>
+	</state>
+	<state>
+		<id>44</id>
+		<code>44</code>
+		<name>Ain defla</name>
+		<ar_name>عين الدفلى</ar_name>
+	</state>
+	<state>
+		<id>45</id>
+		<code>45</code>
+		<name>Naama</name>
+		<ar_name>النعامة</ar_name>
+	</state>
+	<state>
+		<id>46</id>
+		<code>46</code>
+		<name>Ain temouchent</name>
+		<ar_name>عين تموشنت</ar_name>
+	</state>
+	<state>
+		<id>47</id>
+		<code>47</code>
+		<name>Ghardaïa</name>
+		<ar_name>غرداية</ar_name>
+	</state>
+	<state>
+		<id>48</id>
+		<code>48</code>
+		<name>Relizane</name>
+		<ar_name>غليزان</ar_name>
+	</state>
 </states>

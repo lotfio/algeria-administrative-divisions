@@ -12,26 +12,25 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
 -- Dumping structure for table mlc.counties
-DROP TABLE IF EXISTS `counties`;
 CREATE TABLE IF NOT EXISTS `counties` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `code` int(10) unsigned NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `ar_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `fk_state_code` int(10) unsigned NOT NULL,
+  `state_code` int(10) unsigned NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
   `updated_at` timestamp NULL DEFAULT NULL,
   `deleted_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
-  KEY `counties_fk_state_code_foreign` (`fk_state_code`),
+  KEY `counties_fk_state_code_foreign` (`state_code`),
   KEY `counties_code_index` (`code`),
-  CONSTRAINT `counties_fk_state_code_foreign` FOREIGN KEY (`fk_state_code`) REFERENCES `states` (`code`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `counties_fk_state_code_foreign` FOREIGN KEY (`state_code`) REFERENCES `states` (`code`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB AUTO_INCREMENT=558 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- Dumping data for table mlc.counties: ~557 rows (approximately)
 DELETE FROM `counties`;
 /*!40000 ALTER TABLE `counties` DISABLE KEYS */;
-INSERT INTO `counties` (`id`, `code`, `name`, `ar_name`, `fk_state_code`, `created_at`, `updated_at`, `deleted_at`) VALUES
+INSERT INTO `counties` (`id`, `code`, `name`, `ar_name`, `state_code`, `created_at`, `updated_at`, `deleted_at`) VALUES
 	(1, 101, 'Adrar', 'أدرار', 1, '2020-03-02 18:25:56', NULL, NULL),
 	(2, 103, 'Charouine', 'شروين', 1, '2020-03-02 18:25:56', NULL, NULL),
 	(3, 104, 'Reggane', 'رقان', 1, '2020-03-02 18:25:56', NULL, NULL),

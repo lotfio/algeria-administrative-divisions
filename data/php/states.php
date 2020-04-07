@@ -2,92 +2,65 @@
    
   array (
     'id' => '1',
-    'code' => '1',
+    'code' => '01',
     'name' => 'Adrar',
     'ar_name' => 'أدرار',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '2',
-    'code' => '2',
+    'code' => '02',
     'name' => 'Chlef',
     'ar_name' => 'الشلف',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '3',
-    'code' => '3',
+    'code' => '03',
     'name' => 'Laghouat',
     'ar_name' => 'الأغواط',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '4',
-    'code' => '4',
+    'code' => '04',
     'name' => 'Oum el bouaghi',
     'ar_name' => 'أم البواقي',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '5',
-    'code' => '5',
+    'code' => '05',
     'name' => 'Batna',
     'ar_name' => 'باتنة',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '6',
-    'code' => '6',
+    'code' => '06',
     'name' => 'Béjaïa',
     'ar_name' => 'بجاية',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '7',
-    'code' => '7',
+    'code' => '07',
     'name' => 'Biskra',
     'ar_name' => 'بسكرة',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '8',
-    'code' => '8',
+    'code' => '08',
     'name' => 'Bechar',
     'ar_name' => 'بشار',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
     'id' => '9',
-    'code' => '9',
+    'code' => '09',
     'name' => 'Blida',
     'ar_name' => 'البليدة',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -95,9 +68,6 @@
     'code' => '10',
     'name' => 'Bouira',
     'ar_name' => 'البويرة',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -105,9 +75,6 @@
     'code' => '11',
     'name' => 'Tamanrasset',
     'ar_name' => 'تمنراست',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -115,9 +82,6 @@
     'code' => '12',
     'name' => 'Tbessa',
     'ar_name' => 'تبسة',
-    'created_at' => '2020-03-02 18:25:16',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -125,9 +89,6 @@
     'code' => '13',
     'name' => 'Tlemcen',
     'ar_name' => 'تلمسان',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -135,9 +96,6 @@
     'code' => '14',
     'name' => 'Tiaret',
     'ar_name' => 'تيارت',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -145,9 +103,6 @@
     'code' => '15',
     'name' => 'Tizi ouzou',
     'ar_name' => 'تيزي وزو',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -155,9 +110,6 @@
     'code' => '16',
     'name' => 'Alger',
     'ar_name' => 'الجزائر',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -165,9 +117,6 @@
     'code' => '17',
     'name' => 'Djelfa',
     'ar_name' => 'الجلفة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -175,9 +124,6 @@
     'code' => '18',
     'name' => 'Jijel',
     'ar_name' => 'جيجل',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -185,9 +131,6 @@
     'code' => '19',
     'name' => 'Sétif',
     'ar_name' => 'سطيف',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -195,9 +138,6 @@
     'code' => '20',
     'name' => 'Saefda',
     'ar_name' => 'سعيدة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -205,9 +145,6 @@
     'code' => '21',
     'name' => 'Skikda',
     'ar_name' => 'سكيكدة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -215,9 +152,6 @@
     'code' => '22',
     'name' => 'Sidi bel abbes',
     'ar_name' => 'سيدي بلعباس',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -225,9 +159,6 @@
     'code' => '23',
     'name' => 'Annaba',
     'ar_name' => 'عنابة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -235,9 +166,6 @@
     'code' => '24',
     'name' => 'Guelma',
     'ar_name' => 'قالمة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -245,9 +173,6 @@
     'code' => '25',
     'name' => 'Constantine',
     'ar_name' => 'قسنطينة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -255,9 +180,6 @@
     'code' => '26',
     'name' => 'Medea',
     'ar_name' => 'المدية',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -265,9 +187,6 @@
     'code' => '27',
     'name' => 'Mostaganem',
     'ar_name' => 'مستغانم',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -275,9 +194,6 @@
     'code' => '28',
     'name' => 'M\'sila',
     'ar_name' => 'المسيلة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -285,9 +201,6 @@
     'code' => '29',
     'name' => 'Mascara',
     'ar_name' => 'معسكر',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -295,9 +208,6 @@
     'code' => '30',
     'name' => 'Ouargla',
     'ar_name' => 'ورقلة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -305,9 +215,6 @@
     'code' => '31',
     'name' => 'Oran',
     'ar_name' => 'وهران',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -315,9 +222,6 @@
     'code' => '32',
     'name' => 'El bayadh',
     'ar_name' => 'البيض',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -325,9 +229,6 @@
     'code' => '33',
     'name' => 'Illizi',
     'ar_name' => 'إليزي',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -335,9 +236,6 @@
     'code' => '34',
     'name' => 'Bordj bou arreridj',
     'ar_name' => 'برج بوعريريج',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -345,9 +243,6 @@
     'code' => '35',
     'name' => 'Boumerdes',
     'ar_name' => 'بومرداس',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -355,9 +250,6 @@
     'code' => '36',
     'name' => 'El tarf',
     'ar_name' => 'الطارف',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -365,9 +257,6 @@
     'code' => '37',
     'name' => 'Tindouf',
     'ar_name' => 'تندوف',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -375,9 +264,6 @@
     'code' => '38',
     'name' => 'Tissemsilt',
     'ar_name' => 'تيسمسيلت',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -385,9 +271,6 @@
     'code' => '39',
     'name' => 'El oued',
     'ar_name' => 'الوادي',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -395,9 +278,6 @@
     'code' => '40',
     'name' => 'Khenchela',
     'ar_name' => 'خنشلة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -405,9 +285,6 @@
     'code' => '41',
     'name' => 'Souk ahras',
     'ar_name' => 'سوق أهراس',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -415,9 +292,6 @@
     'code' => '42',
     'name' => 'Tipaza',
     'ar_name' => 'تيبازة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -425,9 +299,6 @@
     'code' => '43',
     'name' => 'Mila',
     'ar_name' => 'ميلة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -435,9 +306,6 @@
     'code' => '44',
     'name' => 'Ain defla',
     'ar_name' => 'عين الدفلى',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -445,9 +313,6 @@
     'code' => '45',
     'name' => 'Naama',
     'ar_name' => 'النعامة',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -455,9 +320,6 @@
     'code' => '46',
     'name' => 'Ain temouchent',
     'ar_name' => 'عين تموشنت',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -465,9 +327,6 @@
     'code' => '47',
     'name' => 'Ghardaïa',
     'ar_name' => 'غرداية',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
    
   array (
@@ -475,8 +334,5 @@
     'code' => '48',
     'name' => 'Relizane',
     'ar_name' => 'غليزان',
-    'created_at' => '2020-03-02 18:25:17',
-    'updated_at' => NULL,
-    'deleted_at' => NULL,
   ),
 );
