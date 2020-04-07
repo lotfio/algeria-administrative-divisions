@@ -1,0 +1,5573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+  <county>
+    <id>1</id>
+    <code>101</code>
+    <name>Adrar</name>
+    <ar_name>أدرار</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>2</id>
+    <code>103</code>
+    <name>Charouine</name>
+    <ar_name>شروين</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>3</id>
+    <code>104</code>
+    <name>Reggane</name>
+    <ar_name>رقان</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>4</id>
+    <code>108</code>
+    <name>Tsabit</name>
+    <ar_name>تسابيت</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>5</id>
+    <code>109</code>
+    <name>Timimoun</name>
+    <ar_name>تيميمون</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>6</id>
+    <code>111</code>
+    <name>Zaouiat kounta</name>
+    <ar_name>زاوية كنتة</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>7</id>
+    <code>112</code>
+    <name>Aoulef</name>
+    <ar_name>أولف</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>8</id>
+    <code>115</code>
+    <name>Fenoughil</name>
+    <ar_name>فنوغيل</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>9</id>
+    <code>116</code>
+    <name>Tinerkouk</name>
+    <ar_name>تنركوك</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>10</id>
+    <code>123</code>
+    <name>Aougrout</name>
+    <ar_name>أوقروت</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>11</id>
+    <code>125</code>
+    <name>Bordj badji mokhtar</name>
+    <ar_name>برج باجي مختار</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>12</id>
+    <code>1090</code>
+    <name>Timimoun (wilaya déléguée)</name>
+    <ar_name>تيميمون (ولاية منتدبة)</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>13</id>
+    <code>1250</code>
+    <name>Bordj badji mokhtar (wilaya déléguée)</name>
+    <ar_name>برج باجي مختار (ولاية منتدبة)</ar_name>
+    <fk_state_code>1</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>14</id>
+    <code>201</code>
+    <name>Chlef</name>
+    <ar_name>الشلف</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>15</id>
+    <code>202</code>
+    <name>Tenes</name>
+    <ar_name>تنس</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>16</id>
+    <code>204</code>
+    <name>El karimia</name>
+    <ar_name>الكريمية</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>17</id>
+    <code>206</code>
+    <name>Taougrit</name>
+    <ar_name>تاوقريت</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>18</id>
+    <code>207</code>
+    <name>Beni haoua</name>
+    <ar_name>بني حواء</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>19</id>
+    <code>210</code>
+    <name>Ouled fares</name>
+    <ar_name>أولاد فارس</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>20</id>
+    <code>212</code>
+    <name>Boukadir</name>
+    <ar_name>بوقادير</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>21</id>
+    <code>220</code>
+    <name>Zeboudja</name>
+    <ar_name>الزبوجة</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>22</id>
+    <code>222</code>
+    <name>Abou el hassane</name>
+    <ar_name>أبو الحسن</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>23</id>
+    <code>223</code>
+    <name>El marsa</name>
+    <ar_name>المرسى</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>24</id>
+    <code>229</code>
+    <name>Oued fodda</name>
+    <ar_name>وادي الفضة</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>25</id>
+    <code>230</code>
+    <name>Ouled ben abdelkader</name>
+    <ar_name>أولاد بن عبد القادر</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>26</id>
+    <code>232</code>
+    <name>Ain merane</name>
+    <ar_name>عين مران</ar_name>
+    <fk_state_code>2</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>27</id>
+    <code>301</code>
+    <name>Laghouat</name>
+    <ar_name>الأغواط</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>28</id>
+    <code>302</code>
+    <name>Ksar el hirane</name>
+    <ar_name>قصر الحيران</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>29</id>
+    <code>304</code>
+    <name>Sidi makhlouf</name>
+    <ar_name>سيدي مخلوف</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>30</id>
+    <code>306</code>
+    <name>Hassi r&apos;mel</name>
+    <ar_name>حاسي الرمل</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>31</id>
+    <code>307</code>
+    <name>Ain madhi</name>
+    <ar_name>عين ماضي</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>32</id>
+    <code>310</code>
+    <name>Gueltat sidi saad</name>
+    <ar_name>قتلة سيدي سعيد</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>33</id>
+    <code>313</code>
+    <name>Brida</name>
+    <ar_name>بريدة</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>34</id>
+    <code>314</code>
+    <name>El ghicha</name>
+    <ar_name>الغيشة</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>35</id>
+    <code>319</code>
+    <name>Aflou</name>
+    <ar_name>أفلو</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>36</id>
+    <code>321</code>
+    <name>Oued morra</name>
+    <ar_name>وادي مرة</ar_name>
+    <fk_state_code>3</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>37</id>
+    <code>401</code>
+    <name>Oum el bouaghi</name>
+    <ar_name>أم البواقي</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>38</id>
+    <code>402</code>
+    <name>Ain beida</name>
+    <ar_name>عين البيضاء</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>39</id>
+    <code>403</code>
+    <name>Ain m&apos;lila</name>
+    <ar_name>عين مليلة</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>40</id>
+    <code>406</code>
+    <name>Sigus</name>
+    <ar_name>سيقوس</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>41</id>
+    <code>408</code>
+    <name>Ain babouche</name>
+    <ar_name>عين ببوش</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>42</id>
+    <code>411</code>
+    <name>Dhalaa</name>
+    <ar_name>الضلعة</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>43</id>
+    <code>412</code>
+    <name>Ain kercha</name>
+    <ar_name>عين كرشة</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>44</id>
+    <code>416</code>
+    <name>F&apos;kirina</name>
+    <ar_name>فكيرينة</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>45</id>
+    <code>417</code>
+    <name>Souk naamane</name>
+    <ar_name>سوق نعمان</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:56</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>46</id>
+    <code>422</code>
+    <name>Ksar sbahi</name>
+    <ar_name>قصر الصباحي</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>47</id>
+    <code>424</code>
+    <name>Meskiana</name>
+    <ar_name>مسكيانة</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>48</id>
+    <code>425</code>
+    <name>Ain fekroun</name>
+    <ar_name>عين فكرون</ar_name>
+    <fk_state_code>4</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>49</id>
+    <code>501</code>
+    <name>Batna</name>
+    <ar_name>باتنة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>50</id>
+    <code>504</code>
+    <name>Merouana</name>
+    <ar_name>مروانة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>51</id>
+    <code>505</code>
+    <name>Seriana</name>
+    <ar_name>سريانة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>52</id>
+    <code>506</code>
+    <name>Menaa</name>
+    <ar_name>منعة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>53</id>
+    <code>507</code>
+    <name>El madher</name>
+    <ar_name>المعذر</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>54</id>
+    <code>508</code>
+    <name>Tazoult</name>
+    <ar_name>تازولت</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>55</id>
+    <code>509</code>
+    <name>N&apos;gaous</name>
+    <ar_name>نقاوس</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>56</id>
+    <code>516</code>
+    <name>Arris</name>
+    <ar_name>أريس</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>57</id>
+    <code>519</code>
+    <name>Ain djasser</name>
+    <ar_name>عين جاسر</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>58</id>
+    <code>529</code>
+    <name>Seggana</name>
+    <ar_name>سقانة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>59</id>
+    <code>530</code>
+    <name>Ichemoul</name>
+    <ar_name>إشمول</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>60</id>
+    <code>535</code>
+    <name>Bouzina</name>
+    <ar_name>بوزينة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>61</id>
+    <code>536</code>
+    <name>Chemora</name>
+    <ar_name>الشمرة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>62</id>
+    <code>542</code>
+    <name>Barika</name>
+    <ar_name>بريكة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>63</id>
+    <code>543</code>
+    <name>Djezzar</name>
+    <ar_name>الجزار</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>64</id>
+    <code>544</code>
+    <name>Tkout</name>
+    <ar_name>تكوت</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>65</id>
+    <code>545</code>
+    <name>Ain touta</name>
+    <ar_name>عين التوتة</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>66</id>
+    <code>547</code>
+    <name>Theniet el abed</name>
+    <ar_name>ثنية العابد</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>67</id>
+    <code>550</code>
+    <name>Timgad</name>
+    <ar_name>تيمقاد</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>68</id>
+    <code>551</code>
+    <name>Ras el aioun</name>
+    <ar_name>رأس العيون</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>69</id>
+    <code>553</code>
+    <name>Ouled si slimane</name>
+    <ar_name>أولاد سي سليمان</ar_name>
+    <fk_state_code>5</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>70</id>
+    <code>601</code>
+    <name>Bejaia</name>
+    <ar_name>بجاية</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>71</id>
+    <code>602</code>
+    <name>Amizour</name>
+    <ar_name>أميزور</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>72</id>
+    <code>607</code>
+    <name>Timezrit</name>
+    <ar_name>تيمزريت</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>73</id>
+    <code>608</code>
+    <name>Souk el tenine</name>
+    <ar_name>سوق الإثنين</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>74</id>
+    <code>611</code>
+    <name>Tichy</name>
+    <ar_name>تيشي</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>75</id>
+    <code>617</code>
+    <name>Ighil ali</name>
+    <ar_name>إغيل علي</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>76</id>
+    <code>620</code>
+    <name>Darguina</name>
+    <ar_name>درقينة</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>77</id>
+    <code>622</code>
+    <name>Aokas</name>
+    <ar_name>أوقاس</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>78</id>
+    <code>624</code>
+    <name>Adekar</name>
+    <ar_name>أدكار</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>79</id>
+    <code>625</code>
+    <name>Akbou</name>
+    <ar_name>أقبو</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>80</id>
+    <code>626</code>
+    <name>Seddouk</name>
+    <ar_name>صدوق</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>81</id>
+    <code>627</code>
+    <name>Tazmalt</name>
+    <ar_name>تازملت</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>82</id>
+    <code>629</code>
+    <name>Chemini</name>
+    <ar_name>شميني</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>83</id>
+    <code>634</code>
+    <name>Barbacha</name>
+    <ar_name>برباشة</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>84</id>
+    <code>636</code>
+    <name>Ifri ouzellaguene</name>
+    <ar_name>إفري أوزلاقن</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>85</id>
+    <code>639</code>
+    <name>Sidi aich</name>
+    <ar_name>سيدي عيش</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>86</id>
+    <code>640</code>
+    <name>El kseur</name>
+    <ar_name>القصر</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>87</id>
+    <code>644</code>
+    <name>Kherrata</name>
+    <ar_name>خراطة</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>88</id>
+    <code>650</code>
+    <name>Beni maouche</name>
+    <ar_name>بني معوش</ar_name>
+    <fk_state_code>6</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>89</id>
+    <code>701</code>
+    <name>Biskra</name>
+    <ar_name>بسكرة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>90</id>
+    <code>705</code>
+    <name>Ouled djellal</name>
+    <ar_name>أولاد جلال</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>91</id>
+    <code>708</code>
+    <name>Sidi khaled</name>
+    <ar_name>سيدي  خالد</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>92</id>
+    <code>711</code>
+    <name>Sidi okba</name>
+    <ar_name>سيدي عقبة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>93</id>
+    <code>712</code>
+    <name>Mechouneche</name>
+    <ar_name>مشونش</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>94</id>
+    <code>715</code>
+    <name>Zeribet el oued</name>
+    <ar_name>زريبة الوادي</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>95</id>
+    <code>717</code>
+    <name>El kantara</name>
+    <ar_name>القنطرة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>96</id>
+    <code>719</code>
+    <name>El outaya</name>
+    <ar_name>الوطاية</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>97</id>
+    <code>720</code>
+    <name>Djemorah</name>
+    <ar_name>جمورة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>98</id>
+    <code>721</code>
+    <name>Tolga</name>
+    <ar_name>طولقة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>99</id>
+    <code>724</code>
+    <name>Ourlal</name>
+    <ar_name>أورلال</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>100</id>
+    <code>726</code>
+    <name>Foughala</name>
+    <ar_name>فوغالة</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>101</id>
+    <code>7050</code>
+    <name>Ouled djellal (wilaya déléguée)</name>
+    <ar_name>أولاد جلال (ولاية منتدبة)</ar_name>
+    <fk_state_code>7</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>102</id>
+    <code>801</code>
+    <name>Bechar</name>
+    <ar_name>بشار</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>103</id>
+    <code>803</code>
+    <name>Ouled khodeir</name>
+    <ar_name>أولاد خضير</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>104</id>
+    <code>806</code>
+    <name>Lahmar</name>
+    <ar_name>لحمر</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>105</id>
+    <code>807</code>
+    <name>Beni abbes</name>
+    <ar_name>بني عباس</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>106</id>
+    <code>810</code>
+    <name>Kenadsa</name>
+    <ar_name>القنادسة</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>107</id>
+    <code>811</code>
+    <name>Igli</name>
+    <ar_name>إقلي</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>108</id>
+    <code>812</code>
+    <name>Tabelbala</name>
+    <ar_name>تبلبالة</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>109</id>
+    <code>813</code>
+    <name>Taghit</name>
+    <ar_name>تاغيت</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>110</id>
+    <code>814</code>
+    <name>El ouata</name>
+    <ar_name>الواتة</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>111</id>
+    <code>817</code>
+    <name>Abadla</name>
+    <ar_name>العبادلة</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>112</id>
+    <code>818</code>
+    <name>Kerzaz</name>
+    <ar_name>كرزاز</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>113</id>
+    <code>821</code>
+    <name>Beni ounif</name>
+    <ar_name>بني ونيف</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>114</id>
+    <code>8070</code>
+    <name>Beni abbes (wilaya déléguée)</name>
+    <ar_name>بني عباس (ولاية منتدبة)</ar_name>
+    <fk_state_code>8</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>115</id>
+    <code>901</code>
+    <name>Blida</name>
+    <ar_name>البليدة</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>116</id>
+    <code>903</code>
+    <name>Bouinan</name>
+    <ar_name>بوعينان</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>117</id>
+    <code>904</code>
+    <name>Oued el alleug</name>
+    <ar_name>وادي العلايق</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:57</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>118</id>
+    <code>905</code>
+    <name>Ouled yaich</name>
+    <ar_name>أولاد يعيش</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>119</id>
+    <code>907</code>
+    <name>El affroun</name>
+    <ar_name>العفرون</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>120</id>
+    <code>912</code>
+    <name>Mouzaia</name>
+    <ar_name>موزاية</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>121</id>
+    <code>914</code>
+    <name>Meftah</name>
+    <ar_name>مفتاح</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>122</id>
+    <code>916</code>
+    <name>Boufarik</name>
+    <ar_name>بوفاريك</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>123</id>
+    <code>917</code>
+    <name>Larbaa</name>
+    <ar_name>الأربعاء</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>124</id>
+    <code>922</code>
+    <name>Bougara</name>
+    <ar_name>بوقرة</ar_name>
+    <fk_state_code>9</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>125</id>
+    <code>1001</code>
+    <name>Bouira</name>
+    <ar_name>البويرة</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>126</id>
+    <code>1004</code>
+    <name>Souk el khemis</name>
+    <ar_name>سوق الخميس</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>127</id>
+    <code>1005</code>
+    <name>Kadiria</name>
+    <ar_name>القادرية</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>128</id>
+    <code>1012</code>
+    <name>Haizer</name>
+    <ar_name>الحيزر</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>129</id>
+    <code>1013</code>
+    <name>Lakhdaria</name>
+    <ar_name>الأخضرية</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>130</id>
+    <code>1015</code>
+    <name>El hachimia</name>
+    <ar_name>الهاشمية</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>131</id>
+    <code>1018</code>
+    <name>Bordj okhriss</name>
+    <ar_name>برج أوخريص</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>132</id>
+    <code>1033</code>
+    <name>Bechloul</name>
+    <ar_name>بشلول</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>133</id>
+    <code>1035</code>
+    <name>Ain bessem</name>
+    <ar_name>عين بسام</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>134</id>
+    <code>1036</code>
+    <name>Bir ghbalou</name>
+    <ar_name>بئر غبالو</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>135</id>
+    <code>1037</code>
+    <name>M&apos;chedallah</name>
+    <ar_name>مشد الله</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>136</id>
+    <code>1038</code>
+    <name>Sour el ghozlane</name>
+    <ar_name>سور الغزلان</ar_name>
+    <fk_state_code>10</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>137</id>
+    <code>1101</code>
+    <name>Tamanrasset</name>
+    <ar_name>تمنراست</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>138</id>
+    <code>1102</code>
+    <name>Silet</name>
+    <ar_name>سيلت</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>139</id>
+    <code>1103</code>
+    <name>Ain ghar</name>
+    <ar_name>إينغر</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>140</id>
+    <code>1104</code>
+    <name>Ain guezzam</name>
+    <ar_name>عين قزام</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>141</id>
+    <code>1104</code>
+    <name>Ain guezzam (wilaya déléguée)</name>
+    <ar_name>عين قزام (ولاية منتدبة)</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>142</id>
+    <code>1106</code>
+    <name>Tazrouk</name>
+    <ar_name>تاظروك</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>143</id>
+    <code>1107</code>
+    <name>Tin zouatine</name>
+    <ar_name>تين زواتين</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>144</id>
+    <code>1108</code>
+    <name>Ain salah</name>
+    <ar_name>عين صالح</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>145</id>
+    <code>1108</code>
+    <name>Ain salah (wilaya déléguée)</name>
+    <ar_name>عين صالح (ولاية منتدبة)</ar_name>
+    <fk_state_code>11</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>146</id>
+    <code>1201</code>
+    <name>Tebessa</name>
+    <ar_name>تبسة</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>147</id>
+    <code>1202</code>
+    <name>Bir el ater</name>
+    <ar_name>بئر العاتر</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>148</id>
+    <code>1203</code>
+    <name>Cheria</name>
+    <ar_name>الشريعة</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>149</id>
+    <code>1205</code>
+    <name>El aouinet</name>
+    <ar_name>العوينات</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>150</id>
+    <code>1209</code>
+    <name>Negrine</name>
+    <ar_name>نقرين</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>151</id>
+    <code>1210</code>
+    <name>Bir mokadem</name>
+    <ar_name>بئر مقدم</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>152</id>
+    <code>1211</code>
+    <name>El kouif</name>
+    <ar_name>الكويف</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>153</id>
+    <code>1212</code>
+    <name>Morsott</name>
+    <ar_name>مرسط</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>154</id>
+    <code>1213</code>
+    <name>El ogla</name>
+    <ar_name>العقلة</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>155</id>
+    <code>1219</code>
+    <name>Ouenza</name>
+    <ar_name>الونزة</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>156</id>
+    <code>1220</code>
+    <name>El malabiod</name>
+    <ar_name>الماء الابيض</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>157</id>
+    <code>1221</code>
+    <name>Oum ali</name>
+    <ar_name>أم علي</ar_name>
+    <fk_state_code>12</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>158</id>
+    <code>1301</code>
+    <name>Tlemcen</name>
+    <ar_name>تلمسان</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>159</id>
+    <code>1303</code>
+    <name>Ain tellout</name>
+    <ar_name>عين تالوت</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>160</id>
+    <code>1304</code>
+    <name>Remchi</name>
+    <ar_name>الرمشي</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>161</id>
+    <code>1306</code>
+    <name>Sabra</name>
+    <ar_name>صبرة</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>162</id>
+    <code>1307</code>
+    <name>Ghazaouet</name>
+    <ar_name>الغزوات</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>163</id>
+    <code>1313</code>
+    <name>Ouled mimoun</name>
+    <ar_name>أولاد ميمون</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>164</id>
+    <code>1317</code>
+    <name>Beni snous</name>
+    <ar_name>بني سنوس</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>165</id>
+    <code>1318</code>
+    <name>Bab el assa</name>
+    <ar_name>باب العسة</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>166</id>
+    <code>1320</code>
+    <name>Fellaoucene</name>
+    <ar_name>فلاوسن</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>167</id>
+    <code>1324</code>
+    <name>Bensekrane</name>
+    <ar_name>بن سكران</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>168</id>
+    <code>1326</code>
+    <name>Hennaya</name>
+    <ar_name>الحناية</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>169</id>
+    <code>1327</code>
+    <name>Maghnia</name>
+    <ar_name>مغنية</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>170</id>
+    <code>1335</code>
+    <name>Sebdou</name>
+    <ar_name>سبدو</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>171</id>
+    <code>1338</code>
+    <name>Beni boussaid</name>
+    <ar_name>بني بوسعيد</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>172</id>
+    <code>1339</code>
+    <name>Marsa ben mehdi</name>
+    <ar_name>مرسى بن مهيدي</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>173</id>
+    <code>1340</code>
+    <name>Nedroma</name>
+    <ar_name>ندرومة</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>174</id>
+    <code>1341</code>
+    <name>Sidi djillali</name>
+    <ar_name>سيدي الجيلالي</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>175</id>
+    <code>1344</code>
+    <name>Honnaine</name>
+    <ar_name>هنين</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>176</id>
+    <code>1350</code>
+    <name>Chetouane</name>
+    <ar_name>شتوان</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>177</id>
+    <code>1351</code>
+    <name>Mansourah</name>
+    <ar_name>منصورة</ar_name>
+    <fk_state_code>13</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>178</id>
+    <code>1401</code>
+    <name>Tiaret</name>
+    <ar_name>تيارت</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>179</id>
+    <code>1402</code>
+    <name>Medroussa</name>
+    <ar_name>مدروسة</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>180</id>
+    <code>1406</code>
+    <name>Ain deheb</name>
+    <ar_name>عين الذهب</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>181</id>
+    <code>1413</code>
+    <name>Dahmouni</name>
+    <ar_name>دحموني</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>182</id>
+    <code>1414</code>
+    <name>Rahouia</name>
+    <ar_name>رحوية</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>183</id>
+    <code>1415</code>
+    <name>Mahdia</name>
+    <ar_name>مهدية</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>184</id>
+    <code>1416</code>
+    <name>Sougueur</name>
+    <ar_name>السوقر</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>185</id>
+    <code>1421</code>
+    <name>Meghila</name>
+    <ar_name>مغيلة</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>186</id>
+    <code>1427</code>
+    <name>Frenda</name>
+    <ar_name>فرندة</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>187</id>
+    <code>1428</code>
+    <name>Ain kermes</name>
+    <ar_name>عين كرمس</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>188</id>
+    <code>1429</code>
+    <name>Ksar chellala</name>
+    <ar_name>قصر الشلالة</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>189</id>
+    <code>1433</code>
+    <name>Oued lili</name>
+    <ar_name>وادي ليلي</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>190</id>
+    <code>1434</code>
+    <name>Mechraa sfa</name>
+    <ar_name>مشرع الصفا</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:58</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>191</id>
+    <code>1435</code>
+    <name>Hamadia</name>
+    <ar_name>حمادية</ar_name>
+    <fk_state_code>14</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>192</id>
+    <code>1501</code>
+    <name>Tizi ouzou</name>
+    <ar_name>تيزي وزو</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>193</id>
+    <code>1502</code>
+    <name>Ain el hammam</name>
+    <ar_name>عين الحمام</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>194</id>
+    <code>1509</code>
+    <name>Makouda</name>
+    <ar_name>ماكودة</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>195</id>
+    <code>1510</code>
+    <name>Draa el mizan</name>
+    <ar_name>ذراع الميزان</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>196</id>
+    <code>1511</code>
+    <name>Tizi-ghenif</name>
+    <ar_name>تيزي غنيف</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>197</id>
+    <code>1517</code>
+    <name>Iferhounene</name>
+    <ar_name>إفرحونان</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>198</id>
+    <code>1518</code>
+    <name>Azazga</name>
+    <ar_name>عزازقة</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>199</id>
+    <code>1521</code>
+    <name>Larbaa nath iraten</name>
+    <ar_name>الأربعاء ناث إيراثن</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>200</id>
+    <code>1522</code>
+    <name>Tizi rached</name>
+    <ar_name>تيزي راشد</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>201</id>
+    <code>1524</code>
+    <name>Ouaguenoun</name>
+    <ar_name>واقنون</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>202</id>
+    <code>1529</code>
+    <name>Maatkas</name>
+    <ar_name>معاتقة</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>203</id>
+    <code>1532</code>
+    <name>Beni douala</name>
+    <ar_name>بني دوالة</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>204</id>
+    <code>1534</code>
+    <name>Bouzeguene</name>
+    <ar_name>بوزقن</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>205</id>
+    <code>1536</code>
+    <name>Ouadhias</name>
+    <ar_name>واضية</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>206</id>
+    <code>1537</code>
+    <name>Azeffoun</name>
+    <ar_name>أزفون</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>207</id>
+    <code>1538</code>
+    <name>Tigzirt</name>
+    <ar_name>تيقزيرت</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>208</id>
+    <code>1540</code>
+    <name>Boghni</name>
+    <ar_name>بوغني</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>209</id>
+    <code>1547</code>
+    <name>Draa ben khedda</name>
+    <ar_name>ذراع بن خدة</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>210</id>
+    <code>1548</code>
+    <name>Ouacif</name>
+    <ar_name>واسيف</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>211</id>
+    <code>1550</code>
+    <name>Mekla</name>
+    <ar_name>مقلع</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>212</id>
+    <code>1552</code>
+    <name>Benni yenni</name>
+    <ar_name>بني يني</ar_name>
+    <fk_state_code>15</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>213</id>
+    <code>1602</code>
+    <name>Sidi m&apos;hamed</name>
+    <ar_name>سيدي امحمد</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>214</id>
+    <code>1605</code>
+    <name>Bab el oued</name>
+    <ar_name>باب الوادي</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>215</id>
+    <code>1609</code>
+    <name>Bir mourad rais</name>
+    <ar_name>بئر مراد رايس</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>216</id>
+    <code>1611</code>
+    <name>Bouzareah</name>
+    <ar_name>بوزريعة</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>217</id>
+    <code>1613</code>
+    <name>El harrach</name>
+    <ar_name>الحراش</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>218</id>
+    <code>1614</code>
+    <name>Baraki</name>
+    <ar_name>براقي</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>219</id>
+    <code>1617</code>
+    <name>Hussein dey</name>
+    <ar_name>حسين داي</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>220</id>
+    <code>1620</code>
+    <name>Dar el beida</name>
+    <ar_name>الدار البيضاء</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>221</id>
+    <code>1636</code>
+    <name>Birtouta</name>
+    <ar_name>بئر توتة</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>222</id>
+    <code>1638</code>
+    <name>Rouiba</name>
+    <ar_name>الرويبة</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>223</id>
+    <code>1644</code>
+    <name>Zeralda</name>
+    <ar_name>زرالدة</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>224</id>
+    <code>1649</code>
+    <name>Draria</name>
+    <ar_name>الدرارية</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>225</id>
+    <code>1652</code>
+    <name>Cheraga</name>
+    <ar_name>الشراقة</ar_name>
+    <fk_state_code>16</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>226</id>
+    <code>1701</code>
+    <name>Djelfa</name>
+    <ar_name>الجلفة</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>227</id>
+    <code>1704</code>
+    <name>Hassi bahbah</name>
+    <ar_name>حاسي بحبح</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>228</id>
+    <code>1707</code>
+    <name>Faidh el botma</name>
+    <ar_name>فيض البطمة</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>229</id>
+    <code>1708</code>
+    <name>Birine</name>
+    <ar_name>بيرين</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>230</id>
+    <code>1714</code>
+    <name>El idrissia</name>
+    <ar_name>الادريسية</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>231</id>
+    <code>1717</code>
+    <name>Messaad</name>
+    <ar_name>مسعد</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>232</id>
+    <code>1719</code>
+    <name>Sidi laadjel</name>
+    <ar_name>سيدي لعجال</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>233</id>
+    <code>1720</code>
+    <name>Had sahary</name>
+    <ar_name>حد الصحاري</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>234</id>
+    <code>1725</code>
+    <name>Dar chioukh</name>
+    <ar_name>دار الشيوخ</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>235</id>
+    <code>1726</code>
+    <name>Charef</name>
+    <ar_name>الشارف</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>236</id>
+    <code>1730</code>
+    <name>Ain el ibel</name>
+    <ar_name>عين الإبل</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>237</id>
+    <code>1731</code>
+    <name>Ain oussera</name>
+    <ar_name>عين وسارة</ar_name>
+    <fk_state_code>17</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>238</id>
+    <code>1801</code>
+    <name>Jijel</name>
+    <ar_name>جيجل</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>239</id>
+    <code>1803</code>
+    <name>El aouana</name>
+    <ar_name>العوانة</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>240</id>
+    <code>1804</code>
+    <name>Ziamah mansouriah</name>
+    <ar_name>زيامة منصورية</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>241</id>
+    <code>1805</code>
+    <name>Taher</name>
+    <ar_name>الطاهير</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>242</id>
+    <code>1807</code>
+    <name>Chekfa</name>
+    <ar_name>الشقفة</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>243</id>
+    <code>1809</code>
+    <name>El milia</name>
+    <ar_name>الميلية</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>244</id>
+    <code>1810</code>
+    <name>Sidi marouf</name>
+    <ar_name>سيدي معروف</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:25:59</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>245</id>
+    <code>1811</code>
+    <name>Settara</name>
+    <ar_name>السطارة</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>246</id>
+    <code>1812</code>
+    <name>El ancer</name>
+    <ar_name>العنصر</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>247</id>
+    <code>1817</code>
+    <name>Djimla</name>
+    <ar_name>جيملة</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>248</id>
+    <code>1824</code>
+    <name>Texenna</name>
+    <ar_name>تاكسنة</ar_name>
+    <fk_state_code>18</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>249</id>
+    <code>1901</code>
+    <name>Setif</name>
+    <ar_name>سطيف</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>250</id>
+    <code>1902</code>
+    <name>Ain el kebira</name>
+    <ar_name>عين الكبيرة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>251</id>
+    <code>1903</code>
+    <name>Beni aziz</name>
+    <ar_name>بني عزيز</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>252</id>
+    <code>1908</code>
+    <name>Bir el arch</name>
+    <ar_name>بئر العرش</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>253</id>
+    <code>1916</code>
+    <name>Babor</name>
+    <ar_name>بابور</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>254</id>
+    <code>1917</code>
+    <name>Guidjel</name>
+    <ar_name>قجال</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>255</id>
+    <code>1920</code>
+    <name>El eulma</name>
+    <ar_name>العلمة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>256</id>
+    <code>1921</code>
+    <name>Djemila</name>
+    <ar_name>جميلة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>257</id>
+    <code>1922</code>
+    <name>Beni ourtilane</name>
+    <ar_name>بني ورتيلان</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>258</id>
+    <code>1926</code>
+    <name>Ain arnat</name>
+    <ar_name>عين أرنات</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>259</id>
+    <code>1927</code>
+    <name>Amoucha</name>
+    <ar_name>عموشة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>260</id>
+    <code>1928</code>
+    <name>Ain oulmene</name>
+    <ar_name>عين ولمان</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>261</id>
+    <code>1930</code>
+    <name>Bouandas</name>
+    <ar_name>بوعنداس</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>262</id>
+    <code>1932</code>
+    <name>Hammam sokhna</name>
+    <ar_name>حمام السخنة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>263</id>
+    <code>1939</code>
+    <name>Salah bey</name>
+    <ar_name>صالح باي</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>264</id>
+    <code>1940</code>
+    <name>Ain azel</name>
+    <ar_name>عين أزال</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>265</id>
+    <code>1941</code>
+    <name>Guenzet</name>
+    <ar_name>قنزات</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>266</id>
+    <code>1943</code>
+    <name>Bougaa</name>
+    <ar_name>بوقاعة</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>267</id>
+    <code>1950</code>
+    <name>Hammam guergour</name>
+    <ar_name>حمام قرقور</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>268</id>
+    <code>1955</code>
+    <name>Maoklane</name>
+    <ar_name>ماوكلان</ar_name>
+    <fk_state_code>19</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>269</id>
+    <code>2001</code>
+    <name>Saida</name>
+    <ar_name>سعيدة</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>270</id>
+    <code>2003</code>
+    <name>Ain el hadjar</name>
+    <ar_name>عين الحجر</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>271</id>
+    <code>2006</code>
+    <name>Youb</name>
+    <ar_name>يوب</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>272</id>
+    <code>2009</code>
+    <name>Sidi boubekeur</name>
+    <ar_name>سيدي بوبكر</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>273</id>
+    <code>2010</code>
+    <name>El hassasna</name>
+    <ar_name>الحساسنة</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>274</id>
+    <code>2014</code>
+    <name>Ouled brahim</name>
+    <ar_name>أولاد ابراهيم</ar_name>
+    <fk_state_code>20</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>275</id>
+    <code>2101</code>
+    <name>Skikda</name>
+    <ar_name>سكيكدة</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>276</id>
+    <code>2103</code>
+    <name>El hadaiek</name>
+    <ar_name>الحدائق</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>277</id>
+    <code>2104</code>
+    <name>Azzaba</name>
+    <ar_name>عزابة</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>278</id>
+    <code>2108</code>
+    <name>Ben azzouz</name>
+    <ar_name>بن عزوز</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>279</id>
+    <code>2110</code>
+    <name>Collo</name>
+    <ar_name>القل</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>280</id>
+    <code>2113</code>
+    <name>Ouled attia</name>
+    <ar_name>أولاد عطية</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>281</id>
+    <code>2115</code>
+    <name>Zitouna</name>
+    <ar_name>الزيتونة</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>282</id>
+    <code>2116</code>
+    <name>El harrouch</name>
+    <ar_name>الحروش</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>283</id>
+    <code>2119</code>
+    <name>Sidi mezghiche</name>
+    <ar_name>سيدي مزغيش</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>284</id>
+    <code>2123</code>
+    <name>Ramdane djamel</name>
+    <ar_name>رمضان جمال</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>285</id>
+    <code>2126</code>
+    <name>Tamalous</name>
+    <ar_name>تمالوس</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>286</id>
+    <code>2127</code>
+    <name>Ain kechra</name>
+    <ar_name>عين قشرة</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>287</id>
+    <code>2128</code>
+    <name>Oum toub</name>
+    <ar_name>أم الطوب</ar_name>
+    <fk_state_code>21</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>288</id>
+    <code>2201</code>
+    <name>Sidi bel abbes</name>
+    <ar_name>سيدي بلعباس</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>289</id>
+    <code>2202</code>
+    <name>Tessala</name>
+    <ar_name>تسالة</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>290</id>
+    <code>2204</code>
+    <name>Mostefa  ben brahim</name>
+    <ar_name>مصطفى بن ابراهيم</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>291</id>
+    <code>2205</code>
+    <name>Telagh</name>
+    <ar_name>تلاغ</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>292</id>
+    <code>2208</code>
+    <name>Sidi ali boussidi</name>
+    <ar_name>سيدي علي بوسيدي</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>293</id>
+    <code>2210</code>
+    <name>Marhoum</name>
+    <ar_name>مرحوم</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>294</id>
+    <code>2214</code>
+    <name>Sidi lahcene</name>
+    <ar_name>سيدي لحسن</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>295</id>
+    <code>2217</code>
+    <name>Tenira</name>
+    <ar_name>تنيرة</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>296</id>
+    <code>2218</code>
+    <name>Moulay slissen</name>
+    <ar_name>مولاي سليسن</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>297</id>
+    <code>2222</code>
+    <name>Merine</name>
+    <ar_name>مرين</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>298</id>
+    <code>2223</code>
+    <name>Ras el ma</name>
+    <ar_name>راس الماء</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>299</id>
+    <code>2228</code>
+    <name>Ain el berd</name>
+    <ar_name>عين البرد</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>300</id>
+    <code>2229</code>
+    <name>Sfisef</name>
+    <ar_name>سفيزف</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>301</id>
+    <code>2245</code>
+    <name>Ben badis</name>
+    <ar_name>بن باديس</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>302</id>
+    <code>2246</code>
+    <name>Sidi ali ben youb</name>
+    <ar_name>سيدي علي بن يوب</ar_name>
+    <fk_state_code>22</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>303</id>
+    <code>2301</code>
+    <name>Annaba</name>
+    <ar_name>عنابة</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>304</id>
+    <code>2302</code>
+    <name>Berrahal</name>
+    <ar_name>برحال</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>305</id>
+    <code>2303</code>
+    <name>El hadjar</name>
+    <ar_name>الحجار</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>306</id>
+    <code>2305</code>
+    <name>El bouni</name>
+    <ar_name>البوني</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>307</id>
+    <code>2309</code>
+    <name>Ain el berda</name>
+    <ar_name>عين الباردة</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>308</id>
+    <code>2310</code>
+    <name>Chetaibi</name>
+    <ar_name>شطايبي</ar_name>
+    <fk_state_code>23</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>309</id>
+    <code>2401</code>
+    <name>Guelma</name>
+    <ar_name>قالمة</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>310</id>
+    <code>2404</code>
+    <name>Oued zenati</name>
+    <ar_name>وادي الزناتي</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>311</id>
+    <code>2413</code>
+    <name>Ain makhlouf</name>
+    <ar_name>عين مخلوف</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>312</id>
+    <code>2415</code>
+    <name>Khezaras</name>
+    <ar_name>خزارة</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>313</id>
+    <code>2418</code>
+    <name>Guelaat bousbaa</name>
+    <ar_name>قلعة بوصبع</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>314</id>
+    <code>2419</code>
+    <name>Hammam debagh</name>
+    <ar_name>حمام دباغ</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>315</id>
+    <code>2422</code>
+    <name>Hammam n&apos;bails</name>
+    <ar_name>حمام النبايل</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>316</id>
+    <code>2425</code>
+    <name>Bouchegouf</name>
+    <ar_name>بوشقوف</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>317</id>
+    <code>2426</code>
+    <name>Heliopolis</name>
+    <ar_name>هيليوبوليس</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:00</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>318</id>
+    <code>2427</code>
+    <name>Ain hessainia</name>
+    <ar_name>عين حساينية</ar_name>
+    <fk_state_code>24</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>319</id>
+    <code>2501</code>
+    <name>Constantine</name>
+    <ar_name>قسنطينة</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>320</id>
+    <code>2502</code>
+    <name>Hamma bouziane</name>
+    <ar_name>حامة بوزيان</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>321</id>
+    <code>2504</code>
+    <name>Zighoud youcef</name>
+    <ar_name>زيغود يوسف</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>322</id>
+    <code>2506</code>
+    <name>El khroub</name>
+    <ar_name>الخروب</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>323</id>
+    <code>2507</code>
+    <name>Ain abid</name>
+    <ar_name>عين عبيد</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>324</id>
+    <code>2512</code>
+    <name>Ibn ziad</name>
+    <ar_name>ابن زياد</ar_name>
+    <fk_state_code>25</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>325</id>
+    <code>2601</code>
+    <name>Medea</name>
+    <ar_name>المدية</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>326</id>
+    <code>2602</code>
+    <name>Ouzera</name>
+    <ar_name>وزرة</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>327</id>
+    <code>2604</code>
+    <name>Ain boucif</name>
+    <ar_name>عين بوسيف</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>328</id>
+    <code>2607</code>
+    <name>El omaria</name>
+    <ar_name>العمارية</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>329</id>
+    <code>2609</code>
+    <name>Guelb el kebir</name>
+    <ar_name>القلب الكبير</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>330</id>
+    <code>2618</code>
+    <name>Chellalat el adhaoura</name>
+    <ar_name>شلالة العذاورة</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>331</id>
+    <code>2626</code>
+    <name>Sidi naamane</name>
+    <ar_name>سيدي نعمان</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>332</id>
+    <code>2632</code>
+    <name>Aziz</name>
+    <ar_name>عزيز</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>333</id>
+    <code>2633</code>
+    <name>Souaghi</name>
+    <ar_name>السواقي</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>334</id>
+    <code>2635</code>
+    <name>Ksar el boukhari</name>
+    <ar_name>قصر البخاري</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>335</id>
+    <code>2636</code>
+    <name>El azizia</name>
+    <ar_name>العزيزية</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>336</id>
+    <code>2638</code>
+    <name>Chahbounia</name>
+    <ar_name>الشهبونية</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>337</id>
+    <code>2643</code>
+    <name>Ouamri</name>
+    <ar_name>عوامري</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>338</id>
+    <code>2644</code>
+    <name>Si mahdjoub</name>
+    <ar_name>سي المحجوب</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>339</id>
+    <code>2646</code>
+    <name>Beni slimane</name>
+    <ar_name>بني سليمان</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>340</id>
+    <code>2647</code>
+    <name>Berrouaghia</name>
+    <ar_name>البرواقية</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>341</id>
+    <code>2648</code>
+    <name>Seghouane</name>
+    <ar_name>سغوان</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>342</id>
+    <code>2652</code>
+    <name>Tablat</name>
+    <ar_name>تابلاط</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>343</id>
+    <code>2658</code>
+    <name>Ouled antar</name>
+    <ar_name>أولاد عنتر</ar_name>
+    <fk_state_code>26</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>344</id>
+    <code>2701</code>
+    <name>Mostaganem</name>
+    <ar_name>مستغانم</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>345</id>
+    <code>2705</code>
+    <name>Ain nouicy</name>
+    <ar_name>عين نويسي</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>346</id>
+    <code>2706</code>
+    <name>Hassi mameche</name>
+    <ar_name>حاسي ماماش</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>347</id>
+    <code>2707</code>
+    <name>Ain tedeles</name>
+    <ar_name>عين تادلس</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>348</id>
+    <code>2711</code>
+    <name>Kheir eddine</name>
+    <ar_name>خير الدين</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>349</id>
+    <code>2712</code>
+    <name>Sidi ali</name>
+    <ar_name>سيدي علي</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>350</id>
+    <code>2716</code>
+    <name>Sidi lakhdar</name>
+    <ar_name>سيدي لخضر</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>351</id>
+    <code>2717</code>
+    <name>Achaacha</name>
+    <ar_name>عشعاشة</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>352</id>
+    <code>2719</code>
+    <name>Bouguirat</name>
+    <ar_name>بوقيراط</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>353</id>
+    <code>2722</code>
+    <name>Mesra</name>
+    <ar_name>ماسرة</ar_name>
+    <fk_state_code>27</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>354</id>
+    <code>2801</code>
+    <name>M&apos;sila</name>
+    <ar_name>المسيلة</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>355</id>
+    <code>2803</code>
+    <name>Hammam dalaa</name>
+    <ar_name>حمام الضلعة</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>356</id>
+    <code>2804</code>
+    <name>Ouled derradj</name>
+    <ar_name>أولاد دراج</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>357</id>
+    <code>2807</code>
+    <name>Khoubana</name>
+    <ar_name>خبانة</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>358</id>
+    <code>2809</code>
+    <name>Chellal</name>
+    <ar_name>شلال</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>359</id>
+    <code>2811</code>
+    <name>Magra</name>
+    <ar_name>مقرة</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>360</id>
+    <code>2816</code>
+    <name>Sidi aissa</name>
+    <ar_name>سيدي عيسى</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>361</id>
+    <code>2817</code>
+    <name>Ain el hadjel</name>
+    <ar_name>عين الحجل</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>362</id>
+    <code>2820</code>
+    <name>Bousaada</name>
+    <ar_name>بوسعادة</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>363</id>
+    <code>2821</code>
+    <name>Ouled sidi brahim</name>
+    <ar_name>أولاد سيدي ابراهيم</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>364</id>
+    <code>2822</code>
+    <name>Sidi ameur</name>
+    <ar_name>سيدي عامر</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>365</id>
+    <code>2824</code>
+    <name>Ben srour</name>
+    <ar_name>بن سرور</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>366</id>
+    <code>2841</code>
+    <name>Ain el melh</name>
+    <ar_name>عين الملح</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>367</id>
+    <code>2842</code>
+    <name>Medjedel</name>
+    <ar_name>امجدل</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>368</id>
+    <code>2847</code>
+    <name>Djebel messaad</name>
+    <ar_name>جبل مساعد</ar_name>
+    <fk_state_code>28</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>369</id>
+    <code>2901</code>
+    <name>Mascara</name>
+    <ar_name>معسكر</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>370</id>
+    <code>2902</code>
+    <name>Bouhanifia</name>
+    <ar_name>بوحنيفية</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>371</id>
+    <code>2903</code>
+    <name>Tizi</name>
+    <ar_name>تيزي</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>372</id>
+    <code>2906</code>
+    <name>Tighennif</name>
+    <ar_name>تيغنيف</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>373</id>
+    <code>2907</code>
+    <name>Hachem</name>
+    <ar_name>الحشم</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>374</id>
+    <code>2910</code>
+    <name>Oued el abtal</name>
+    <ar_name>وادي الأبطال</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>375</id>
+    <code>2912</code>
+    <name>Ghriss</name>
+    <ar_name>غريس</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>376</id>
+    <code>2917</code>
+    <name>El bordj</name>
+    <ar_name>البرج</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>377</id>
+    <code>2918</code>
+    <name>Ain fekan</name>
+    <ar_name>عين فكان</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>378</id>
+    <code>2922</code>
+    <name>Oued taria</name>
+    <ar_name>وادي التاغية</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>379</id>
+    <code>2923</code>
+    <name>Aouf</name>
+    <ar_name>عوف</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>380</id>
+    <code>2924</code>
+    <name>Ain fares</name>
+    <ar_name>عين فارس</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>381</id>
+    <code>2926</code>
+    <name>Sig</name>
+    <ar_name>سيق</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>382</id>
+    <code>2927</code>
+    <name>Oggaz</name>
+    <ar_name>عقاز</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>383</id>
+    <code>2930</code>
+    <name>Zahana</name>
+    <ar_name>زهانة</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:01</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>384</id>
+    <code>2931</code>
+    <name>Mohammadia</name>
+    <ar_name>المحمدية</ar_name>
+    <fk_state_code>29</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>385</id>
+    <code>3001</code>
+    <name>Ouargla</name>
+    <ar_name>ورقلة</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>386</id>
+    <code>3003</code>
+    <name>N&apos;goussa</name>
+    <ar_name>انقوسة</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>387</id>
+    <code>3004</code>
+    <name>Hassi messaoud</name>
+    <ar_name>حاسي مسعود</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>388</id>
+    <code>3011</code>
+    <name>Sidi khouiled</name>
+    <ar_name>سيدي خويلد</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>389</id>
+    <code>3013</code>
+    <name>Touggourt (wilaya déléguée)</name>
+    <ar_name>تقرت</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>390</id>
+    <code>3013</code>
+    <name>Touggourt</name>
+    <ar_name>تقرت (ولاية منتدبة)</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>391</id>
+    <code>3014</code>
+    <name>El-hadjira</name>
+    <ar_name>الحجيرة</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>392</id>
+    <code>3015</code>
+    <name>Taibet</name>
+    <ar_name>الطيبات</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>393</id>
+    <code>3016</code>
+    <name>Temacine</name>
+    <ar_name>تماسين</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>394</id>
+    <code>3019</code>
+    <name>Megarine</name>
+    <ar_name>المقارين</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>395</id>
+    <code>3021</code>
+    <name>El borma</name>
+    <ar_name>البرمة</ar_name>
+    <fk_state_code>30</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>396</id>
+    <code>3101</code>
+    <name>Oran</name>
+    <ar_name>وهران</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>397</id>
+    <code>3102</code>
+    <name>Gdyel</name>
+    <ar_name>قديل</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>398</id>
+    <code>3103</code>
+    <name>Bir el djir</name>
+    <ar_name>بئر الجير</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>399</id>
+    <code>3105</code>
+    <name>Es senia</name>
+    <ar_name>السانية</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>400</id>
+    <code>3106</code>
+    <name>Arzew</name>
+    <ar_name>أرزيو</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>401</id>
+    <code>3107</code>
+    <name>Bethioua</name>
+    <ar_name>بطيوة</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>402</id>
+    <code>3109</code>
+    <name>Ain turk</name>
+    <ar_name>عين الترك</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>403</id>
+    <code>3111</code>
+    <name>Oued tlelat</name>
+    <ar_name>وادي تليلات</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>404</id>
+    <code>3124</code>
+    <name>Boutlelis</name>
+    <ar_name>بوتليليس</ar_name>
+    <fk_state_code>31</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>405</id>
+    <code>3201</code>
+    <name>El bayadh</name>
+    <ar_name>البيض</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>406</id>
+    <code>3202</code>
+    <name>Rogassa</name>
+    <ar_name>رقاصة</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>407</id>
+    <code>3203</code>
+    <name>Brezina</name>
+    <ar_name>بريزينة</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>408</id>
+    <code>3204</code>
+    <name>Boualem</name>
+    <ar_name>بوعلام</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>409</id>
+    <code>3205</code>
+    <name>Labiodh sidi cheikh</name>
+    <ar_name>الأبيض سيدي الشيخ</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>410</id>
+    <code>3206</code>
+    <name>Bougtob</name>
+    <ar_name>بوقطب</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>411</id>
+    <code>3207</code>
+    <name>Boussemghoun</name>
+    <ar_name>بوسمغون</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>412</id>
+    <code>3208</code>
+    <name>Chellala</name>
+    <ar_name>شلالة</ar_name>
+    <fk_state_code>32</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>413</id>
+    <code>3301</code>
+    <name>Illizi</name>
+    <ar_name>إيليزي</ar_name>
+    <fk_state_code>33</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>414</id>
+    <code>3302</code>
+    <name>Djanet</name>
+    <ar_name>جانت</ar_name>
+    <fk_state_code>33</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>415</id>
+    <code>3302</code>
+    <name>Djanet (wilaya déléguée)</name>
+    <ar_name>جانت (ولاية منتدبة)</ar_name>
+    <fk_state_code>33</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>416</id>
+    <code>3306</code>
+    <name>Ain amenas</name>
+    <ar_name>إن أمناس</ar_name>
+    <fk_state_code>33</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>417</id>
+    <code>3401</code>
+    <name>Bordj bou arreridj</name>
+    <ar_name>برج بوعريريج</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>418</id>
+    <code>3402</code>
+    <name>Ras el oued</name>
+    <ar_name>رأس الوادي</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>419</id>
+    <code>3403</code>
+    <name>Bordj zemmoura</name>
+    <ar_name>برج زمورة</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>420</id>
+    <code>3404</code>
+    <name>Mansourah</name>
+    <ar_name>المنصورة</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>421</id>
+    <code>3408</code>
+    <name>Ain taghrout</name>
+    <ar_name>عين تاغروت</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>422</id>
+    <code>3409</code>
+    <name>Bordj ghedir</name>
+    <ar_name>برج الغدير</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>423</id>
+    <code>3411</code>
+    <name>El hamadia</name>
+    <ar_name>الحمادية</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>424</id>
+    <code>3413</code>
+    <name>Medjana</name>
+    <ar_name>مجانة</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>425</id>
+    <code>3415</code>
+    <name>Djaafra</name>
+    <ar_name>جعافرة</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>426</id>
+    <code>3431</code>
+    <name>Bir kasdali</name>
+    <ar_name>بئر قاصد علي</ar_name>
+    <fk_state_code>34</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>427</id>
+    <code>3501</code>
+    <name>Boumerdes</name>
+    <ar_name>بومرداس</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>428</id>
+    <code>3502</code>
+    <name>Boudouaou</name>
+    <ar_name>بودواو</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>429</id>
+    <code>3504</code>
+    <name>Bordj menaiel</name>
+    <ar_name>برج منايل</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>430</id>
+    <code>3505</code>
+    <name>Baghlia</name>
+    <ar_name>بغلية</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>431</id>
+    <code>3507</code>
+    <name>Naciria</name>
+    <ar_name>الناصرية</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>432</id>
+    <code>3509</code>
+    <name>Isser</name>
+    <ar_name>يسر</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>433</id>
+    <code>3514</code>
+    <name>Thenia</name>
+    <ar_name>الثنية</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>434</id>
+    <code>3523</code>
+    <name>Dellys</name>
+    <ar_name>دلس</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>435</id>
+    <code>3531</code>
+    <name>Khemis el khechna</name>
+    <ar_name>خميس الخشنة</ar_name>
+    <fk_state_code>35</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>436</id>
+    <code>3601</code>
+    <name>El tarf</name>
+    <ar_name>الطارف</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>437</id>
+    <code>3602</code>
+    <name>Bouhadjar</name>
+    <ar_name>بوحجار</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>438</id>
+    <code>3603</code>
+    <name>Ben m&apos;hidi</name>
+    <ar_name>بن مهيدي</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>439</id>
+    <code>3605</code>
+    <name>El kala</name>
+    <ar_name>القالة</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>440</id>
+    <code>3608</code>
+    <name>Bouteldja</name>
+    <ar_name>بوثلجة</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>441</id>
+    <code>3613</code>
+    <name>Drean</name>
+    <ar_name>الذرعان</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>442</id>
+    <code>3616</code>
+    <name>Besbes</name>
+    <ar_name>البسباس</ar_name>
+    <fk_state_code>36</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>443</id>
+    <code>3701</code>
+    <name>Tindouf</name>
+    <ar_name>تندوف</ar_name>
+    <fk_state_code>37</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>444</id>
+    <code>3801</code>
+    <name>Tissemsilt</name>
+    <ar_name>تيسمسيلت</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>445</id>
+    <code>3802</code>
+    <name>Bordj bounaama</name>
+    <ar_name>برج بونعامة</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>446</id>
+    <code>3803</code>
+    <name>Theniet el had</name>
+    <ar_name>ثنية الاحد</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>447</id>
+    <code>3804</code>
+    <name>Lazharia</name>
+    <ar_name>الأزهرية</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>448</id>
+    <code>3806</code>
+    <name>Lardjem</name>
+    <ar_name>لرجام</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>449</id>
+    <code>3809</code>
+    <name>Bordj emir abdelkader</name>
+    <ar_name>برج الأمير عبد القادر</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>450</id>
+    <code>3811</code>
+    <name>Khemisti</name>
+    <ar_name>خميستي</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>451</id>
+    <code>3813</code>
+    <name>Ammari</name>
+    <ar_name>عماري</ar_name>
+    <fk_state_code>38</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>452</id>
+    <code>3901</code>
+    <name>El oued</name>
+    <ar_name>الوادي</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>453</id>
+    <code>3902</code>
+    <name>Robbah</name>
+    <ar_name>الرباح</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>454</id>
+    <code>3904</code>
+    <name>Bayadha</name>
+    <ar_name>البياضة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>455</id>
+    <code>3906</code>
+    <name>Guemar</name>
+    <ar_name>قمار</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>456</id>
+    <code>3908</code>
+    <name>Reguiba</name>
+    <ar_name>الرقيبة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:02</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>457</id>
+    <code>3911</code>
+    <name>Debila</name>
+    <ar_name>الدبيلة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>458</id>
+    <code>3913</code>
+    <name>Hassi khalifa</name>
+    <ar_name>حاسي خليفة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>459</id>
+    <code>3914</code>
+    <name>Taleb larbi</name>
+    <ar_name>الطالب العربي</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>460</id>
+    <code>3918</code>
+    <name>Magrane</name>
+    <ar_name>المقرن</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>461</id>
+    <code>3926</code>
+    <name>Mih ouensa</name>
+    <ar_name>اميه وانسة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>462</id>
+    <code>3927</code>
+    <name>El meghaier (wilaya déléguée)</name>
+    <ar_name>المغير</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>463</id>
+    <code>3927</code>
+    <name>El meghaier</name>
+    <ar_name>المغير (ولاية منتدبة)</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>464</id>
+    <code>3928</code>
+    <name>Djamaa</name>
+    <ar_name>جامعة</ar_name>
+    <fk_state_code>39</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>465</id>
+    <code>4001</code>
+    <name>Khenchela</name>
+    <ar_name>خنشلة</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>466</id>
+    <code>4003</code>
+    <name>Kais</name>
+    <ar_name>قايس</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>467</id>
+    <code>4005</code>
+    <name>El hamma</name>
+    <ar_name>الحامة</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>468</id>
+    <code>4006</code>
+    <name>Ain touila</name>
+    <ar_name>عين الطويلة</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>469</id>
+    <code>4008</code>
+    <name>Bouhmama</name>
+    <ar_name>بوحمامة</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>470</id>
+    <code>4011</code>
+    <name>Chechar</name>
+    <ar_name>ششار</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>471</id>
+    <code>4013</code>
+    <name>Babar</name>
+    <ar_name>بابار</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>472</id>
+    <code>4016</code>
+    <name>Ouled rechache</name>
+    <ar_name>أولاد رشاش</ar_name>
+    <fk_state_code>40</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>473</id>
+    <code>4101</code>
+    <name>Souk ahras</name>
+    <ar_name>سوق أهراس</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>474</id>
+    <code>4102</code>
+    <name>Sedrata</name>
+    <ar_name>سدراتة</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>475</id>
+    <code>4104</code>
+    <name>Mechroha</name>
+    <ar_name>المشروحة</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>476</id>
+    <code>4105</code>
+    <name>Ouled driss</name>
+    <ar_name>أولاد إدريس</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>477</id>
+    <code>4108</code>
+    <name>Taoura</name>
+    <ar_name>تاورة</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>478</id>
+    <code>4110</code>
+    <name>Haddada</name>
+    <ar_name>الحدادة</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>479</id>
+    <code>4112</code>
+    <name>Merahna</name>
+    <ar_name>المراهنة</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>480</id>
+    <code>4114</code>
+    <name>Bir bouhouche</name>
+    <ar_name>بئر بوحوش</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>481</id>
+    <code>4115</code>
+    <name>M&apos;daourouche</name>
+    <ar_name>مداوروش</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>482</id>
+    <code>4116</code>
+    <name>Oum el adhaim</name>
+    <ar_name>أم العظايم</ar_name>
+    <fk_state_code>41</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>483</id>
+    <code>4201</code>
+    <name>Tipaza</name>
+    <ar_name>تيبازة</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>484</id>
+    <code>4208</code>
+    <name>Hadjout</name>
+    <ar_name>حجوط</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>485</id>
+    <code>4209</code>
+    <name>Sidi amar</name>
+    <ar_name>سيدي أعمر</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>486</id>
+    <code>4210</code>
+    <name>Gouraya</name>
+    <ar_name>قوراية</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>487</id>
+    <code>4214</code>
+    <name>Cherchell</name>
+    <ar_name>شرشال</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>488</id>
+    <code>4215</code>
+    <name>Damous</name>
+    <ar_name>الداموس</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>489</id>
+    <code>4217</code>
+    <name>Fouka</name>
+    <ar_name>فوكة</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>490</id>
+    <code>4218</code>
+    <name>Bou ismail</name>
+    <ar_name>بواسماعيل</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>491</id>
+    <code>4219</code>
+    <name>Ahmar el ain</name>
+    <ar_name>أحمر العين</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>492</id>
+    <code>4224</code>
+    <name>Kolea</name>
+    <ar_name>القليعة</ar_name>
+    <fk_state_code>42</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>493</id>
+    <code>4301</code>
+    <name>Mila</name>
+    <ar_name>ميلة</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>494</id>
+    <code>4302</code>
+    <name>Ferdjioua</name>
+    <ar_name>فرجيوة</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>495</id>
+    <code>4303</code>
+    <name>Chelghoum laid</name>
+    <ar_name>شلغوم العيد</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>496</id>
+    <code>4306</code>
+    <name>Teleghma</name>
+    <ar_name>التلاغمة</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>497</id>
+    <code>4308</code>
+    <name>Tadjenanet</name>
+    <ar_name>تاجنانت</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>498</id>
+    <code>4310</code>
+    <name>Oued endja</name>
+    <ar_name>وادي النجاء</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>499</id>
+    <code>4314</code>
+    <name>Bouhatem</name>
+    <ar_name>بوحاتم</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>500</id>
+    <code>4315</code>
+    <name>Rouached</name>
+    <ar_name>الرواشد</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>501</id>
+    <code>4317</code>
+    <name>Grarem gouga</name>
+    <ar_name>القرارم قوقة</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>502</id>
+    <code>4318</code>
+    <name>Sidi merouane</name>
+    <ar_name>سيدي مروان</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>503</id>
+    <code>4319</code>
+    <name>Tassadane haddada</name>
+    <ar_name>تسدان حدادة</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>504</id>
+    <code>4323</code>
+    <name>Terrai bainen</name>
+    <ar_name>ترعي باينان</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>505</id>
+    <code>4330</code>
+    <name>Ain beida harriche</name>
+    <ar_name>عين البيضاء أحريش</ar_name>
+    <fk_state_code>43</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>506</id>
+    <code>4401</code>
+    <name>Ain defla</name>
+    <ar_name>عين الدفلى</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>507</id>
+    <code>4402</code>
+    <name>Miliana</name>
+    <ar_name>مليانة</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>508</id>
+    <code>4403</code>
+    <name>Boumedfaa</name>
+    <ar_name>بومدفع</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>509</id>
+    <code>4404</code>
+    <name>Khemis</name>
+    <ar_name>خميس</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>510</id>
+    <code>4405</code>
+    <name>Hammam righa</name>
+    <ar_name>حمام ريغة</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>511</id>
+    <code>4407</code>
+    <name>Djelida</name>
+    <ar_name>جليدة</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>512</id>
+    <code>4408</code>
+    <name>El amra</name>
+    <ar_name>العامرة</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>513</id>
+    <code>4410</code>
+    <name>El attaf</name>
+    <ar_name>العطاف</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>514</id>
+    <code>4411</code>
+    <name>El abadia</name>
+    <ar_name>العبادية</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>515</id>
+    <code>4412</code>
+    <name>Djendel</name>
+    <ar_name>جندل</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>516</id>
+    <code>4414</code>
+    <name>Ain lechiakh</name>
+    <ar_name>عين الاشياخ</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>517</id>
+    <code>4416</code>
+    <name>Rouina</name>
+    <ar_name>الروينة</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>518</id>
+    <code>4422</code>
+    <name>Bordj el emir khaled</name>
+    <ar_name>برج الأمير خالد</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>519</id>
+    <code>4431</code>
+    <name>Bathia</name>
+    <ar_name>بطحية</ar_name>
+    <fk_state_code>44</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>520</id>
+    <code>4501</code>
+    <name>Naama</name>
+    <ar_name>النعامة</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>521</id>
+    <code>4502</code>
+    <name>Mecheria</name>
+    <ar_name>المشرية</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>522</id>
+    <code>4503</code>
+    <name>Ain sefra</name>
+    <ar_name>عين الصفراء</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>523</id>
+    <code>4505</code>
+    <name>Sfissifa</name>
+    <ar_name>سفيسيفة</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>524</id>
+    <code>4506</code>
+    <name>Moghrar</name>
+    <ar_name>مغرار</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>525</id>
+    <code>4507</code>
+    <name>Asla</name>
+    <ar_name>عسلة</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>526</id>
+    <code>4510</code>
+    <name>Mekmen ben amar</name>
+    <ar_name>مكمن بن عمار</ar_name>
+    <fk_state_code>45</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>527</id>
+    <code>4601</code>
+    <name>Ain temouchent</name>
+    <ar_name>عين تموشنت</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>528</id>
+    <code>4604</code>
+    <name>Hammam bou hadjar</name>
+    <ar_name>حمام بوحجر</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:03</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>529</id>
+    <code>4609</code>
+    <name>Ain larbaa</name>
+    <ar_name>عين الأربعاء</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>530</id>
+    <code>4614</code>
+    <name>El maleh</name>
+    <ar_name>المالح</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>531</id>
+    <code>4619</code>
+    <name>El amria</name>
+    <ar_name>العامرية</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>532</id>
+    <code>4622</code>
+    <name>Ain kihel</name>
+    <ar_name>عين الكيحل</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>533</id>
+    <code>4623</code>
+    <name>Beni saf</name>
+    <ar_name>بني صاف</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>534</id>
+    <code>4625</code>
+    <name>Oulhassa gheraba</name>
+    <ar_name>ولهاصة الغرابة</ar_name>
+    <fk_state_code>46</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>535</id>
+    <code>4701</code>
+    <name>Ghardaia</name>
+    <ar_name>غرداية</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>536</id>
+    <code>4702</code>
+    <name>El menia</name>
+    <ar_name>المنيعة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>537</id>
+    <code>4702</code>
+    <name>El menia (wilaya déléguée)</name>
+    <ar_name>المنيعة (ولاية منتدبة)</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>538</id>
+    <code>4703</code>
+    <name>Dhayet ben dhahoua</name>
+    <ar_name>ضاية بن ضحوة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>539</id>
+    <code>4704</code>
+    <name>Berriane</name>
+    <ar_name>بريان</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>540</id>
+    <code>4705</code>
+    <name>Metlili</name>
+    <ar_name>متليلي</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>541</id>
+    <code>4706</code>
+    <name>El guerrara</name>
+    <ar_name>القرارة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>542</id>
+    <code>4708</code>
+    <name>Zelfana</name>
+    <ar_name>زلفانة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>543</id>
+    <code>4710</code>
+    <name>Bounoura</name>
+    <ar_name>بونورة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>544</id>
+    <code>4713</code>
+    <name>Mansourah</name>
+    <ar_name>المنصورة</ar_name>
+    <fk_state_code>47</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>545</id>
+    <code>4801</code>
+    <name>Relizane</name>
+    <ar_name>غليزان</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>546</id>
+    <code>4802</code>
+    <name>Oued rhiou</name>
+    <ar_name>وادي رهيو</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>547</id>
+    <code>4807</code>
+    <name>El h&apos;madna</name>
+    <ar_name>الحمادنة</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>548</id>
+    <code>4808</code>
+    <name>Sidi m&apos;hamed ben ali</name>
+    <ar_name>سيدي أمحمد بن علي</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>549</id>
+    <code>4811</code>
+    <name>Ammi moussa</name>
+    <ar_name>عمي موسى</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>550</id>
+    <code>4812</code>
+    <name>Zemmoura</name>
+    <ar_name>زمورة</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>551</id>
+    <code>4814</code>
+    <name>Djidiouia</name>
+    <ar_name>جديوية</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>552</id>
+    <code>4817</code>
+    <name>El matmar</name>
+    <ar_name>المطمر</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>553</id>
+    <code>4819</code>
+    <name>Ain tarek</name>
+    <ar_name>عين طارق</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>554</id>
+    <code>4822</code>
+    <name>Mazouna</name>
+    <ar_name>مازونة</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>555</id>
+    <code>4825</code>
+    <name>Yellel</name>
+    <ar_name>يلل</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>556</id>
+    <code>4827</code>
+    <name>Ramka</name>
+    <ar_name>الرمكة</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+  <county>
+    <id>557</id>
+    <code>4828</code>
+    <name>Mendes</name>
+    <ar_name>منداس</ar_name>
+    <fk_state_code>48</fk_state_code>
+    <created_at>2020-03-02 18:26:04</created_at>
+    <updated_at></updated_at>
+    <deleted_at></deleted_at>
+  </county>
+</counties>

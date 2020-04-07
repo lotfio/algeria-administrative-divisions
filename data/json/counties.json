@@ -1,0 +1,5572 @@
+[
+    {
+        "id": "1",
+        "code": "101",
+        "name": "Adrar",
+        "ar_name": "أدرار",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "2",
+        "code": "103",
+        "name": "Charouine",
+        "ar_name": "شروين",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "3",
+        "code": "104",
+        "name": "Reggane",
+        "ar_name": "رقان",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "4",
+        "code": "108",
+        "name": "Tsabit",
+        "ar_name": "تسابيت",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "5",
+        "code": "109",
+        "name": "Timimoun",
+        "ar_name": "تيميمون",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "6",
+        "code": "111",
+        "name": "Zaouiat kounta",
+        "ar_name": "زاوية كنتة",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "7",
+        "code": "112",
+        "name": "Aoulef",
+        "ar_name": "أولف",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "8",
+        "code": "115",
+        "name": "Fenoughil",
+        "ar_name": "فنوغيل",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "9",
+        "code": "116",
+        "name": "Tinerkouk",
+        "ar_name": "تنركوك",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "10",
+        "code": "123",
+        "name": "Aougrout",
+        "ar_name": "أوقروت",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "11",
+        "code": "125",
+        "name": "Bordj badji mokhtar",
+        "ar_name": "برج باجي مختار",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "12",
+        "code": "1090",
+        "name": "Timimoun (wilaya déléguée)",
+        "ar_name": "تيميمون (ولاية منتدبة)",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "13",
+        "code": "1250",
+        "name": "Bordj badji mokhtar (wilaya déléguée)",
+        "ar_name": "برج باجي مختار (ولاية منتدبة)",
+        "fk_state_code": "1",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "14",
+        "code": "201",
+        "name": "Chlef",
+        "ar_name": "الشلف",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "15",
+        "code": "202",
+        "name": "Tenes",
+        "ar_name": "تنس",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "16",
+        "code": "204",
+        "name": "El karimia",
+        "ar_name": "الكريمية",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "17",
+        "code": "206",
+        "name": "Taougrit",
+        "ar_name": "تاوقريت",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "18",
+        "code": "207",
+        "name": "Beni haoua",
+        "ar_name": "بني حواء",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "19",
+        "code": "210",
+        "name": "Ouled fares",
+        "ar_name": "أولاد فارس",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "20",
+        "code": "212",
+        "name": "Boukadir",
+        "ar_name": "بوقادير",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "21",
+        "code": "220",
+        "name": "Zeboudja",
+        "ar_name": "الزبوجة",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "22",
+        "code": "222",
+        "name": "Abou el hassane",
+        "ar_name": "أبو الحسن",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "23",
+        "code": "223",
+        "name": "El marsa",
+        "ar_name": "المرسى",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "24",
+        "code": "229",
+        "name": "Oued fodda",
+        "ar_name": "وادي الفضة",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "25",
+        "code": "230",
+        "name": "Ouled ben abdelkader",
+        "ar_name": "أولاد بن عبد القادر",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "26",
+        "code": "232",
+        "name": "Ain merane",
+        "ar_name": "عين مران",
+        "fk_state_code": "2",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "27",
+        "code": "301",
+        "name": "Laghouat",
+        "ar_name": "الأغواط",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "28",
+        "code": "302",
+        "name": "Ksar el hirane",
+        "ar_name": "قصر الحيران",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "29",
+        "code": "304",
+        "name": "Sidi makhlouf",
+        "ar_name": "سيدي مخلوف",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "30",
+        "code": "306",
+        "name": "Hassi r'mel",
+        "ar_name": "حاسي الرمل",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "31",
+        "code": "307",
+        "name": "Ain madhi",
+        "ar_name": "عين ماضي",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "32",
+        "code": "310",
+        "name": "Gueltat sidi saad",
+        "ar_name": "قتلة سيدي سعيد",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "33",
+        "code": "313",
+        "name": "Brida",
+        "ar_name": "بريدة",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "34",
+        "code": "314",
+        "name": "El ghicha",
+        "ar_name": "الغيشة",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "35",
+        "code": "319",
+        "name": "Aflou",
+        "ar_name": "أفلو",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "36",
+        "code": "321",
+        "name": "Oued morra",
+        "ar_name": "وادي مرة",
+        "fk_state_code": "3",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "37",
+        "code": "401",
+        "name": "Oum el bouaghi",
+        "ar_name": "أم البواقي",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "38",
+        "code": "402",
+        "name": "Ain beida",
+        "ar_name": "عين البيضاء",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "39",
+        "code": "403",
+        "name": "Ain m'lila",
+        "ar_name": "عين مليلة",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "40",
+        "code": "406",
+        "name": "Sigus",
+        "ar_name": "سيقوس",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "41",
+        "code": "408",
+        "name": "Ain babouche",
+        "ar_name": "عين ببوش",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "42",
+        "code": "411",
+        "name": "Dhalaa",
+        "ar_name": "الضلعة",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "43",
+        "code": "412",
+        "name": "Ain kercha",
+        "ar_name": "عين كرشة",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "44",
+        "code": "416",
+        "name": "F'kirina",
+        "ar_name": "فكيرينة",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "45",
+        "code": "417",
+        "name": "Souk naamane",
+        "ar_name": "سوق نعمان",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:56",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "46",
+        "code": "422",
+        "name": "Ksar sbahi",
+        "ar_name": "قصر الصباحي",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "47",
+        "code": "424",
+        "name": "Meskiana",
+        "ar_name": "مسكيانة",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "48",
+        "code": "425",
+        "name": "Ain fekroun",
+        "ar_name": "عين فكرون",
+        "fk_state_code": "4",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "49",
+        "code": "501",
+        "name": "Batna",
+        "ar_name": "باتنة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "50",
+        "code": "504",
+        "name": "Merouana",
+        "ar_name": "مروانة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "51",
+        "code": "505",
+        "name": "Seriana",
+        "ar_name": "سريانة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "52",
+        "code": "506",
+        "name": "Menaa",
+        "ar_name": "منعة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "53",
+        "code": "507",
+        "name": "El madher",
+        "ar_name": "المعذر",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "54",
+        "code": "508",
+        "name": "Tazoult",
+        "ar_name": "تازولت",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "55",
+        "code": "509",
+        "name": "N'gaous",
+        "ar_name": "نقاوس",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "56",
+        "code": "516",
+        "name": "Arris",
+        "ar_name": "أريس",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "57",
+        "code": "519",
+        "name": "Ain djasser",
+        "ar_name": "عين جاسر",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "58",
+        "code": "529",
+        "name": "Seggana",
+        "ar_name": "سقانة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "59",
+        "code": "530",
+        "name": "Ichemoul",
+        "ar_name": "إشمول",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "60",
+        "code": "535",
+        "name": "Bouzina",
+        "ar_name": "بوزينة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "61",
+        "code": "536",
+        "name": "Chemora",
+        "ar_name": "الشمرة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "62",
+        "code": "542",
+        "name": "Barika",
+        "ar_name": "بريكة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "63",
+        "code": "543",
+        "name": "Djezzar",
+        "ar_name": "الجزار",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "64",
+        "code": "544",
+        "name": "Tkout",
+        "ar_name": "تكوت",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "65",
+        "code": "545",
+        "name": "Ain touta",
+        "ar_name": "عين التوتة",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "66",
+        "code": "547",
+        "name": "Theniet el abed",
+        "ar_name": "ثنية العابد",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "67",
+        "code": "550",
+        "name": "Timgad",
+        "ar_name": "تيمقاد",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "68",
+        "code": "551",
+        "name": "Ras el aioun",
+        "ar_name": "رأس العيون",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "69",
+        "code": "553",
+        "name": "Ouled si slimane",
+        "ar_name": "أولاد سي سليمان",
+        "fk_state_code": "5",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "70",
+        "code": "601",
+        "name": "Bejaia",
+        "ar_name": "بجاية",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "71",
+        "code": "602",
+        "name": "Amizour",
+        "ar_name": "أميزور",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "72",
+        "code": "607",
+        "name": "Timezrit",
+        "ar_name": "تيمزريت",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "73",
+        "code": "608",
+        "name": "Souk el tenine",
+        "ar_name": "سوق الإثنين",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "74",
+        "code": "611",
+        "name": "Tichy",
+        "ar_name": "تيشي",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "75",
+        "code": "617",
+        "name": "Ighil ali",
+        "ar_name": "إغيل علي",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "76",
+        "code": "620",
+        "name": "Darguina",
+        "ar_name": "درقينة",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "77",
+        "code": "622",
+        "name": "Aokas",
+        "ar_name": "أوقاس",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "78",
+        "code": "624",
+        "name": "Adekar",
+        "ar_name": "أدكار",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "79",
+        "code": "625",
+        "name": "Akbou",
+        "ar_name": "أقبو",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "80",
+        "code": "626",
+        "name": "Seddouk",
+        "ar_name": "صدوق",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "81",
+        "code": "627",
+        "name": "Tazmalt",
+        "ar_name": "تازملت",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "82",
+        "code": "629",
+        "name": "Chemini",
+        "ar_name": "شميني",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "83",
+        "code": "634",
+        "name": "Barbacha",
+        "ar_name": "برباشة",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "84",
+        "code": "636",
+        "name": "Ifri ouzellaguene",
+        "ar_name": "إفري أوزلاقن",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "85",
+        "code": "639",
+        "name": "Sidi aich",
+        "ar_name": "سيدي عيش",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "86",
+        "code": "640",
+        "name": "El kseur",
+        "ar_name": "القصر",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "87",
+        "code": "644",
+        "name": "Kherrata",
+        "ar_name": "خراطة",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "88",
+        "code": "650",
+        "name": "Beni maouche",
+        "ar_name": "بني معوش",
+        "fk_state_code": "6",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "89",
+        "code": "701",
+        "name": "Biskra",
+        "ar_name": "بسكرة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "90",
+        "code": "705",
+        "name": "Ouled djellal",
+        "ar_name": "أولاد جلال",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "91",
+        "code": "708",
+        "name": "Sidi khaled",
+        "ar_name": "سيدي  خالد",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "92",
+        "code": "711",
+        "name": "Sidi okba",
+        "ar_name": "سيدي عقبة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "93",
+        "code": "712",
+        "name": "Mechouneche",
+        "ar_name": "مشونش",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "94",
+        "code": "715",
+        "name": "Zeribet el oued",
+        "ar_name": "زريبة الوادي",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "95",
+        "code": "717",
+        "name": "El kantara",
+        "ar_name": "القنطرة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "96",
+        "code": "719",
+        "name": "El outaya",
+        "ar_name": "الوطاية",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "97",
+        "code": "720",
+        "name": "Djemorah",
+        "ar_name": "جمورة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "98",
+        "code": "721",
+        "name": "Tolga",
+        "ar_name": "طولقة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "99",
+        "code": "724",
+        "name": "Ourlal",
+        "ar_name": "أورلال",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "100",
+        "code": "726",
+        "name": "Foughala",
+        "ar_name": "فوغالة",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "101",
+        "code": "7050",
+        "name": "Ouled djellal (wilaya déléguée)",
+        "ar_name": "أولاد جلال (ولاية منتدبة)",
+        "fk_state_code": "7",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "102",
+        "code": "801",
+        "name": "Bechar",
+        "ar_name": "بشار",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "103",
+        "code": "803",
+        "name": "Ouled khodeir",
+        "ar_name": "أولاد خضير",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "104",
+        "code": "806",
+        "name": "Lahmar",
+        "ar_name": "لحمر",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "105",
+        "code": "807",
+        "name": "Beni abbes",
+        "ar_name": "بني عباس",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "106",
+        "code": "810",
+        "name": "Kenadsa",
+        "ar_name": "القنادسة",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "107",
+        "code": "811",
+        "name": "Igli",
+        "ar_name": "إقلي",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "108",
+        "code": "812",
+        "name": "Tabelbala",
+        "ar_name": "تبلبالة",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "109",
+        "code": "813",
+        "name": "Taghit",
+        "ar_name": "تاغيت",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "110",
+        "code": "814",
+        "name": "El ouata",
+        "ar_name": "الواتة",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "111",
+        "code": "817",
+        "name": "Abadla",
+        "ar_name": "العبادلة",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "112",
+        "code": "818",
+        "name": "Kerzaz",
+        "ar_name": "كرزاز",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "113",
+        "code": "821",
+        "name": "Beni ounif",
+        "ar_name": "بني ونيف",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "114",
+        "code": "8070",
+        "name": "Beni abbes (wilaya déléguée)",
+        "ar_name": "بني عباس (ولاية منتدبة)",
+        "fk_state_code": "8",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "115",
+        "code": "901",
+        "name": "Blida",
+        "ar_name": "البليدة",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "116",
+        "code": "903",
+        "name": "Bouinan",
+        "ar_name": "بوعينان",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "117",
+        "code": "904",
+        "name": "Oued el alleug",
+        "ar_name": "وادي العلايق",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:57",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "118",
+        "code": "905",
+        "name": "Ouled yaich",
+        "ar_name": "أولاد يعيش",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "119",
+        "code": "907",
+        "name": "El affroun",
+        "ar_name": "العفرون",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "120",
+        "code": "912",
+        "name": "Mouzaia",
+        "ar_name": "موزاية",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "121",
+        "code": "914",
+        "name": "Meftah",
+        "ar_name": "مفتاح",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "122",
+        "code": "916",
+        "name": "Boufarik",
+        "ar_name": "بوفاريك",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "123",
+        "code": "917",
+        "name": "Larbaa",
+        "ar_name": "الأربعاء",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "124",
+        "code": "922",
+        "name": "Bougara",
+        "ar_name": "بوقرة",
+        "fk_state_code": "9",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "125",
+        "code": "1001",
+        "name": "Bouira",
+        "ar_name": "البويرة",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "126",
+        "code": "1004",
+        "name": "Souk el khemis",
+        "ar_name": "سوق الخميس",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "127",
+        "code": "1005",
+        "name": "Kadiria",
+        "ar_name": "القادرية",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "128",
+        "code": "1012",
+        "name": "Haizer",
+        "ar_name": "الحيزر",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "129",
+        "code": "1013",
+        "name": "Lakhdaria",
+        "ar_name": "الأخضرية",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "130",
+        "code": "1015",
+        "name": "El hachimia",
+        "ar_name": "الهاشمية",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "131",
+        "code": "1018",
+        "name": "Bordj okhriss",
+        "ar_name": "برج أوخريص",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "132",
+        "code": "1033",
+        "name": "Bechloul",
+        "ar_name": "بشلول",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "133",
+        "code": "1035",
+        "name": "Ain bessem",
+        "ar_name": "عين بسام",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "134",
+        "code": "1036",
+        "name": "Bir ghbalou",
+        "ar_name": "بئر غبالو",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "135",
+        "code": "1037",
+        "name": "M'chedallah",
+        "ar_name": "مشد الله",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "136",
+        "code": "1038",
+        "name": "Sour el ghozlane",
+        "ar_name": "سور الغزلان",
+        "fk_state_code": "10",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "137",
+        "code": "1101",
+        "name": "Tamanrasset",
+        "ar_name": "تمنراست",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "138",
+        "code": "1102",
+        "name": "Silet",
+        "ar_name": "سيلت",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "139",
+        "code": "1103",
+        "name": "Ain ghar",
+        "ar_name": "إينغر",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "140",
+        "code": "1104",
+        "name": "Ain guezzam",
+        "ar_name": "عين قزام",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "141",
+        "code": "1104",
+        "name": "Ain guezzam (wilaya déléguée)",
+        "ar_name": "عين قزام (ولاية منتدبة)",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "142",
+        "code": "1106",
+        "name": "Tazrouk",
+        "ar_name": "تاظروك",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "143",
+        "code": "1107",
+        "name": "Tin zouatine",
+        "ar_name": "تين زواتين",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "144",
+        "code": "1108",
+        "name": "Ain salah",
+        "ar_name": "عين صالح",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "145",
+        "code": "1108",
+        "name": "Ain salah (wilaya déléguée)",
+        "ar_name": "عين صالح (ولاية منتدبة)",
+        "fk_state_code": "11",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "146",
+        "code": "1201",
+        "name": "Tebessa",
+        "ar_name": "تبسة",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "147",
+        "code": "1202",
+        "name": "Bir el ater",
+        "ar_name": "بئر العاتر",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "148",
+        "code": "1203",
+        "name": "Cheria",
+        "ar_name": "الشريعة",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "149",
+        "code": "1205",
+        "name": "El aouinet",
+        "ar_name": "العوينات",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "150",
+        "code": "1209",
+        "name": "Negrine",
+        "ar_name": "نقرين",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "151",
+        "code": "1210",
+        "name": "Bir mokadem",
+        "ar_name": "بئر مقدم",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "152",
+        "code": "1211",
+        "name": "El kouif",
+        "ar_name": "الكويف",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "153",
+        "code": "1212",
+        "name": "Morsott",
+        "ar_name": "مرسط",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "154",
+        "code": "1213",
+        "name": "El ogla",
+        "ar_name": "العقلة",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "155",
+        "code": "1219",
+        "name": "Ouenza",
+        "ar_name": "الونزة",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "156",
+        "code": "1220",
+        "name": "El malabiod",
+        "ar_name": "الماء الابيض",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "157",
+        "code": "1221",
+        "name": "Oum ali",
+        "ar_name": "أم علي",
+        "fk_state_code": "12",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "158",
+        "code": "1301",
+        "name": "Tlemcen",
+        "ar_name": "تلمسان",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "159",
+        "code": "1303",
+        "name": "Ain tellout",
+        "ar_name": "عين تالوت",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "160",
+        "code": "1304",
+        "name": "Remchi",
+        "ar_name": "الرمشي",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "161",
+        "code": "1306",
+        "name": "Sabra",
+        "ar_name": "صبرة",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "162",
+        "code": "1307",
+        "name": "Ghazaouet",
+        "ar_name": "الغزوات",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "163",
+        "code": "1313",
+        "name": "Ouled mimoun",
+        "ar_name": "أولاد ميمون",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "164",
+        "code": "1317",
+        "name": "Beni snous",
+        "ar_name": "بني سنوس",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "165",
+        "code": "1318",
+        "name": "Bab el assa",
+        "ar_name": "باب العسة",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "166",
+        "code": "1320",
+        "name": "Fellaoucene",
+        "ar_name": "فلاوسن",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "167",
+        "code": "1324",
+        "name": "Bensekrane",
+        "ar_name": "بن سكران",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "168",
+        "code": "1326",
+        "name": "Hennaya",
+        "ar_name": "الحناية",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "169",
+        "code": "1327",
+        "name": "Maghnia",
+        "ar_name": "مغنية",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "170",
+        "code": "1335",
+        "name": "Sebdou",
+        "ar_name": "سبدو",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "171",
+        "code": "1338",
+        "name": "Beni boussaid",
+        "ar_name": "بني بوسعيد",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "172",
+        "code": "1339",
+        "name": "Marsa ben mehdi",
+        "ar_name": "مرسى بن مهيدي",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "173",
+        "code": "1340",
+        "name": "Nedroma",
+        "ar_name": "ندرومة",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "174",
+        "code": "1341",
+        "name": "Sidi djillali",
+        "ar_name": "سيدي الجيلالي",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "175",
+        "code": "1344",
+        "name": "Honnaine",
+        "ar_name": "هنين",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "176",
+        "code": "1350",
+        "name": "Chetouane",
+        "ar_name": "شتوان",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "177",
+        "code": "1351",
+        "name": "Mansourah",
+        "ar_name": "منصورة",
+        "fk_state_code": "13",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "178",
+        "code": "1401",
+        "name": "Tiaret",
+        "ar_name": "تيارت",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "179",
+        "code": "1402",
+        "name": "Medroussa",
+        "ar_name": "مدروسة",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "180",
+        "code": "1406",
+        "name": "Ain deheb",
+        "ar_name": "عين الذهب",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "181",
+        "code": "1413",
+        "name": "Dahmouni",
+        "ar_name": "دحموني",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "182",
+        "code": "1414",
+        "name": "Rahouia",
+        "ar_name": "رحوية",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "183",
+        "code": "1415",
+        "name": "Mahdia",
+        "ar_name": "مهدية",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "184",
+        "code": "1416",
+        "name": "Sougueur",
+        "ar_name": "السوقر",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "185",
+        "code": "1421",
+        "name": "Meghila",
+        "ar_name": "مغيلة",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "186",
+        "code": "1427",
+        "name": "Frenda",
+        "ar_name": "فرندة",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "187",
+        "code": "1428",
+        "name": "Ain kermes",
+        "ar_name": "عين كرمس",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "188",
+        "code": "1429",
+        "name": "Ksar chellala",
+        "ar_name": "قصر الشلالة",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "189",
+        "code": "1433",
+        "name": "Oued lili",
+        "ar_name": "وادي ليلي",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "190",
+        "code": "1434",
+        "name": "Mechraa sfa",
+        "ar_name": "مشرع الصفا",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:58",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "191",
+        "code": "1435",
+        "name": "Hamadia",
+        "ar_name": "حمادية",
+        "fk_state_code": "14",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "192",
+        "code": "1501",
+        "name": "Tizi ouzou",
+        "ar_name": "تيزي وزو",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "193",
+        "code": "1502",
+        "name": "Ain el hammam",
+        "ar_name": "عين الحمام",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "194",
+        "code": "1509",
+        "name": "Makouda",
+        "ar_name": "ماكودة",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "195",
+        "code": "1510",
+        "name": "Draa el mizan",
+        "ar_name": "ذراع الميزان",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "196",
+        "code": "1511",
+        "name": "Tizi-ghenif",
+        "ar_name": "تيزي غنيف",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "197",
+        "code": "1517",
+        "name": "Iferhounene",
+        "ar_name": "إفرحونان",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "198",
+        "code": "1518",
+        "name": "Azazga",
+        "ar_name": "عزازقة",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "199",
+        "code": "1521",
+        "name": "Larbaa nath iraten",
+        "ar_name": "الأربعاء ناث إيراثن",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "200",
+        "code": "1522",
+        "name": "Tizi rached",
+        "ar_name": "تيزي راشد",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "201",
+        "code": "1524",
+        "name": "Ouaguenoun",
+        "ar_name": "واقنون",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "202",
+        "code": "1529",
+        "name": "Maatkas",
+        "ar_name": "معاتقة",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "203",
+        "code": "1532",
+        "name": "Beni douala",
+        "ar_name": "بني دوالة",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "204",
+        "code": "1534",
+        "name": "Bouzeguene",
+        "ar_name": "بوزقن",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "205",
+        "code": "1536",
+        "name": "Ouadhias",
+        "ar_name": "واضية",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "206",
+        "code": "1537",
+        "name": "Azeffoun",
+        "ar_name": "أزفون",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "207",
+        "code": "1538",
+        "name": "Tigzirt",
+        "ar_name": "تيقزيرت",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "208",
+        "code": "1540",
+        "name": "Boghni",
+        "ar_name": "بوغني",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "209",
+        "code": "1547",
+        "name": "Draa ben khedda",
+        "ar_name": "ذراع بن خدة",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "210",
+        "code": "1548",
+        "name": "Ouacif",
+        "ar_name": "واسيف",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "211",
+        "code": "1550",
+        "name": "Mekla",
+        "ar_name": "مقلع",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "212",
+        "code": "1552",
+        "name": "Benni yenni",
+        "ar_name": "بني يني",
+        "fk_state_code": "15",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "213",
+        "code": "1602",
+        "name": "Sidi m'hamed",
+        "ar_name": "سيدي امحمد",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "214",
+        "code": "1605",
+        "name": "Bab el oued",
+        "ar_name": "باب الوادي",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "215",
+        "code": "1609",
+        "name": "Bir mourad rais",
+        "ar_name": "بئر مراد رايس",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "216",
+        "code": "1611",
+        "name": "Bouzareah",
+        "ar_name": "بوزريعة",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "217",
+        "code": "1613",
+        "name": "El harrach",
+        "ar_name": "الحراش",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "218",
+        "code": "1614",
+        "name": "Baraki",
+        "ar_name": "براقي",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "219",
+        "code": "1617",
+        "name": "Hussein dey",
+        "ar_name": "حسين داي",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "220",
+        "code": "1620",
+        "name": "Dar el beida",
+        "ar_name": "الدار البيضاء",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "221",
+        "code": "1636",
+        "name": "Birtouta",
+        "ar_name": "بئر توتة",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "222",
+        "code": "1638",
+        "name": "Rouiba",
+        "ar_name": "الرويبة",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "223",
+        "code": "1644",
+        "name": "Zeralda",
+        "ar_name": "زرالدة",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "224",
+        "code": "1649",
+        "name": "Draria",
+        "ar_name": "الدرارية",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "225",
+        "code": "1652",
+        "name": "Cheraga",
+        "ar_name": "الشراقة",
+        "fk_state_code": "16",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "226",
+        "code": "1701",
+        "name": "Djelfa",
+        "ar_name": "الجلفة",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "227",
+        "code": "1704",
+        "name": "Hassi bahbah",
+        "ar_name": "حاسي بحبح",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "228",
+        "code": "1707",
+        "name": "Faidh el botma",
+        "ar_name": "فيض البطمة",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "229",
+        "code": "1708",
+        "name": "Birine",
+        "ar_name": "بيرين",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "230",
+        "code": "1714",
+        "name": "El idrissia",
+        "ar_name": "الادريسية",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "231",
+        "code": "1717",
+        "name": "Messaad",
+        "ar_name": "مسعد",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "232",
+        "code": "1719",
+        "name": "Sidi laadjel",
+        "ar_name": "سيدي لعجال",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "233",
+        "code": "1720",
+        "name": "Had sahary",
+        "ar_name": "حد الصحاري",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "234",
+        "code": "1725",
+        "name": "Dar chioukh",
+        "ar_name": "دار الشيوخ",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "235",
+        "code": "1726",
+        "name": "Charef",
+        "ar_name": "الشارف",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "236",
+        "code": "1730",
+        "name": "Ain el ibel",
+        "ar_name": "عين الإبل",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "237",
+        "code": "1731",
+        "name": "Ain oussera",
+        "ar_name": "عين وسارة",
+        "fk_state_code": "17",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "238",
+        "code": "1801",
+        "name": "Jijel",
+        "ar_name": "جيجل",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "239",
+        "code": "1803",
+        "name": "El aouana",
+        "ar_name": "العوانة",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "240",
+        "code": "1804",
+        "name": "Ziamah mansouriah",
+        "ar_name": "زيامة منصورية",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "241",
+        "code": "1805",
+        "name": "Taher",
+        "ar_name": "الطاهير",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "242",
+        "code": "1807",
+        "name": "Chekfa",
+        "ar_name": "الشقفة",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "243",
+        "code": "1809",
+        "name": "El milia",
+        "ar_name": "الميلية",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "244",
+        "code": "1810",
+        "name": "Sidi marouf",
+        "ar_name": "سيدي معروف",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:25:59",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "245",
+        "code": "1811",
+        "name": "Settara",
+        "ar_name": "السطارة",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "246",
+        "code": "1812",
+        "name": "El ancer",
+        "ar_name": "العنصر",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "247",
+        "code": "1817",
+        "name": "Djimla",
+        "ar_name": "جيملة",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "248",
+        "code": "1824",
+        "name": "Texenna",
+        "ar_name": "تاكسنة",
+        "fk_state_code": "18",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "249",
+        "code": "1901",
+        "name": "Setif",
+        "ar_name": "سطيف",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "250",
+        "code": "1902",
+        "name": "Ain el kebira",
+        "ar_name": "عين الكبيرة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "251",
+        "code": "1903",
+        "name": "Beni aziz",
+        "ar_name": "بني عزيز",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "252",
+        "code": "1908",
+        "name": "Bir el arch",
+        "ar_name": "بئر العرش",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "253",
+        "code": "1916",
+        "name": "Babor",
+        "ar_name": "بابور",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "254",
+        "code": "1917",
+        "name": "Guidjel",
+        "ar_name": "قجال",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "255",
+        "code": "1920",
+        "name": "El eulma",
+        "ar_name": "العلمة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "256",
+        "code": "1921",
+        "name": "Djemila",
+        "ar_name": "جميلة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "257",
+        "code": "1922",
+        "name": "Beni ourtilane",
+        "ar_name": "بني ورتيلان",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "258",
+        "code": "1926",
+        "name": "Ain arnat",
+        "ar_name": "عين أرنات",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "259",
+        "code": "1927",
+        "name": "Amoucha",
+        "ar_name": "عموشة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "260",
+        "code": "1928",
+        "name": "Ain oulmene",
+        "ar_name": "عين ولمان",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "261",
+        "code": "1930",
+        "name": "Bouandas",
+        "ar_name": "بوعنداس",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "262",
+        "code": "1932",
+        "name": "Hammam sokhna",
+        "ar_name": "حمام السخنة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "263",
+        "code": "1939",
+        "name": "Salah bey",
+        "ar_name": "صالح باي",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "264",
+        "code": "1940",
+        "name": "Ain azel",
+        "ar_name": "عين أزال",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "265",
+        "code": "1941",
+        "name": "Guenzet",
+        "ar_name": "قنزات",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "266",
+        "code": "1943",
+        "name": "Bougaa",
+        "ar_name": "بوقاعة",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "267",
+        "code": "1950",
+        "name": "Hammam guergour",
+        "ar_name": "حمام قرقور",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "268",
+        "code": "1955",
+        "name": "Maoklane",
+        "ar_name": "ماوكلان",
+        "fk_state_code": "19",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "269",
+        "code": "2001",
+        "name": "Saida",
+        "ar_name": "سعيدة",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "270",
+        "code": "2003",
+        "name": "Ain el hadjar",
+        "ar_name": "عين الحجر",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "271",
+        "code": "2006",
+        "name": "Youb",
+        "ar_name": "يوب",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "272",
+        "code": "2009",
+        "name": "Sidi boubekeur",
+        "ar_name": "سيدي بوبكر",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "273",
+        "code": "2010",
+        "name": "El hassasna",
+        "ar_name": "الحساسنة",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "274",
+        "code": "2014",
+        "name": "Ouled brahim",
+        "ar_name": "أولاد ابراهيم",
+        "fk_state_code": "20",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "275",
+        "code": "2101",
+        "name": "Skikda",
+        "ar_name": "سكيكدة",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "276",
+        "code": "2103",
+        "name": "El hadaiek",
+        "ar_name": "الحدائق",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "277",
+        "code": "2104",
+        "name": "Azzaba",
+        "ar_name": "عزابة",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "278",
+        "code": "2108",
+        "name": "Ben azzouz",
+        "ar_name": "بن عزوز",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "279",
+        "code": "2110",
+        "name": "Collo",
+        "ar_name": "القل",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "280",
+        "code": "2113",
+        "name": "Ouled attia",
+        "ar_name": "أولاد عطية",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "281",
+        "code": "2115",
+        "name": "Zitouna",
+        "ar_name": "الزيتونة",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "282",
+        "code": "2116",
+        "name": "El harrouch",
+        "ar_name": "الحروش",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "283",
+        "code": "2119",
+        "name": "Sidi mezghiche",
+        "ar_name": "سيدي مزغيش",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "284",
+        "code": "2123",
+        "name": "Ramdane djamel",
+        "ar_name": "رمضان جمال",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "285",
+        "code": "2126",
+        "name": "Tamalous",
+        "ar_name": "تمالوس",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "286",
+        "code": "2127",
+        "name": "Ain kechra",
+        "ar_name": "عين قشرة",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "287",
+        "code": "2128",
+        "name": "Oum toub",
+        "ar_name": "أم الطوب",
+        "fk_state_code": "21",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "288",
+        "code": "2201",
+        "name": "Sidi bel abbes",
+        "ar_name": "سيدي بلعباس",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "289",
+        "code": "2202",
+        "name": "Tessala",
+        "ar_name": "تسالة",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "290",
+        "code": "2204",
+        "name": "Mostefa  ben brahim",
+        "ar_name": "مصطفى بن ابراهيم",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "291",
+        "code": "2205",
+        "name": "Telagh",
+        "ar_name": "تلاغ",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "292",
+        "code": "2208",
+        "name": "Sidi ali boussidi",
+        "ar_name": "سيدي علي بوسيدي",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "293",
+        "code": "2210",
+        "name": "Marhoum",
+        "ar_name": "مرحوم",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "294",
+        "code": "2214",
+        "name": "Sidi lahcene",
+        "ar_name": "سيدي لحسن",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "295",
+        "code": "2217",
+        "name": "Tenira",
+        "ar_name": "تنيرة",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "296",
+        "code": "2218",
+        "name": "Moulay slissen",
+        "ar_name": "مولاي سليسن",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "297",
+        "code": "2222",
+        "name": "Merine",
+        "ar_name": "مرين",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "298",
+        "code": "2223",
+        "name": "Ras el ma",
+        "ar_name": "راس الماء",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "299",
+        "code": "2228",
+        "name": "Ain el berd",
+        "ar_name": "عين البرد",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "300",
+        "code": "2229",
+        "name": "Sfisef",
+        "ar_name": "سفيزف",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "301",
+        "code": "2245",
+        "name": "Ben badis",
+        "ar_name": "بن باديس",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "302",
+        "code": "2246",
+        "name": "Sidi ali ben youb",
+        "ar_name": "سيدي علي بن يوب",
+        "fk_state_code": "22",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "303",
+        "code": "2301",
+        "name": "Annaba",
+        "ar_name": "عنابة",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "304",
+        "code": "2302",
+        "name": "Berrahal",
+        "ar_name": "برحال",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "305",
+        "code": "2303",
+        "name": "El hadjar",
+        "ar_name": "الحجار",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "306",
+        "code": "2305",
+        "name": "El bouni",
+        "ar_name": "البوني",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "307",
+        "code": "2309",
+        "name": "Ain el berda",
+        "ar_name": "عين الباردة",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "308",
+        "code": "2310",
+        "name": "Chetaibi",
+        "ar_name": "شطايبي",
+        "fk_state_code": "23",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "309",
+        "code": "2401",
+        "name": "Guelma",
+        "ar_name": "قالمة",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "310",
+        "code": "2404",
+        "name": "Oued zenati",
+        "ar_name": "وادي الزناتي",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "311",
+        "code": "2413",
+        "name": "Ain makhlouf",
+        "ar_name": "عين مخلوف",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "312",
+        "code": "2415",
+        "name": "Khezaras",
+        "ar_name": "خزارة",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "313",
+        "code": "2418",
+        "name": "Guelaat bousbaa",
+        "ar_name": "قلعة بوصبع",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "314",
+        "code": "2419",
+        "name": "Hammam debagh",
+        "ar_name": "حمام دباغ",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "315",
+        "code": "2422",
+        "name": "Hammam n'bails",
+        "ar_name": "حمام النبايل",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "316",
+        "code": "2425",
+        "name": "Bouchegouf",
+        "ar_name": "بوشقوف",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "317",
+        "code": "2426",
+        "name": "Heliopolis",
+        "ar_name": "هيليوبوليس",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:00",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "318",
+        "code": "2427",
+        "name": "Ain hessainia",
+        "ar_name": "عين حساينية",
+        "fk_state_code": "24",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "319",
+        "code": "2501",
+        "name": "Constantine",
+        "ar_name": "قسنطينة",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "320",
+        "code": "2502",
+        "name": "Hamma bouziane",
+        "ar_name": "حامة بوزيان",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "321",
+        "code": "2504",
+        "name": "Zighoud youcef",
+        "ar_name": "زيغود يوسف",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "322",
+        "code": "2506",
+        "name": "El khroub",
+        "ar_name": "الخروب",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "323",
+        "code": "2507",
+        "name": "Ain abid",
+        "ar_name": "عين عبيد",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "324",
+        "code": "2512",
+        "name": "Ibn ziad",
+        "ar_name": "ابن زياد",
+        "fk_state_code": "25",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "325",
+        "code": "2601",
+        "name": "Medea",
+        "ar_name": "المدية",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "326",
+        "code": "2602",
+        "name": "Ouzera",
+        "ar_name": "وزرة",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "327",
+        "code": "2604",
+        "name": "Ain boucif",
+        "ar_name": "عين بوسيف",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "328",
+        "code": "2607",
+        "name": "El omaria",
+        "ar_name": "العمارية",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "329",
+        "code": "2609",
+        "name": "Guelb el kebir",
+        "ar_name": "القلب الكبير",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "330",
+        "code": "2618",
+        "name": "Chellalat el adhaoura",
+        "ar_name": "شلالة العذاورة",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "331",
+        "code": "2626",
+        "name": "Sidi naamane",
+        "ar_name": "سيدي نعمان",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "332",
+        "code": "2632",
+        "name": "Aziz",
+        "ar_name": "عزيز",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "333",
+        "code": "2633",
+        "name": "Souaghi",
+        "ar_name": "السواقي",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "334",
+        "code": "2635",
+        "name": "Ksar el boukhari",
+        "ar_name": "قصر البخاري",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "335",
+        "code": "2636",
+        "name": "El azizia",
+        "ar_name": "العزيزية",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "336",
+        "code": "2638",
+        "name": "Chahbounia",
+        "ar_name": "الشهبونية",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "337",
+        "code": "2643",
+        "name": "Ouamri",
+        "ar_name": "عوامري",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "338",
+        "code": "2644",
+        "name": "Si mahdjoub",
+        "ar_name": "سي المحجوب",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "339",
+        "code": "2646",
+        "name": "Beni slimane",
+        "ar_name": "بني سليمان",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "340",
+        "code": "2647",
+        "name": "Berrouaghia",
+        "ar_name": "البرواقية",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "341",
+        "code": "2648",
+        "name": "Seghouane",
+        "ar_name": "سغوان",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "342",
+        "code": "2652",
+        "name": "Tablat",
+        "ar_name": "تابلاط",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "343",
+        "code": "2658",
+        "name": "Ouled antar",
+        "ar_name": "أولاد عنتر",
+        "fk_state_code": "26",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "344",
+        "code": "2701",
+        "name": "Mostaganem",
+        "ar_name": "مستغانم",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "345",
+        "code": "2705",
+        "name": "Ain nouicy",
+        "ar_name": "عين نويسي",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "346",
+        "code": "2706",
+        "name": "Hassi mameche",
+        "ar_name": "حاسي ماماش",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "347",
+        "code": "2707",
+        "name": "Ain tedeles",
+        "ar_name": "عين تادلس",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "348",
+        "code": "2711",
+        "name": "Kheir eddine",
+        "ar_name": "خير الدين",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "349",
+        "code": "2712",
+        "name": "Sidi ali",
+        "ar_name": "سيدي علي",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "350",
+        "code": "2716",
+        "name": "Sidi lakhdar",
+        "ar_name": "سيدي لخضر",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "351",
+        "code": "2717",
+        "name": "Achaacha",
+        "ar_name": "عشعاشة",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "352",
+        "code": "2719",
+        "name": "Bouguirat",
+        "ar_name": "بوقيراط",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "353",
+        "code": "2722",
+        "name": "Mesra",
+        "ar_name": "ماسرة",
+        "fk_state_code": "27",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "354",
+        "code": "2801",
+        "name": "M'sila",
+        "ar_name": "المسيلة",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "355",
+        "code": "2803",
+        "name": "Hammam dalaa",
+        "ar_name": "حمام الضلعة",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "356",
+        "code": "2804",
+        "name": "Ouled derradj",
+        "ar_name": "أولاد دراج",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "357",
+        "code": "2807",
+        "name": "Khoubana",
+        "ar_name": "خبانة",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "358",
+        "code": "2809",
+        "name": "Chellal",
+        "ar_name": "شلال",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "359",
+        "code": "2811",
+        "name": "Magra",
+        "ar_name": "مقرة",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "360",
+        "code": "2816",
+        "name": "Sidi aissa",
+        "ar_name": "سيدي عيسى",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "361",
+        "code": "2817",
+        "name": "Ain el hadjel",
+        "ar_name": "عين الحجل",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "362",
+        "code": "2820",
+        "name": "Bousaada",
+        "ar_name": "بوسعادة",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "363",
+        "code": "2821",
+        "name": "Ouled sidi brahim",
+        "ar_name": "أولاد سيدي ابراهيم",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "364",
+        "code": "2822",
+        "name": "Sidi ameur",
+        "ar_name": "سيدي عامر",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "365",
+        "code": "2824",
+        "name": "Ben srour",
+        "ar_name": "بن سرور",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "366",
+        "code": "2841",
+        "name": "Ain el melh",
+        "ar_name": "عين الملح",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "367",
+        "code": "2842",
+        "name": "Medjedel",
+        "ar_name": "امجدل",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "368",
+        "code": "2847",
+        "name": "Djebel messaad",
+        "ar_name": "جبل مساعد",
+        "fk_state_code": "28",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "369",
+        "code": "2901",
+        "name": "Mascara",
+        "ar_name": "معسكر",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "370",
+        "code": "2902",
+        "name": "Bouhanifia",
+        "ar_name": "بوحنيفية",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "371",
+        "code": "2903",
+        "name": "Tizi",
+        "ar_name": "تيزي",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "372",
+        "code": "2906",
+        "name": "Tighennif",
+        "ar_name": "تيغنيف",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "373",
+        "code": "2907",
+        "name": "Hachem",
+        "ar_name": "الحشم",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "374",
+        "code": "2910",
+        "name": "Oued el abtal",
+        "ar_name": "وادي الأبطال",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "375",
+        "code": "2912",
+        "name": "Ghriss",
+        "ar_name": "غريس",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "376",
+        "code": "2917",
+        "name": "El bordj",
+        "ar_name": "البرج",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "377",
+        "code": "2918",
+        "name": "Ain fekan",
+        "ar_name": "عين فكان",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "378",
+        "code": "2922",
+        "name": "Oued taria",
+        "ar_name": "وادي التاغية",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "379",
+        "code": "2923",
+        "name": "Aouf",
+        "ar_name": "عوف",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "380",
+        "code": "2924",
+        "name": "Ain fares",
+        "ar_name": "عين فارس",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "381",
+        "code": "2926",
+        "name": "Sig",
+        "ar_name": "سيق",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "382",
+        "code": "2927",
+        "name": "Oggaz",
+        "ar_name": "عقاز",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "383",
+        "code": "2930",
+        "name": "Zahana",
+        "ar_name": "زهانة",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:01",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "384",
+        "code": "2931",
+        "name": "Mohammadia",
+        "ar_name": "المحمدية",
+        "fk_state_code": "29",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "385",
+        "code": "3001",
+        "name": "Ouargla",
+        "ar_name": "ورقلة",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "386",
+        "code": "3003",
+        "name": "N'goussa",
+        "ar_name": "انقوسة",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "387",
+        "code": "3004",
+        "name": "Hassi messaoud",
+        "ar_name": "حاسي مسعود",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "388",
+        "code": "3011",
+        "name": "Sidi khouiled",
+        "ar_name": "سيدي خويلد",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "389",
+        "code": "3013",
+        "name": "Touggourt (wilaya déléguée)",
+        "ar_name": "تقرت",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "390",
+        "code": "3013",
+        "name": "Touggourt",
+        "ar_name": "تقرت (ولاية منتدبة)",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "391",
+        "code": "3014",
+        "name": "El-hadjira",
+        "ar_name": "الحجيرة",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "392",
+        "code": "3015",
+        "name": "Taibet",
+        "ar_name": "الطيبات",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "393",
+        "code": "3016",
+        "name": "Temacine",
+        "ar_name": "تماسين",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "394",
+        "code": "3019",
+        "name": "Megarine",
+        "ar_name": "المقارين",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "395",
+        "code": "3021",
+        "name": "El borma",
+        "ar_name": "البرمة",
+        "fk_state_code": "30",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "396",
+        "code": "3101",
+        "name": "Oran",
+        "ar_name": "وهران",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "397",
+        "code": "3102",
+        "name": "Gdyel",
+        "ar_name": "قديل",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "398",
+        "code": "3103",
+        "name": "Bir el djir",
+        "ar_name": "بئر الجير",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "399",
+        "code": "3105",
+        "name": "Es senia",
+        "ar_name": "السانية",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "400",
+        "code": "3106",
+        "name": "Arzew",
+        "ar_name": "أرزيو",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "401",
+        "code": "3107",
+        "name": "Bethioua",
+        "ar_name": "بطيوة",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "402",
+        "code": "3109",
+        "name": "Ain turk",
+        "ar_name": "عين الترك",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "403",
+        "code": "3111",
+        "name": "Oued tlelat",
+        "ar_name": "وادي تليلات",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "404",
+        "code": "3124",
+        "name": "Boutlelis",
+        "ar_name": "بوتليليس",
+        "fk_state_code": "31",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "405",
+        "code": "3201",
+        "name": "El bayadh",
+        "ar_name": "البيض",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "406",
+        "code": "3202",
+        "name": "Rogassa",
+        "ar_name": "رقاصة",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "407",
+        "code": "3203",
+        "name": "Brezina",
+        "ar_name": "بريزينة",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "408",
+        "code": "3204",
+        "name": "Boualem",
+        "ar_name": "بوعلام",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "409",
+        "code": "3205",
+        "name": "Labiodh sidi cheikh",
+        "ar_name": "الأبيض سيدي الشيخ",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "410",
+        "code": "3206",
+        "name": "Bougtob",
+        "ar_name": "بوقطب",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "411",
+        "code": "3207",
+        "name": "Boussemghoun",
+        "ar_name": "بوسمغون",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "412",
+        "code": "3208",
+        "name": "Chellala",
+        "ar_name": "شلالة",
+        "fk_state_code": "32",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "413",
+        "code": "3301",
+        "name": "Illizi",
+        "ar_name": "إيليزي",
+        "fk_state_code": "33",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "414",
+        "code": "3302",
+        "name": "Djanet",
+        "ar_name": "جانت",
+        "fk_state_code": "33",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "415",
+        "code": "3302",
+        "name": "Djanet (wilaya déléguée)",
+        "ar_name": "جانت (ولاية منتدبة)",
+        "fk_state_code": "33",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "416",
+        "code": "3306",
+        "name": "Ain amenas",
+        "ar_name": "إن أمناس",
+        "fk_state_code": "33",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "417",
+        "code": "3401",
+        "name": "Bordj bou arreridj",
+        "ar_name": "برج بوعريريج",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "418",
+        "code": "3402",
+        "name": "Ras el oued",
+        "ar_name": "رأس الوادي",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "419",
+        "code": "3403",
+        "name": "Bordj zemmoura",
+        "ar_name": "برج زمورة",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "420",
+        "code": "3404",
+        "name": "Mansourah",
+        "ar_name": "المنصورة",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "421",
+        "code": "3408",
+        "name": "Ain taghrout",
+        "ar_name": "عين تاغروت",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "422",
+        "code": "3409",
+        "name": "Bordj ghedir",
+        "ar_name": "برج الغدير",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "423",
+        "code": "3411",
+        "name": "El hamadia",
+        "ar_name": "الحمادية",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "424",
+        "code": "3413",
+        "name": "Medjana",
+        "ar_name": "مجانة",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "425",
+        "code": "3415",
+        "name": "Djaafra",
+        "ar_name": "جعافرة",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "426",
+        "code": "3431",
+        "name": "Bir kasdali",
+        "ar_name": "بئر قاصد علي",
+        "fk_state_code": "34",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "427",
+        "code": "3501",
+        "name": "Boumerdes",
+        "ar_name": "بومرداس",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "428",
+        "code": "3502",
+        "name": "Boudouaou",
+        "ar_name": "بودواو",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "429",
+        "code": "3504",
+        "name": "Bordj menaiel",
+        "ar_name": "برج منايل",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "430",
+        "code": "3505",
+        "name": "Baghlia",
+        "ar_name": "بغلية",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "431",
+        "code": "3507",
+        "name": "Naciria",
+        "ar_name": "الناصرية",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "432",
+        "code": "3509",
+        "name": "Isser",
+        "ar_name": "يسر",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "433",
+        "code": "3514",
+        "name": "Thenia",
+        "ar_name": "الثنية",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "434",
+        "code": "3523",
+        "name": "Dellys",
+        "ar_name": "دلس",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "435",
+        "code": "3531",
+        "name": "Khemis el khechna",
+        "ar_name": "خميس الخشنة",
+        "fk_state_code": "35",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "436",
+        "code": "3601",
+        "name": "El tarf",
+        "ar_name": "الطارف",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "437",
+        "code": "3602",
+        "name": "Bouhadjar",
+        "ar_name": "بوحجار",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "438",
+        "code": "3603",
+        "name": "Ben m'hidi",
+        "ar_name": "بن مهيدي",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "439",
+        "code": "3605",
+        "name": "El kala",
+        "ar_name": "القالة",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "440",
+        "code": "3608",
+        "name": "Bouteldja",
+        "ar_name": "بوثلجة",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "441",
+        "code": "3613",
+        "name": "Drean",
+        "ar_name": "الذرعان",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "442",
+        "code": "3616",
+        "name": "Besbes",
+        "ar_name": "البسباس",
+        "fk_state_code": "36",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "443",
+        "code": "3701",
+        "name": "Tindouf",
+        "ar_name": "تندوف",
+        "fk_state_code": "37",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "444",
+        "code": "3801",
+        "name": "Tissemsilt",
+        "ar_name": "تيسمسيلت",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "445",
+        "code": "3802",
+        "name": "Bordj bounaama",
+        "ar_name": "برج بونعامة",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "446",
+        "code": "3803",
+        "name": "Theniet el had",
+        "ar_name": "ثنية الاحد",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "447",
+        "code": "3804",
+        "name": "Lazharia",
+        "ar_name": "الأزهرية",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "448",
+        "code": "3806",
+        "name": "Lardjem",
+        "ar_name": "لرجام",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "449",
+        "code": "3809",
+        "name": "Bordj emir abdelkader",
+        "ar_name": "برج الأمير عبد القادر",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "450",
+        "code": "3811",
+        "name": "Khemisti",
+        "ar_name": "خميستي",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "451",
+        "code": "3813",
+        "name": "Ammari",
+        "ar_name": "عماري",
+        "fk_state_code": "38",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "452",
+        "code": "3901",
+        "name": "El oued",
+        "ar_name": "الوادي",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "453",
+        "code": "3902",
+        "name": "Robbah",
+        "ar_name": "الرباح",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "454",
+        "code": "3904",
+        "name": "Bayadha",
+        "ar_name": "البياضة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "455",
+        "code": "3906",
+        "name": "Guemar",
+        "ar_name": "قمار",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "456",
+        "code": "3908",
+        "name": "Reguiba",
+        "ar_name": "الرقيبة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:02",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "457",
+        "code": "3911",
+        "name": "Debila",
+        "ar_name": "الدبيلة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "458",
+        "code": "3913",
+        "name": "Hassi khalifa",
+        "ar_name": "حاسي خليفة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "459",
+        "code": "3914",
+        "name": "Taleb larbi",
+        "ar_name": "الطالب العربي",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "460",
+        "code": "3918",
+        "name": "Magrane",
+        "ar_name": "المقرن",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "461",
+        "code": "3926",
+        "name": "Mih ouensa",
+        "ar_name": "اميه وانسة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "462",
+        "code": "3927",
+        "name": "El meghaier (wilaya déléguée)",
+        "ar_name": "المغير",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "463",
+        "code": "3927",
+        "name": "El meghaier",
+        "ar_name": "المغير (ولاية منتدبة)",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "464",
+        "code": "3928",
+        "name": "Djamaa",
+        "ar_name": "جامعة",
+        "fk_state_code": "39",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "465",
+        "code": "4001",
+        "name": "Khenchela",
+        "ar_name": "خنشلة",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "466",
+        "code": "4003",
+        "name": "Kais",
+        "ar_name": "قايس",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "467",
+        "code": "4005",
+        "name": "El hamma",
+        "ar_name": "الحامة",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "468",
+        "code": "4006",
+        "name": "Ain touila",
+        "ar_name": "عين الطويلة",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "469",
+        "code": "4008",
+        "name": "Bouhmama",
+        "ar_name": "بوحمامة",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "470",
+        "code": "4011",
+        "name": "Chechar",
+        "ar_name": "ششار",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "471",
+        "code": "4013",
+        "name": "Babar",
+        "ar_name": "بابار",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "472",
+        "code": "4016",
+        "name": "Ouled rechache",
+        "ar_name": "أولاد رشاش",
+        "fk_state_code": "40",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "473",
+        "code": "4101",
+        "name": "Souk ahras",
+        "ar_name": "سوق أهراس",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "474",
+        "code": "4102",
+        "name": "Sedrata",
+        "ar_name": "سدراتة",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "475",
+        "code": "4104",
+        "name": "Mechroha",
+        "ar_name": "المشروحة",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "476",
+        "code": "4105",
+        "name": "Ouled driss",
+        "ar_name": "أولاد إدريس",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "477",
+        "code": "4108",
+        "name": "Taoura",
+        "ar_name": "تاورة",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "478",
+        "code": "4110",
+        "name": "Haddada",
+        "ar_name": "الحدادة",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "479",
+        "code": "4112",
+        "name": "Merahna",
+        "ar_name": "المراهنة",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "480",
+        "code": "4114",
+        "name": "Bir bouhouche",
+        "ar_name": "بئر بوحوش",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "481",
+        "code": "4115",
+        "name": "M'daourouche",
+        "ar_name": "مداوروش",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "482",
+        "code": "4116",
+        "name": "Oum el adhaim",
+        "ar_name": "أم العظايم",
+        "fk_state_code": "41",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "483",
+        "code": "4201",
+        "name": "Tipaza",
+        "ar_name": "تيبازة",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "484",
+        "code": "4208",
+        "name": "Hadjout",
+        "ar_name": "حجوط",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "485",
+        "code": "4209",
+        "name": "Sidi amar",
+        "ar_name": "سيدي أعمر",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "486",
+        "code": "4210",
+        "name": "Gouraya",
+        "ar_name": "قوراية",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "487",
+        "code": "4214",
+        "name": "Cherchell",
+        "ar_name": "شرشال",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "488",
+        "code": "4215",
+        "name": "Damous",
+        "ar_name": "الداموس",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "489",
+        "code": "4217",
+        "name": "Fouka",
+        "ar_name": "فوكة",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "490",
+        "code": "4218",
+        "name": "Bou ismail",
+        "ar_name": "بواسماعيل",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "491",
+        "code": "4219",
+        "name": "Ahmar el ain",
+        "ar_name": "أحمر العين",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "492",
+        "code": "4224",
+        "name": "Kolea",
+        "ar_name": "القليعة",
+        "fk_state_code": "42",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "493",
+        "code": "4301",
+        "name": "Mila",
+        "ar_name": "ميلة",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "494",
+        "code": "4302",
+        "name": "Ferdjioua",
+        "ar_name": "فرجيوة",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "495",
+        "code": "4303",
+        "name": "Chelghoum laid",
+        "ar_name": "شلغوم العيد",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "496",
+        "code": "4306",
+        "name": "Teleghma",
+        "ar_name": "التلاغمة",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "497",
+        "code": "4308",
+        "name": "Tadjenanet",
+        "ar_name": "تاجنانت",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "498",
+        "code": "4310",
+        "name": "Oued endja",
+        "ar_name": "وادي النجاء",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "499",
+        "code": "4314",
+        "name": "Bouhatem",
+        "ar_name": "بوحاتم",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "500",
+        "code": "4315",
+        "name": "Rouached",
+        "ar_name": "الرواشد",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "501",
+        "code": "4317",
+        "name": "Grarem gouga",
+        "ar_name": "القرارم قوقة",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "502",
+        "code": "4318",
+        "name": "Sidi merouane",
+        "ar_name": "سيدي مروان",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "503",
+        "code": "4319",
+        "name": "Tassadane haddada",
+        "ar_name": "تسدان حدادة",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "504",
+        "code": "4323",
+        "name": "Terrai bainen",
+        "ar_name": "ترعي باينان",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "505",
+        "code": "4330",
+        "name": "Ain beida harriche",
+        "ar_name": "عين البيضاء أحريش",
+        "fk_state_code": "43",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "506",
+        "code": "4401",
+        "name": "Ain defla",
+        "ar_name": "عين الدفلى",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "507",
+        "code": "4402",
+        "name": "Miliana",
+        "ar_name": "مليانة",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "508",
+        "code": "4403",
+        "name": "Boumedfaa",
+        "ar_name": "بومدفع",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "509",
+        "code": "4404",
+        "name": "Khemis",
+        "ar_name": "خميس",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "510",
+        "code": "4405",
+        "name": "Hammam righa",
+        "ar_name": "حمام ريغة",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "511",
+        "code": "4407",
+        "name": "Djelida",
+        "ar_name": "جليدة",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "512",
+        "code": "4408",
+        "name": "El amra",
+        "ar_name": "العامرة",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "513",
+        "code": "4410",
+        "name": "El attaf",
+        "ar_name": "العطاف",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "514",
+        "code": "4411",
+        "name": "El abadia",
+        "ar_name": "العبادية",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "515",
+        "code": "4412",
+        "name": "Djendel",
+        "ar_name": "جندل",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "516",
+        "code": "4414",
+        "name": "Ain lechiakh",
+        "ar_name": "عين الاشياخ",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "517",
+        "code": "4416",
+        "name": "Rouina",
+        "ar_name": "الروينة",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "518",
+        "code": "4422",
+        "name": "Bordj el emir khaled",
+        "ar_name": "برج الأمير خالد",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "519",
+        "code": "4431",
+        "name": "Bathia",
+        "ar_name": "بطحية",
+        "fk_state_code": "44",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "520",
+        "code": "4501",
+        "name": "Naama",
+        "ar_name": "النعامة",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "521",
+        "code": "4502",
+        "name": "Mecheria",
+        "ar_name": "المشرية",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "522",
+        "code": "4503",
+        "name": "Ain sefra",
+        "ar_name": "عين الصفراء",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "523",
+        "code": "4505",
+        "name": "Sfissifa",
+        "ar_name": "سفيسيفة",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "524",
+        "code": "4506",
+        "name": "Moghrar",
+        "ar_name": "مغرار",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "525",
+        "code": "4507",
+        "name": "Asla",
+        "ar_name": "عسلة",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "526",
+        "code": "4510",
+        "name": "Mekmen ben amar",
+        "ar_name": "مكمن بن عمار",
+        "fk_state_code": "45",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "527",
+        "code": "4601",
+        "name": "Ain temouchent",
+        "ar_name": "عين تموشنت",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "528",
+        "code": "4604",
+        "name": "Hammam bou hadjar",
+        "ar_name": "حمام بوحجر",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:03",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "529",
+        "code": "4609",
+        "name": "Ain larbaa",
+        "ar_name": "عين الأربعاء",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "530",
+        "code": "4614",
+        "name": "El maleh",
+        "ar_name": "المالح",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "531",
+        "code": "4619",
+        "name": "El amria",
+        "ar_name": "العامرية",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "532",
+        "code": "4622",
+        "name": "Ain kihel",
+        "ar_name": "عين الكيحل",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "533",
+        "code": "4623",
+        "name": "Beni saf",
+        "ar_name": "بني صاف",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "534",
+        "code": "4625",
+        "name": "Oulhassa gheraba",
+        "ar_name": "ولهاصة الغرابة",
+        "fk_state_code": "46",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "535",
+        "code": "4701",
+        "name": "Ghardaia",
+        "ar_name": "غرداية",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "536",
+        "code": "4702",
+        "name": "El menia",
+        "ar_name": "المنيعة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "537",
+        "code": "4702",
+        "name": "El menia (wilaya déléguée)",
+        "ar_name": "المنيعة (ولاية منتدبة)",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "538",
+        "code": "4703",
+        "name": "Dhayet ben dhahoua",
+        "ar_name": "ضاية بن ضحوة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "539",
+        "code": "4704",
+        "name": "Berriane",
+        "ar_name": "بريان",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "540",
+        "code": "4705",
+        "name": "Metlili",
+        "ar_name": "متليلي",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "541",
+        "code": "4706",
+        "name": "El guerrara",
+        "ar_name": "القرارة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "542",
+        "code": "4708",
+        "name": "Zelfana",
+        "ar_name": "زلفانة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "543",
+        "code": "4710",
+        "name": "Bounoura",
+        "ar_name": "بونورة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "544",
+        "code": "4713",
+        "name": "Mansourah",
+        "ar_name": "المنصورة",
+        "fk_state_code": "47",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "545",
+        "code": "4801",
+        "name": "Relizane",
+        "ar_name": "غليزان",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "546",
+        "code": "4802",
+        "name": "Oued rhiou",
+        "ar_name": "وادي رهيو",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "547",
+        "code": "4807",
+        "name": "El h'madna",
+        "ar_name": "الحمادنة",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "548",
+        "code": "4808",
+        "name": "Sidi m'hamed ben ali",
+        "ar_name": "سيدي أمحمد بن علي",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "549",
+        "code": "4811",
+        "name": "Ammi moussa",
+        "ar_name": "عمي موسى",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "550",
+        "code": "4812",
+        "name": "Zemmoura",
+        "ar_name": "زمورة",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "551",
+        "code": "4814",
+        "name": "Djidiouia",
+        "ar_name": "جديوية",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "552",
+        "code": "4817",
+        "name": "El matmar",
+        "ar_name": "المطمر",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "553",
+        "code": "4819",
+        "name": "Ain tarek",
+        "ar_name": "عين طارق",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "554",
+        "code": "4822",
+        "name": "Mazouna",
+        "ar_name": "مازونة",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "555",
+        "code": "4825",
+        "name": "Yellel",
+        "ar_name": "يلل",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "556",
+        "code": "4827",
+        "name": "Ramka",
+        "ar_name": "الرمكة",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    },
+    {
+        "id": "557",
+        "code": "4828",
+        "name": "Mendes",
+        "ar_name": "منداس",
+        "fk_state_code": "48",
+        "created_at": "2020-03-02 18:26:04",
+        "updated_at": null,
+        "deleted_at": null
+    }
+]
