@@ -1,0 +1,94 @@
+#!/usr/bin/env php
+<?php
+
+class ADDGenerator
+{
+    public function generatePhp($table = 'states', $additionalFields = NULL)
+    {
+        $con = new PDO('mysql:host=localhost;dbname=test', 'root', '123456');
+
+        $sql = "SELECT id, code, `name`, ar_name $additionalFields FROM $table ORDER BY code";
+        $stmt = $con->prepare($sql);
+        $stmt->execute();
+        
+        $all = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        $res = array();
+        
+        $a = 1;
+        for($i = 0; $i < sizeof($all); $i++)
+        {
+            foreach($all[$i] as $key => $value)
+            {
+                if($key == 'id') $value = $a;
+
+                $res[$i][$key] = $value;
+            }
+
+            $a++;
+        }
+
+        $end = '<?php return ' . var_export($res, true) . ';';
+        $end = preg_replace('#\d+\s+=>#', NULL, $end);
+        file_put_contents('php/'.$table . '.php', $end);
+    }
+
+    public function generateJson($fileName = 'states')
+    {
+        $file = require 'php/' . $fileName . '.php';
+        $res  = json_encode($file, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+
+        file_put_contents('json/' . $fileName . '.json', $res);
+    }
+
+    public function generateCsv($fileName = 'states', $additionalFields = NULL)
+    {
+        $file = require 'php/' . $fileName . '.php';
+
+
+        $res = '"id", "code", "name", "ar_name"' . $additionalFields. "\n";
+
+       for($i = 0; $i < sizeof($file); $i++)
+       {
+            $vals = array_map(function($elem){ return '"' . $elem . '"'; }, array_values($file[$i]));
+            $res .= implode(',', $vals) . "\n";
+       }
+
+        file_put_contents('csv/' . $fileName . '.csv', $res);
+    }
+
+    public function generateXml($fileName = 'states', $additionalFields = NULL)
+    {
+        $file = require 'php/' . $fileName . '.php';
+
+
+        $res = '<' .$fileName.'>' . "\n";
+
+       for($i = 0; $i < sizeof($file); $i++)
+       {
+           $res .= "\t" . '<' . ($fileName == 'counties' ? 'county' : rtrim($fileName, 's')) . '>' . "\n";
+
+            foreach($file[$i] as $key => $val)
+            {
+                $res .= "\t\t" . '<' . $key. '>' . $val . '</' . $key . '>' . "\n";
+            }
+
+            $res .= "\t" . '</' . ($fileName == 'counties' ? 'county' : rtrim($fileName, 's')) . '>' . "\n";
+       }
+
+       $res .= '</' .$fileName.'>';
+
+        file_put_contents('xml/' . $fileName . '.xml', $res);
+    }
+
+}
+ 
+/*
+$generator = new ADDGenerator;
+$generator->generateCsv('districts', ',"county_code"');
+
+
+echo '<pre>';
+$xml = new SimpleXMLElement(file_get_contents('xml/counties.xml'));
+
+print_r($xml);
+*/
