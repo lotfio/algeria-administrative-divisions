@@ -9,7 +9,7 @@
  - ***SQL***
  - ***XML***
 
- This Administrative division includes the newly added delegate state.
+ This Administrative division includes the newly added delegate states :
  - Timimoun (delegate state)
  - Ain guezzam (delegate state)
  - Ain salah (delegate state)
@@ -20,6 +20,3 @@
  - El menia (delegate state)
  - Ouled djellal (delegate state)
  - Beni abbes (delegate state)
-
-
-TODO : wilaya deligé to => delegate state => add 0 to state codes 
