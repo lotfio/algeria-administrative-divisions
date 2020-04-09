@@ -14,10 +14,10 @@
 -- Dumping structure for table mlc.districts
 CREATE TABLE IF NOT EXISTS `districts` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `code` tinyint(4) unsigned zerofill NOT NULL,
+  `code` smallint(4) unsigned zerofill NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `ar_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `fk_county_code` tinyint(4) unsigned zerofill NOT NULL,
+  `fk_county_code` smallint(4) unsigned zerofill NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
   `updated_at` timestamp NULL DEFAULT NULL,
   `deleted_at` timestamp NULL DEFAULT NULL,
