@@ -1,967 +1,999 @@
 <?php return array (
    
   array (
-    'id' => '1',
+    'id' => 1,
     'code' => '0101',
     'name' => 'Adrar',
     'ar_name' => 'أدرار',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '2',
+    'id' => 2,
     'code' => '0103',
     'name' => 'Charouine',
     'ar_name' => 'شروين',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '3',
+    'id' => 3,
     'code' => '0104',
     'name' => 'Reggane',
     'ar_name' => 'رقان',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '4',
+    'id' => 4,
     'code' => '0108',
     'name' => 'Tsabit',
     'ar_name' => 'تسابيت',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '5',
+    'id' => 5,
     'code' => '0109',
     'name' => 'Timimoun',
     'ar_name' => 'تيميمون',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '6',
+    'id' => 6,
+    'code' => '0109',
+    'name' => 'Timimoun (delegate state)',
+    'ar_name' => 'تيميمون (ولاية منتدبة)',
+    'state_code' => '01',
+  ),
+   
+  array (
+    'id' => 7,
     'code' => '0111',
     'name' => 'Zaouiat kounta',
     'ar_name' => 'زاوية كنتة',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '7',
+    'id' => 8,
     'code' => '0112',
     'name' => 'Aoulef',
     'ar_name' => 'أولف',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '8',
+    'id' => 9,
     'code' => '0115',
     'name' => 'Fenoughil',
     'ar_name' => 'فنوغيل',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '9',
+    'id' => 10,
     'code' => '0116',
     'name' => 'Tinerkouk',
     'ar_name' => 'تنركوك',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '10',
+    'id' => 11,
     'code' => '0123',
     'name' => 'Aougrout',
     'ar_name' => 'أوقروت',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '11',
+    'id' => 12,
     'code' => '0125',
     'name' => 'Bordj badji mokhtar',
     'ar_name' => 'برج باجي مختار',
-    'state_code' => '1',
+    'state_code' => '01',
   ),
    
   array (
-    'id' => '12',
+    'id' => 13,
+    'code' => '0125',
+    'name' => 'Bordj badji mokhtar (delegate state)',
+    'ar_name' => 'برج باجي مختار (ولاية منتدبة)',
+    'state_code' => '01',
+  ),
+   
+  array (
+    'id' => 14,
     'code' => '0201',
     'name' => 'Chlef',
     'ar_name' => 'الشلف',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '13',
+    'id' => 15,
     'code' => '0202',
     'name' => 'Tenes',
     'ar_name' => 'تنس',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '14',
+    'id' => 16,
     'code' => '0204',
     'name' => 'El karimia',
     'ar_name' => 'الكريمية',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '15',
+    'id' => 17,
     'code' => '0206',
     'name' => 'Taougrit',
     'ar_name' => 'تاوقريت',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '16',
+    'id' => 18,
     'code' => '0207',
     'name' => 'Beni haoua',
     'ar_name' => 'بني حواء',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '17',
+    'id' => 19,
     'code' => '0210',
     'name' => 'Ouled fares',
     'ar_name' => 'أولاد فارس',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '18',
+    'id' => 20,
     'code' => '0212',
     'name' => 'Boukadir',
     'ar_name' => 'بوقادير',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '19',
+    'id' => 21,
     'code' => '0220',
     'name' => 'Zeboudja',
     'ar_name' => 'الزبوجة',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '20',
+    'id' => 22,
     'code' => '0222',
     'name' => 'Abou el hassane',
     'ar_name' => 'أبو الحسن',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '21',
+    'id' => 23,
     'code' => '0223',
     'name' => 'El marsa',
     'ar_name' => 'المرسى',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '22',
+    'id' => 24,
     'code' => '0229',
     'name' => 'Oued fodda',
     'ar_name' => 'وادي الفضة',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '23',
+    'id' => 25,
     'code' => '0230',
     'name' => 'Ouled ben abdelkader',
     'ar_name' => 'أولاد بن عبد القادر',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '24',
+    'id' => 26,
     'code' => '0232',
     'name' => 'Ain merane',
     'ar_name' => 'عين مران',
-    'state_code' => '2',
+    'state_code' => '02',
   ),
    
   array (
-    'id' => '25',
+    'id' => 27,
     'code' => '0301',
     'name' => 'Laghouat',
     'ar_name' => 'الأغواط',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '26',
+    'id' => 28,
     'code' => '0302',
     'name' => 'Ksar el hirane',
     'ar_name' => 'قصر الحيران',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '27',
+    'id' => 29,
     'code' => '0304',
     'name' => 'Sidi makhlouf',
     'ar_name' => 'سيدي مخلوف',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '28',
+    'id' => 30,
     'code' => '0306',
     'name' => 'Hassi r\'mel',
     'ar_name' => 'حاسي الرمل',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '29',
+    'id' => 31,
     'code' => '0307',
     'name' => 'Ain madhi',
     'ar_name' => 'عين ماضي',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '30',
+    'id' => 32,
     'code' => '0310',
     'name' => 'Gueltat sidi saad',
     'ar_name' => 'قتلة سيدي سعيد',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '31',
+    'id' => 33,
     'code' => '0313',
     'name' => 'Brida',
     'ar_name' => 'بريدة',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '32',
+    'id' => 34,
     'code' => '0314',
     'name' => 'El ghicha',
     'ar_name' => 'الغيشة',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '33',
+    'id' => 35,
     'code' => '0319',
     'name' => 'Aflou',
     'ar_name' => 'أفلو',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '34',
+    'id' => 36,
     'code' => '0321',
     'name' => 'Oued morra',
     'ar_name' => 'وادي مرة',
-    'state_code' => '3',
+    'state_code' => '03',
   ),
    
   array (
-    'id' => '35',
+    'id' => 37,
     'code' => '0401',
     'name' => 'Oum el bouaghi',
     'ar_name' => 'أم البواقي',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '36',
+    'id' => 38,
     'code' => '0402',
     'name' => 'Ain beida',
     'ar_name' => 'عين البيضاء',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '37',
+    'id' => 39,
     'code' => '0403',
     'name' => 'Ain m\'lila',
     'ar_name' => 'عين مليلة',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '38',
+    'id' => 40,
     'code' => '0406',
     'name' => 'Sigus',
     'ar_name' => 'سيقوس',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '39',
+    'id' => 41,
     'code' => '0408',
     'name' => 'Ain babouche',
     'ar_name' => 'عين ببوش',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '40',
+    'id' => 42,
     'code' => '0411',
     'name' => 'Dhalaa',
     'ar_name' => 'الضلعة',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '41',
+    'id' => 43,
     'code' => '0412',
     'name' => 'Ain kercha',
     'ar_name' => 'عين كرشة',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '42',
+    'id' => 44,
     'code' => '0416',
     'name' => 'F\'kirina',
     'ar_name' => 'فكيرينة',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '43',
+    'id' => 45,
     'code' => '0417',
     'name' => 'Souk naamane',
     'ar_name' => 'سوق نعمان',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '44',
+    'id' => 46,
     'code' => '0422',
     'name' => 'Ksar sbahi',
     'ar_name' => 'قصر الصباحي',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '45',
+    'id' => 47,
     'code' => '0424',
     'name' => 'Meskiana',
     'ar_name' => 'مسكيانة',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '46',
+    'id' => 48,
     'code' => '0425',
     'name' => 'Ain fekroun',
     'ar_name' => 'عين فكرون',
-    'state_code' => '4',
+    'state_code' => '04',
   ),
    
   array (
-    'id' => '47',
+    'id' => 49,
     'code' => '0501',
     'name' => 'Batna',
     'ar_name' => 'باتنة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '48',
+    'id' => 50,
     'code' => '0504',
     'name' => 'Merouana',
     'ar_name' => 'مروانة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '49',
+    'id' => 51,
     'code' => '0505',
     'name' => 'Seriana',
     'ar_name' => 'سريانة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '50',
+    'id' => 52,
     'code' => '0506',
     'name' => 'Menaa',
     'ar_name' => 'منعة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '51',
+    'id' => 53,
     'code' => '0507',
     'name' => 'El madher',
     'ar_name' => 'المعذر',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '52',
+    'id' => 54,
     'code' => '0508',
     'name' => 'Tazoult',
     'ar_name' => 'تازولت',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '53',
+    'id' => 55,
     'code' => '0509',
     'name' => 'N\'gaous',
     'ar_name' => 'نقاوس',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '54',
+    'id' => 56,
     'code' => '0516',
     'name' => 'Arris',
     'ar_name' => 'أريس',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '55',
+    'id' => 57,
     'code' => '0519',
     'name' => 'Ain djasser',
     'ar_name' => 'عين جاسر',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '56',
+    'id' => 58,
     'code' => '0529',
     'name' => 'Seggana',
     'ar_name' => 'سقانة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '57',
+    'id' => 59,
     'code' => '0530',
     'name' => 'Ichemoul',
     'ar_name' => 'إشمول',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '58',
+    'id' => 60,
     'code' => '0535',
     'name' => 'Bouzina',
     'ar_name' => 'بوزينة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '59',
+    'id' => 61,
     'code' => '0536',
     'name' => 'Chemora',
     'ar_name' => 'الشمرة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '60',
+    'id' => 62,
     'code' => '0542',
     'name' => 'Barika',
     'ar_name' => 'بريكة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '61',
+    'id' => 63,
     'code' => '0543',
     'name' => 'Djezzar',
     'ar_name' => 'الجزار',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '62',
+    'id' => 64,
     'code' => '0544',
     'name' => 'Tkout',
     'ar_name' => 'تكوت',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '63',
+    'id' => 65,
     'code' => '0545',
     'name' => 'Ain touta',
     'ar_name' => 'عين التوتة',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '64',
+    'id' => 66,
     'code' => '0547',
     'name' => 'Theniet el abed',
     'ar_name' => 'ثنية العابد',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '65',
+    'id' => 67,
     'code' => '0550',
     'name' => 'Timgad',
     'ar_name' => 'تيمقاد',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '66',
+    'id' => 68,
     'code' => '0551',
     'name' => 'Ras el aioun',
     'ar_name' => 'رأس العيون',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '67',
+    'id' => 69,
     'code' => '0553',
     'name' => 'Ouled si slimane',
     'ar_name' => 'أولاد سي سليمان',
-    'state_code' => '5',
+    'state_code' => '05',
   ),
    
   array (
-    'id' => '68',
+    'id' => 70,
     'code' => '0601',
     'name' => 'Bejaia',
     'ar_name' => 'بجاية',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '69',
+    'id' => 71,
     'code' => '0602',
     'name' => 'Amizour',
     'ar_name' => 'أميزور',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '70',
+    'id' => 72,
     'code' => '0607',
     'name' => 'Timezrit',
     'ar_name' => 'تيمزريت',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '71',
+    'id' => 73,
     'code' => '0608',
     'name' => 'Souk el tenine',
     'ar_name' => 'سوق الإثنين',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '72',
+    'id' => 74,
     'code' => '0611',
     'name' => 'Tichy',
     'ar_name' => 'تيشي',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '73',
+    'id' => 75,
     'code' => '0617',
     'name' => 'Ighil ali',
     'ar_name' => 'إغيل علي',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '74',
+    'id' => 76,
     'code' => '0620',
     'name' => 'Darguina',
     'ar_name' => 'درقينة',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '75',
+    'id' => 77,
     'code' => '0622',
     'name' => 'Aokas',
     'ar_name' => 'أوقاس',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '76',
+    'id' => 78,
     'code' => '0624',
     'name' => 'Adekar',
     'ar_name' => 'أدكار',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '77',
+    'id' => 79,
     'code' => '0625',
     'name' => 'Akbou',
     'ar_name' => 'أقبو',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '78',
+    'id' => 80,
     'code' => '0626',
     'name' => 'Seddouk',
     'ar_name' => 'صدوق',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '79',
+    'id' => 81,
     'code' => '0627',
     'name' => 'Tazmalt',
     'ar_name' => 'تازملت',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '80',
+    'id' => 82,
     'code' => '0629',
     'name' => 'Chemini',
     'ar_name' => 'شميني',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '81',
+    'id' => 83,
     'code' => '0634',
     'name' => 'Barbacha',
     'ar_name' => 'برباشة',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '82',
+    'id' => 84,
     'code' => '0636',
     'name' => 'Ifri ouzellaguene',
     'ar_name' => 'إفري أوزلاقن',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '83',
+    'id' => 85,
     'code' => '0639',
     'name' => 'Sidi aich',
     'ar_name' => 'سيدي عيش',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '84',
+    'id' => 86,
     'code' => '0640',
     'name' => 'El kseur',
     'ar_name' => 'القصر',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '85',
+    'id' => 87,
     'code' => '0644',
     'name' => 'Kherrata',
     'ar_name' => 'خراطة',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '86',
+    'id' => 88,
     'code' => '0650',
     'name' => 'Beni maouche',
     'ar_name' => 'بني معوش',
-    'state_code' => '6',
+    'state_code' => '06',
   ),
    
   array (
-    'id' => '87',
+    'id' => 89,
     'code' => '0701',
     'name' => 'Biskra',
     'ar_name' => 'بسكرة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '88',
+    'id' => 90,
     'code' => '0705',
     'name' => 'Ouled djellal',
     'ar_name' => 'أولاد جلال',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '89',
+    'id' => 91,
+    'code' => '0705',
+    'name' => 'Ouled djellal (delegate state)',
+    'ar_name' => 'أولاد جلال (ولاية منتدبة)',
+    'state_code' => '07',
+  ),
+   
+  array (
+    'id' => 92,
     'code' => '0708',
     'name' => 'Sidi khaled',
     'ar_name' => 'سيدي  خالد',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '90',
+    'id' => 93,
     'code' => '0711',
     'name' => 'Sidi okba',
     'ar_name' => 'سيدي عقبة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '91',
+    'id' => 94,
     'code' => '0712',
     'name' => 'Mechouneche',
     'ar_name' => 'مشونش',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '92',
+    'id' => 95,
     'code' => '0715',
     'name' => 'Zeribet el oued',
     'ar_name' => 'زريبة الوادي',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '93',
+    'id' => 96,
     'code' => '0717',
     'name' => 'El kantara',
     'ar_name' => 'القنطرة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '94',
+    'id' => 97,
     'code' => '0719',
     'name' => 'El outaya',
     'ar_name' => 'الوطاية',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '95',
+    'id' => 98,
     'code' => '0720',
     'name' => 'Djemorah',
     'ar_name' => 'جمورة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '96',
+    'id' => 99,
     'code' => '0721',
     'name' => 'Tolga',
     'ar_name' => 'طولقة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '97',
+    'id' => 100,
     'code' => '0724',
     'name' => 'Ourlal',
     'ar_name' => 'أورلال',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '98',
+    'id' => 101,
     'code' => '0726',
     'name' => 'Foughala',
     'ar_name' => 'فوغالة',
-    'state_code' => '7',
+    'state_code' => '07',
   ),
    
   array (
-    'id' => '99',
+    'id' => 102,
     'code' => '0801',
     'name' => 'Bechar',
     'ar_name' => 'بشار',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '100',
+    'id' => 103,
     'code' => '0803',
     'name' => 'Ouled khodeir',
     'ar_name' => 'أولاد خضير',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '101',
+    'id' => 104,
     'code' => '0806',
     'name' => 'Lahmar',
     'ar_name' => 'لحمر',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '102',
+    'id' => 105,
     'code' => '0807',
     'name' => 'Beni abbes',
     'ar_name' => 'بني عباس',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '103',
+    'id' => 106,
+    'code' => '0807',
+    'name' => 'Beni abbes (delegate state)',
+    'ar_name' => 'بني عباس (ولاية منتدبة)',
+    'state_code' => '08',
+  ),
+   
+  array (
+    'id' => 107,
     'code' => '0810',
     'name' => 'Kenadsa',
     'ar_name' => 'القنادسة',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '104',
+    'id' => 108,
     'code' => '0811',
     'name' => 'Igli',
     'ar_name' => 'إقلي',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '105',
+    'id' => 109,
     'code' => '0812',
     'name' => 'Tabelbala',
     'ar_name' => 'تبلبالة',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '106',
+    'id' => 110,
     'code' => '0813',
     'name' => 'Taghit',
     'ar_name' => 'تاغيت',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '107',
+    'id' => 111,
     'code' => '0814',
     'name' => 'El ouata',
     'ar_name' => 'الواتة',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '108',
+    'id' => 112,
     'code' => '0817',
     'name' => 'Abadla',
     'ar_name' => 'العبادلة',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '109',
+    'id' => 113,
     'code' => '0818',
     'name' => 'Kerzaz',
     'ar_name' => 'كرزاز',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '110',
+    'id' => 114,
     'code' => '0821',
     'name' => 'Beni ounif',
     'ar_name' => 'بني ونيف',
-    'state_code' => '8',
+    'state_code' => '08',
   ),
    
   array (
-    'id' => '111',
+    'id' => 115,
     'code' => '0901',
     'name' => 'Blida',
     'ar_name' => 'البليدة',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '112',
+    'id' => 116,
     'code' => '0903',
     'name' => 'Bouinan',
     'ar_name' => 'بوعينان',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '113',
+    'id' => 117,
     'code' => '0904',
     'name' => 'Oued el alleug',
     'ar_name' => 'وادي العلايق',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '114',
+    'id' => 118,
     'code' => '0905',
     'name' => 'Ouled yaich',
     'ar_name' => 'أولاد يعيش',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '115',
+    'id' => 119,
     'code' => '0907',
     'name' => 'El affroun',
     'ar_name' => 'العفرون',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '116',
+    'id' => 120,
     'code' => '0912',
     'name' => 'Mouzaia',
     'ar_name' => 'موزاية',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '117',
+    'id' => 121,
     'code' => '0914',
     'name' => 'Meftah',
     'ar_name' => 'مفتاح',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '118',
+    'id' => 122,
     'code' => '0916',
     'name' => 'Boufarik',
     'ar_name' => 'بوفاريك',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '119',
+    'id' => 123,
     'code' => '0917',
     'name' => 'Larbaa',
     'ar_name' => 'الأربعاء',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '120',
+    'id' => 124,
     'code' => '0922',
     'name' => 'Bougara',
     'ar_name' => 'بوقرة',
-    'state_code' => '9',
+    'state_code' => '09',
   ),
    
   array (
-    'id' => '121',
+    'id' => 125,
     'code' => '1001',
     'name' => 'Bouira',
     'ar_name' => 'البويرة',
@@ -969,7 +1001,7 @@
   ),
    
   array (
-    'id' => '122',
+    'id' => 126,
     'code' => '1004',
     'name' => 'Souk el khemis',
     'ar_name' => 'سوق الخميس',
@@ -977,7 +1009,7 @@
   ),
    
   array (
-    'id' => '123',
+    'id' => 127,
     'code' => '1005',
     'name' => 'Kadiria',
     'ar_name' => 'القادرية',
@@ -985,7 +1017,7 @@
   ),
    
   array (
-    'id' => '124',
+    'id' => 128,
     'code' => '1012',
     'name' => 'Haizer',
     'ar_name' => 'الحيزر',
@@ -993,7 +1025,7 @@
   ),
    
   array (
-    'id' => '125',
+    'id' => 129,
     'code' => '1013',
     'name' => 'Lakhdaria',
     'ar_name' => 'الأخضرية',
@@ -1001,7 +1033,7 @@
   ),
    
   array (
-    'id' => '126',
+    'id' => 130,
     'code' => '1015',
     'name' => 'El hachimia',
     'ar_name' => 'الهاشمية',
@@ -1009,7 +1041,7 @@
   ),
    
   array (
-    'id' => '127',
+    'id' => 131,
     'code' => '1018',
     'name' => 'Bordj okhriss',
     'ar_name' => 'برج أوخريص',
@@ -1017,7 +1049,7 @@
   ),
    
   array (
-    'id' => '128',
+    'id' => 132,
     'code' => '1033',
     'name' => 'Bechloul',
     'ar_name' => 'بشلول',
@@ -1025,7 +1057,7 @@
   ),
    
   array (
-    'id' => '129',
+    'id' => 133,
     'code' => '1035',
     'name' => 'Ain bessem',
     'ar_name' => 'عين بسام',
@@ -1033,7 +1065,7 @@
   ),
    
   array (
-    'id' => '130',
+    'id' => 134,
     'code' => '1036',
     'name' => 'Bir ghbalou',
     'ar_name' => 'بئر غبالو',
@@ -1041,7 +1073,7 @@
   ),
    
   array (
-    'id' => '131',
+    'id' => 135,
     'code' => '1037',
     'name' => 'M\'chedallah',
     'ar_name' => 'مشد الله',
@@ -1049,7 +1081,7 @@
   ),
    
   array (
-    'id' => '132',
+    'id' => 136,
     'code' => '1038',
     'name' => 'Sour el ghozlane',
     'ar_name' => 'سور الغزلان',
@@ -1057,15 +1089,7 @@
   ),
    
   array (
-    'id' => '133',
-    'code' => '1090',
-    'name' => 'Timimoun (delegate state)',
-    'ar_name' => 'تيميمون (ولاية منتدبة)',
-    'state_code' => '1',
-  ),
-   
-  array (
-    'id' => '134',
+    'id' => 137,
     'code' => '1101',
     'name' => 'Tamanrasset',
     'ar_name' => 'تمنراست',
@@ -1073,7 +1097,7 @@
   ),
    
   array (
-    'id' => '135',
+    'id' => 138,
     'code' => '1102',
     'name' => 'Silet',
     'ar_name' => 'سيلت',
@@ -1081,7 +1105,7 @@
   ),
    
   array (
-    'id' => '136',
+    'id' => 139,
     'code' => '1103',
     'name' => 'Ain ghar',
     'ar_name' => 'إينغر',
@@ -1089,7 +1113,7 @@
   ),
    
   array (
-    'id' => '137',
+    'id' => 140,
     'code' => '1104',
     'name' => 'Ain guezzam',
     'ar_name' => 'عين قزام',
@@ -1097,7 +1121,7 @@
   ),
    
   array (
-    'id' => '138',
+    'id' => 141,
     'code' => '1104',
     'name' => 'Ain guezzam (delegate state)',
     'ar_name' => 'عين قزام (ولاية منتدبة)',
@@ -1105,7 +1129,7 @@
   ),
    
   array (
-    'id' => '139',
+    'id' => 142,
     'code' => '1106',
     'name' => 'Tazrouk',
     'ar_name' => 'تاظروك',
@@ -1113,7 +1137,7 @@
   ),
    
   array (
-    'id' => '140',
+    'id' => 143,
     'code' => '1107',
     'name' => 'Tin zouatine',
     'ar_name' => 'تين زواتين',
@@ -1121,7 +1145,7 @@
   ),
    
   array (
-    'id' => '141',
+    'id' => 144,
     'code' => '1108',
     'name' => 'Ain salah',
     'ar_name' => 'عين صالح',
@@ -1129,7 +1153,7 @@
   ),
    
   array (
-    'id' => '142',
+    'id' => 145,
     'code' => '1108',
     'name' => 'Ain salah (delegate state)',
     'ar_name' => 'عين صالح (ولاية منتدبة)',
@@ -1137,7 +1161,7 @@
   ),
    
   array (
-    'id' => '143',
+    'id' => 146,
     'code' => '1201',
     'name' => 'Tebessa',
     'ar_name' => 'تبسة',
@@ -1145,7 +1169,7 @@
   ),
    
   array (
-    'id' => '144',
+    'id' => 147,
     'code' => '1202',
     'name' => 'Bir el ater',
     'ar_name' => 'بئر العاتر',
@@ -1153,7 +1177,7 @@
   ),
    
   array (
-    'id' => '145',
+    'id' => 148,
     'code' => '1203',
     'name' => 'Cheria',
     'ar_name' => 'الشريعة',
@@ -1161,7 +1185,7 @@
   ),
    
   array (
-    'id' => '146',
+    'id' => 149,
     'code' => '1205',
     'name' => 'El aouinet',
     'ar_name' => 'العوينات',
@@ -1169,7 +1193,7 @@
   ),
    
   array (
-    'id' => '147',
+    'id' => 150,
     'code' => '1209',
     'name' => 'Negrine',
     'ar_name' => 'نقرين',
@@ -1177,7 +1201,7 @@
   ),
    
   array (
-    'id' => '148',
+    'id' => 151,
     'code' => '1210',
     'name' => 'Bir mokadem',
     'ar_name' => 'بئر مقدم',
@@ -1185,7 +1209,7 @@
   ),
    
   array (
-    'id' => '149',
+    'id' => 152,
     'code' => '1211',
     'name' => 'El kouif',
     'ar_name' => 'الكويف',
@@ -1193,7 +1217,7 @@
   ),
    
   array (
-    'id' => '150',
+    'id' => 153,
     'code' => '1212',
     'name' => 'Morsott',
     'ar_name' => 'مرسط',
@@ -1201,7 +1225,7 @@
   ),
    
   array (
-    'id' => '151',
+    'id' => 154,
     'code' => '1213',
     'name' => 'El ogla',
     'ar_name' => 'العقلة',
@@ -1209,7 +1233,7 @@
   ),
    
   array (
-    'id' => '152',
+    'id' => 155,
     'code' => '1219',
     'name' => 'Ouenza',
     'ar_name' => 'الونزة',
@@ -1217,7 +1241,7 @@
   ),
    
   array (
-    'id' => '153',
+    'id' => 156,
     'code' => '1220',
     'name' => 'El malabiod',
     'ar_name' => 'الماء الابيض',
@@ -1225,7 +1249,7 @@
   ),
    
   array (
-    'id' => '154',
+    'id' => 157,
     'code' => '1221',
     'name' => 'Oum ali',
     'ar_name' => 'أم علي',
@@ -1233,15 +1257,7 @@
   ),
    
   array (
-    'id' => '155',
-    'code' => '1250',
-    'name' => 'Bordj badji mokhtar (delegate state)',
-    'ar_name' => 'برج باجي مختار (ولاية منتدبة)',
-    'state_code' => '1',
-  ),
-   
-  array (
-    'id' => '156',
+    'id' => 158,
     'code' => '1301',
     'name' => 'Tlemcen',
     'ar_name' => 'تلمسان',
@@ -1249,7 +1265,7 @@
   ),
    
   array (
-    'id' => '157',
+    'id' => 159,
     'code' => '1303',
     'name' => 'Ain tellout',
     'ar_name' => 'عين تالوت',
@@ -1257,7 +1273,7 @@
   ),
    
   array (
-    'id' => '158',
+    'id' => 160,
     'code' => '1304',
     'name' => 'Remchi',
     'ar_name' => 'الرمشي',
@@ -1265,7 +1281,7 @@
   ),
    
   array (
-    'id' => '159',
+    'id' => 161,
     'code' => '1306',
     'name' => 'Sabra',
     'ar_name' => 'صبرة',
@@ -1273,7 +1289,7 @@
   ),
    
   array (
-    'id' => '160',
+    'id' => 162,
     'code' => '1307',
     'name' => 'Ghazaouet',
     'ar_name' => 'الغزوات',
@@ -1281,7 +1297,7 @@
   ),
    
   array (
-    'id' => '161',
+    'id' => 163,
     'code' => '1313',
     'name' => 'Ouled mimoun',
     'ar_name' => 'أولاد ميمون',
@@ -1289,7 +1305,7 @@
   ),
    
   array (
-    'id' => '162',
+    'id' => 164,
     'code' => '1317',
     'name' => 'Beni snous',
     'ar_name' => 'بني سنوس',
@@ -1297,7 +1313,7 @@
   ),
    
   array (
-    'id' => '163',
+    'id' => 165,
     'code' => '1318',
     'name' => 'Bab el assa',
     'ar_name' => 'باب العسة',
@@ -1305,7 +1321,7 @@
   ),
    
   array (
-    'id' => '164',
+    'id' => 166,
     'code' => '1320',
     'name' => 'Fellaoucene',
     'ar_name' => 'فلاوسن',
@@ -1313,7 +1329,7 @@
   ),
    
   array (
-    'id' => '165',
+    'id' => 167,
     'code' => '1324',
     'name' => 'Bensekrane',
     'ar_name' => 'بن سكران',
@@ -1321,7 +1337,7 @@
   ),
    
   array (
-    'id' => '166',
+    'id' => 168,
     'code' => '1326',
     'name' => 'Hennaya',
     'ar_name' => 'الحناية',
@@ -1329,7 +1345,7 @@
   ),
    
   array (
-    'id' => '167',
+    'id' => 169,
     'code' => '1327',
     'name' => 'Maghnia',
     'ar_name' => 'مغنية',
@@ -1337,7 +1353,7 @@
   ),
    
   array (
-    'id' => '168',
+    'id' => 170,
     'code' => '1335',
     'name' => 'Sebdou',
     'ar_name' => 'سبدو',
@@ -1345,7 +1361,7 @@
   ),
    
   array (
-    'id' => '169',
+    'id' => 171,
     'code' => '1338',
     'name' => 'Beni boussaid',
     'ar_name' => 'بني بوسعيد',
@@ -1353,7 +1369,7 @@
   ),
    
   array (
-    'id' => '170',
+    'id' => 172,
     'code' => '1339',
     'name' => 'Marsa ben mehdi',
     'ar_name' => 'مرسى بن مهيدي',
@@ -1361,7 +1377,7 @@
   ),
    
   array (
-    'id' => '171',
+    'id' => 173,
     'code' => '1340',
     'name' => 'Nedroma',
     'ar_name' => 'ندرومة',
@@ -1369,7 +1385,7 @@
   ),
    
   array (
-    'id' => '172',
+    'id' => 174,
     'code' => '1341',
     'name' => 'Sidi djillali',
     'ar_name' => 'سيدي الجيلالي',
@@ -1377,7 +1393,7 @@
   ),
    
   array (
-    'id' => '173',
+    'id' => 175,
     'code' => '1344',
     'name' => 'Honnaine',
     'ar_name' => 'هنين',
@@ -1385,7 +1401,7 @@
   ),
    
   array (
-    'id' => '174',
+    'id' => 176,
     'code' => '1350',
     'name' => 'Chetouane',
     'ar_name' => 'شتوان',
@@ -1393,7 +1409,7 @@
   ),
    
   array (
-    'id' => '175',
+    'id' => 177,
     'code' => '1351',
     'name' => 'Mansourah',
     'ar_name' => 'منصورة',
@@ -1401,7 +1417,7 @@
   ),
    
   array (
-    'id' => '176',
+    'id' => 178,
     'code' => '1401',
     'name' => 'Tiaret',
     'ar_name' => 'تيارت',
@@ -1409,7 +1425,7 @@
   ),
    
   array (
-    'id' => '177',
+    'id' => 179,
     'code' => '1402',
     'name' => 'Medroussa',
     'ar_name' => 'مدروسة',
@@ -1417,7 +1433,7 @@
   ),
    
   array (
-    'id' => '178',
+    'id' => 180,
     'code' => '1406',
     'name' => 'Ain deheb',
     'ar_name' => 'عين الذهب',
@@ -1425,7 +1441,7 @@
   ),
    
   array (
-    'id' => '179',
+    'id' => 181,
     'code' => '1413',
     'name' => 'Dahmouni',
     'ar_name' => 'دحموني',
@@ -1433,7 +1449,7 @@
   ),
    
   array (
-    'id' => '180',
+    'id' => 182,
     'code' => '1414',
     'name' => 'Rahouia',
     'ar_name' => 'رحوية',
@@ -1441,7 +1457,7 @@
   ),
    
   array (
-    'id' => '181',
+    'id' => 183,
     'code' => '1415',
     'name' => 'Mahdia',
     'ar_name' => 'مهدية',
@@ -1449,7 +1465,7 @@
   ),
    
   array (
-    'id' => '182',
+    'id' => 184,
     'code' => '1416',
     'name' => 'Sougueur',
     'ar_name' => 'السوقر',
@@ -1457,7 +1473,7 @@
   ),
    
   array (
-    'id' => '183',
+    'id' => 185,
     'code' => '1421',
     'name' => 'Meghila',
     'ar_name' => 'مغيلة',
@@ -1465,7 +1481,7 @@
   ),
    
   array (
-    'id' => '184',
+    'id' => 186,
     'code' => '1427',
     'name' => 'Frenda',
     'ar_name' => 'فرندة',
@@ -1473,7 +1489,7 @@
   ),
    
   array (
-    'id' => '185',
+    'id' => 187,
     'code' => '1428',
     'name' => 'Ain kermes',
     'ar_name' => 'عين كرمس',
@@ -1481,7 +1497,7 @@
   ),
    
   array (
-    'id' => '186',
+    'id' => 188,
     'code' => '1429',
     'name' => 'Ksar chellala',
     'ar_name' => 'قصر الشلالة',
@@ -1489,7 +1505,7 @@
   ),
    
   array (
-    'id' => '187',
+    'id' => 189,
     'code' => '1433',
     'name' => 'Oued lili',
     'ar_name' => 'وادي ليلي',
@@ -1497,7 +1513,7 @@
   ),
    
   array (
-    'id' => '188',
+    'id' => 190,
     'code' => '1434',
     'name' => 'Mechraa sfa',
     'ar_name' => 'مشرع الصفا',
@@ -1505,7 +1521,7 @@
   ),
    
   array (
-    'id' => '189',
+    'id' => 191,
     'code' => '1435',
     'name' => 'Hamadia',
     'ar_name' => 'حمادية',
@@ -1513,7 +1529,7 @@
   ),
    
   array (
-    'id' => '190',
+    'id' => 192,
     'code' => '1501',
     'name' => 'Tizi ouzou',
     'ar_name' => 'تيزي وزو',
@@ -1521,7 +1537,7 @@
   ),
    
   array (
-    'id' => '191',
+    'id' => 193,
     'code' => '1502',
     'name' => 'Ain el hammam',
     'ar_name' => 'عين الحمام',
@@ -1529,7 +1545,7 @@
   ),
    
   array (
-    'id' => '192',
+    'id' => 194,
     'code' => '1509',
     'name' => 'Makouda',
     'ar_name' => 'ماكودة',
@@ -1537,7 +1553,7 @@
   ),
    
   array (
-    'id' => '193',
+    'id' => 195,
     'code' => '1510',
     'name' => 'Draa el mizan',
     'ar_name' => 'ذراع الميزان',
@@ -1545,7 +1561,7 @@
   ),
    
   array (
-    'id' => '194',
+    'id' => 196,
     'code' => '1511',
     'name' => 'Tizi-ghenif',
     'ar_name' => 'تيزي غنيف',
@@ -1553,7 +1569,7 @@
   ),
    
   array (
-    'id' => '195',
+    'id' => 197,
     'code' => '1517',
     'name' => 'Iferhounene',
     'ar_name' => 'إفرحونان',
@@ -1561,7 +1577,7 @@
   ),
    
   array (
-    'id' => '196',
+    'id' => 198,
     'code' => '1518',
     'name' => 'Azazga',
     'ar_name' => 'عزازقة',
@@ -1569,7 +1585,7 @@
   ),
    
   array (
-    'id' => '197',
+    'id' => 199,
     'code' => '1521',
     'name' => 'Larbaa nath iraten',
     'ar_name' => 'الأربعاء ناث إيراثن',
@@ -1577,7 +1593,7 @@
   ),
    
   array (
-    'id' => '198',
+    'id' => 200,
     'code' => '1522',
     'name' => 'Tizi rached',
     'ar_name' => 'تيزي راشد',
@@ -1585,7 +1601,7 @@
   ),
    
   array (
-    'id' => '199',
+    'id' => 201,
     'code' => '1524',
     'name' => 'Ouaguenoun',
     'ar_name' => 'واقنون',
@@ -1593,7 +1609,7 @@
   ),
    
   array (
-    'id' => '200',
+    'id' => 202,
     'code' => '1529',
     'name' => 'Maatkas',
     'ar_name' => 'معاتقة',
@@ -1601,7 +1617,7 @@
   ),
    
   array (
-    'id' => '201',
+    'id' => 203,
     'code' => '1532',
     'name' => 'Beni douala',
     'ar_name' => 'بني دوالة',
@@ -1609,7 +1625,7 @@
   ),
    
   array (
-    'id' => '202',
+    'id' => 204,
     'code' => '1534',
     'name' => 'Bouzeguene',
     'ar_name' => 'بوزقن',
@@ -1617,7 +1633,7 @@
   ),
    
   array (
-    'id' => '203',
+    'id' => 205,
     'code' => '1536',
     'name' => 'Ouadhias',
     'ar_name' => 'واضية',
@@ -1625,7 +1641,7 @@
   ),
    
   array (
-    'id' => '204',
+    'id' => 206,
     'code' => '1537',
     'name' => 'Azeffoun',
     'ar_name' => 'أزفون',
@@ -1633,7 +1649,7 @@
   ),
    
   array (
-    'id' => '205',
+    'id' => 207,
     'code' => '1538',
     'name' => 'Tigzirt',
     'ar_name' => 'تيقزيرت',
@@ -1641,7 +1657,7 @@
   ),
    
   array (
-    'id' => '206',
+    'id' => 208,
     'code' => '1540',
     'name' => 'Boghni',
     'ar_name' => 'بوغني',
@@ -1649,7 +1665,7 @@
   ),
    
   array (
-    'id' => '207',
+    'id' => 209,
     'code' => '1547',
     'name' => 'Draa ben khedda',
     'ar_name' => 'ذراع بن خدة',
@@ -1657,7 +1673,7 @@
   ),
    
   array (
-    'id' => '208',
+    'id' => 210,
     'code' => '1548',
     'name' => 'Ouacif',
     'ar_name' => 'واسيف',
@@ -1665,7 +1681,7 @@
   ),
    
   array (
-    'id' => '209',
+    'id' => 211,
     'code' => '1550',
     'name' => 'Mekla',
     'ar_name' => 'مقلع',
@@ -1673,7 +1689,7 @@
   ),
    
   array (
-    'id' => '210',
+    'id' => 212,
     'code' => '1552',
     'name' => 'Benni yenni',
     'ar_name' => 'بني يني',
@@ -1681,7 +1697,7 @@
   ),
    
   array (
-    'id' => '211',
+    'id' => 213,
     'code' => '1602',
     'name' => 'Sidi m\'hamed',
     'ar_name' => 'سيدي امحمد',
@@ -1689,7 +1705,7 @@
   ),
    
   array (
-    'id' => '212',
+    'id' => 214,
     'code' => '1605',
     'name' => 'Bab el oued',
     'ar_name' => 'باب الوادي',
@@ -1697,7 +1713,7 @@
   ),
    
   array (
-    'id' => '213',
+    'id' => 215,
     'code' => '1609',
     'name' => 'Bir mourad rais',
     'ar_name' => 'بئر مراد رايس',
@@ -1705,7 +1721,7 @@
   ),
    
   array (
-    'id' => '214',
+    'id' => 216,
     'code' => '1611',
     'name' => 'Bouzareah',
     'ar_name' => 'بوزريعة',
@@ -1713,7 +1729,7 @@
   ),
    
   array (
-    'id' => '215',
+    'id' => 217,
     'code' => '1613',
     'name' => 'El harrach',
     'ar_name' => 'الحراش',
@@ -1721,7 +1737,7 @@
   ),
    
   array (
-    'id' => '216',
+    'id' => 218,
     'code' => '1614',
     'name' => 'Baraki',
     'ar_name' => 'براقي',
@@ -1729,7 +1745,7 @@
   ),
    
   array (
-    'id' => '217',
+    'id' => 219,
     'code' => '1617',
     'name' => 'Hussein dey',
     'ar_name' => 'حسين داي',
@@ -1737,7 +1753,7 @@
   ),
    
   array (
-    'id' => '218',
+    'id' => 220,
     'code' => '1620',
     'name' => 'Dar el beida',
     'ar_name' => 'الدار البيضاء',
@@ -1745,7 +1761,7 @@
   ),
    
   array (
-    'id' => '219',
+    'id' => 221,
     'code' => '1636',
     'name' => 'Birtouta',
     'ar_name' => 'بئر توتة',
@@ -1753,7 +1769,7 @@
   ),
    
   array (
-    'id' => '220',
+    'id' => 222,
     'code' => '1638',
     'name' => 'Rouiba',
     'ar_name' => 'الرويبة',
@@ -1761,7 +1777,7 @@
   ),
    
   array (
-    'id' => '221',
+    'id' => 223,
     'code' => '1644',
     'name' => 'Zeralda',
     'ar_name' => 'زرالدة',
@@ -1769,7 +1785,7 @@
   ),
    
   array (
-    'id' => '222',
+    'id' => 224,
     'code' => '1649',
     'name' => 'Draria',
     'ar_name' => 'الدرارية',
@@ -1777,7 +1793,7 @@
   ),
    
   array (
-    'id' => '223',
+    'id' => 225,
     'code' => '1652',
     'name' => 'Cheraga',
     'ar_name' => 'الشراقة',
@@ -1785,7 +1801,7 @@
   ),
    
   array (
-    'id' => '224',
+    'id' => 226,
     'code' => '1701',
     'name' => 'Djelfa',
     'ar_name' => 'الجلفة',
@@ -1793,7 +1809,7 @@
   ),
    
   array (
-    'id' => '225',
+    'id' => 227,
     'code' => '1704',
     'name' => 'Hassi bahbah',
     'ar_name' => 'حاسي بحبح',
@@ -1801,7 +1817,7 @@
   ),
    
   array (
-    'id' => '226',
+    'id' => 228,
     'code' => '1707',
     'name' => 'Faidh el botma',
     'ar_name' => 'فيض البطمة',
@@ -1809,7 +1825,7 @@
   ),
    
   array (
-    'id' => '227',
+    'id' => 229,
     'code' => '1708',
     'name' => 'Birine',
     'ar_name' => 'بيرين',
@@ -1817,7 +1833,7 @@
   ),
    
   array (
-    'id' => '228',
+    'id' => 230,
     'code' => '1714',
     'name' => 'El idrissia',
     'ar_name' => 'الادريسية',
@@ -1825,7 +1841,7 @@
   ),
    
   array (
-    'id' => '229',
+    'id' => 231,
     'code' => '1717',
     'name' => 'Messaad',
     'ar_name' => 'مسعد',
@@ -1833,7 +1849,7 @@
   ),
    
   array (
-    'id' => '230',
+    'id' => 232,
     'code' => '1719',
     'name' => 'Sidi laadjel',
     'ar_name' => 'سيدي لعجال',
@@ -1841,7 +1857,7 @@
   ),
    
   array (
-    'id' => '231',
+    'id' => 233,
     'code' => '1720',
     'name' => 'Had sahary',
     'ar_name' => 'حد الصحاري',
@@ -1849,7 +1865,7 @@
   ),
    
   array (
-    'id' => '232',
+    'id' => 234,
     'code' => '1725',
     'name' => 'Dar chioukh',
     'ar_name' => 'دار الشيوخ',
@@ -1857,7 +1873,7 @@
   ),
    
   array (
-    'id' => '233',
+    'id' => 235,
     'code' => '1726',
     'name' => 'Charef',
     'ar_name' => 'الشارف',
@@ -1865,7 +1881,7 @@
   ),
    
   array (
-    'id' => '234',
+    'id' => 236,
     'code' => '1730',
     'name' => 'Ain el ibel',
     'ar_name' => 'عين الإبل',
@@ -1873,7 +1889,7 @@
   ),
    
   array (
-    'id' => '235',
+    'id' => 237,
     'code' => '1731',
     'name' => 'Ain oussera',
     'ar_name' => 'عين وسارة',
@@ -1881,7 +1897,7 @@
   ),
    
   array (
-    'id' => '236',
+    'id' => 238,
     'code' => '1801',
     'name' => 'Jijel',
     'ar_name' => 'جيجل',
@@ -1889,7 +1905,7 @@
   ),
    
   array (
-    'id' => '237',
+    'id' => 239,
     'code' => '1803',
     'name' => 'El aouana',
     'ar_name' => 'العوانة',
@@ -1897,7 +1913,7 @@
   ),
    
   array (
-    'id' => '238',
+    'id' => 240,
     'code' => '1804',
     'name' => 'Ziamah mansouriah',
     'ar_name' => 'زيامة منصورية',
@@ -1905,7 +1921,7 @@
   ),
    
   array (
-    'id' => '239',
+    'id' => 241,
     'code' => '1805',
     'name' => 'Taher',
     'ar_name' => 'الطاهير',
@@ -1913,7 +1929,7 @@
   ),
    
   array (
-    'id' => '240',
+    'id' => 242,
     'code' => '1807',
     'name' => 'Chekfa',
     'ar_name' => 'الشقفة',
@@ -1921,7 +1937,7 @@
   ),
    
   array (
-    'id' => '241',
+    'id' => 243,
     'code' => '1809',
     'name' => 'El milia',
     'ar_name' => 'الميلية',
@@ -1929,7 +1945,7 @@
   ),
    
   array (
-    'id' => '242',
+    'id' => 244,
     'code' => '1810',
     'name' => 'Sidi marouf',
     'ar_name' => 'سيدي معروف',
@@ -1937,7 +1953,7 @@
   ),
    
   array (
-    'id' => '243',
+    'id' => 245,
     'code' => '1811',
     'name' => 'Settara',
     'ar_name' => 'السطارة',
@@ -1945,7 +1961,7 @@
   ),
    
   array (
-    'id' => '244',
+    'id' => 246,
     'code' => '1812',
     'name' => 'El ancer',
     'ar_name' => 'العنصر',
@@ -1953,7 +1969,7 @@
   ),
    
   array (
-    'id' => '245',
+    'id' => 247,
     'code' => '1817',
     'name' => 'Djimla',
     'ar_name' => 'جيملة',
@@ -1961,7 +1977,7 @@
   ),
    
   array (
-    'id' => '246',
+    'id' => 248,
     'code' => '1824',
     'name' => 'Texenna',
     'ar_name' => 'تاكسنة',
@@ -1969,7 +1985,7 @@
   ),
    
   array (
-    'id' => '247',
+    'id' => 249,
     'code' => '1901',
     'name' => 'Setif',
     'ar_name' => 'سطيف',
@@ -1977,7 +1993,7 @@
   ),
    
   array (
-    'id' => '248',
+    'id' => 250,
     'code' => '1902',
     'name' => 'Ain el kebira',
     'ar_name' => 'عين الكبيرة',
@@ -1985,7 +2001,7 @@
   ),
    
   array (
-    'id' => '249',
+    'id' => 251,
     'code' => '1903',
     'name' => 'Beni aziz',
     'ar_name' => 'بني عزيز',
@@ -1993,7 +2009,7 @@
   ),
    
   array (
-    'id' => '250',
+    'id' => 252,
     'code' => '1908',
     'name' => 'Bir el arch',
     'ar_name' => 'بئر العرش',
@@ -2001,7 +2017,7 @@
   ),
    
   array (
-    'id' => '251',
+    'id' => 253,
     'code' => '1916',
     'name' => 'Babor',
     'ar_name' => 'بابور',
@@ -2009,7 +2025,7 @@
   ),
    
   array (
-    'id' => '252',
+    'id' => 254,
     'code' => '1917',
     'name' => 'Guidjel',
     'ar_name' => 'قجال',
@@ -2017,7 +2033,7 @@
   ),
    
   array (
-    'id' => '253',
+    'id' => 255,
     'code' => '1920',
     'name' => 'El eulma',
     'ar_name' => 'العلمة',
@@ -2025,7 +2041,7 @@
   ),
    
   array (
-    'id' => '254',
+    'id' => 256,
     'code' => '1921',
     'name' => 'Djemila',
     'ar_name' => 'جميلة',
@@ -2033,7 +2049,7 @@
   ),
    
   array (
-    'id' => '255',
+    'id' => 257,
     'code' => '1922',
     'name' => 'Beni ourtilane',
     'ar_name' => 'بني ورتيلان',
@@ -2041,7 +2057,7 @@
   ),
    
   array (
-    'id' => '256',
+    'id' => 258,
     'code' => '1926',
     'name' => 'Ain arnat',
     'ar_name' => 'عين أرنات',
@@ -2049,7 +2065,7 @@
   ),
    
   array (
-    'id' => '257',
+    'id' => 259,
     'code' => '1927',
     'name' => 'Amoucha',
     'ar_name' => 'عموشة',
@@ -2057,7 +2073,7 @@
   ),
    
   array (
-    'id' => '258',
+    'id' => 260,
     'code' => '1928',
     'name' => 'Ain oulmene',
     'ar_name' => 'عين ولمان',
@@ -2065,7 +2081,7 @@
   ),
    
   array (
-    'id' => '259',
+    'id' => 261,
     'code' => '1930',
     'name' => 'Bouandas',
     'ar_name' => 'بوعنداس',
@@ -2073,7 +2089,7 @@
   ),
    
   array (
-    'id' => '260',
+    'id' => 262,
     'code' => '1932',
     'name' => 'Hammam sokhna',
     'ar_name' => 'حمام السخنة',
@@ -2081,7 +2097,7 @@
   ),
    
   array (
-    'id' => '261',
+    'id' => 263,
     'code' => '1939',
     'name' => 'Salah bey',
     'ar_name' => 'صالح باي',
@@ -2089,7 +2105,7 @@
   ),
    
   array (
-    'id' => '262',
+    'id' => 264,
     'code' => '1940',
     'name' => 'Ain azel',
     'ar_name' => 'عين أزال',
@@ -2097,7 +2113,7 @@
   ),
    
   array (
-    'id' => '263',
+    'id' => 265,
     'code' => '1941',
     'name' => 'Guenzet',
     'ar_name' => 'قنزات',
@@ -2105,7 +2121,7 @@
   ),
    
   array (
-    'id' => '264',
+    'id' => 266,
     'code' => '1943',
     'name' => 'Bougaa',
     'ar_name' => 'بوقاعة',
@@ -2113,7 +2129,7 @@
   ),
    
   array (
-    'id' => '265',
+    'id' => 267,
     'code' => '1950',
     'name' => 'Hammam guergour',
     'ar_name' => 'حمام قرقور',
@@ -2121,7 +2137,7 @@
   ),
    
   array (
-    'id' => '266',
+    'id' => 268,
     'code' => '1955',
     'name' => 'Maoklane',
     'ar_name' => 'ماوكلان',
@@ -2129,7 +2145,7 @@
   ),
    
   array (
-    'id' => '267',
+    'id' => 269,
     'code' => '2001',
     'name' => 'Saida',
     'ar_name' => 'سعيدة',
@@ -2137,7 +2153,7 @@
   ),
    
   array (
-    'id' => '268',
+    'id' => 270,
     'code' => '2003',
     'name' => 'Ain el hadjar',
     'ar_name' => 'عين الحجر',
@@ -2145,7 +2161,7 @@
   ),
    
   array (
-    'id' => '269',
+    'id' => 271,
     'code' => '2006',
     'name' => 'Youb',
     'ar_name' => 'يوب',
@@ -2153,7 +2169,7 @@
   ),
    
   array (
-    'id' => '270',
+    'id' => 272,
     'code' => '2009',
     'name' => 'Sidi boubekeur',
     'ar_name' => 'سيدي بوبكر',
@@ -2161,7 +2177,7 @@
   ),
    
   array (
-    'id' => '271',
+    'id' => 273,
     'code' => '2010',
     'name' => 'El hassasna',
     'ar_name' => 'الحساسنة',
@@ -2169,7 +2185,7 @@
   ),
    
   array (
-    'id' => '272',
+    'id' => 274,
     'code' => '2014',
     'name' => 'Ouled brahim',
     'ar_name' => 'أولاد ابراهيم',
@@ -2177,7 +2193,7 @@
   ),
    
   array (
-    'id' => '273',
+    'id' => 275,
     'code' => '2101',
     'name' => 'Skikda',
     'ar_name' => 'سكيكدة',
@@ -2185,7 +2201,7 @@
   ),
    
   array (
-    'id' => '274',
+    'id' => 276,
     'code' => '2103',
     'name' => 'El hadaiek',
     'ar_name' => 'الحدائق',
@@ -2193,7 +2209,7 @@
   ),
    
   array (
-    'id' => '275',
+    'id' => 277,
     'code' => '2104',
     'name' => 'Azzaba',
     'ar_name' => 'عزابة',
@@ -2201,7 +2217,7 @@
   ),
    
   array (
-    'id' => '276',
+    'id' => 278,
     'code' => '2108',
     'name' => 'Ben azzouz',
     'ar_name' => 'بن عزوز',
@@ -2209,7 +2225,7 @@
   ),
    
   array (
-    'id' => '277',
+    'id' => 279,
     'code' => '2110',
     'name' => 'Collo',
     'ar_name' => 'القل',
@@ -2217,7 +2233,7 @@
   ),
    
   array (
-    'id' => '278',
+    'id' => 280,
     'code' => '2113',
     'name' => 'Ouled attia',
     'ar_name' => 'أولاد عطية',
@@ -2225,7 +2241,7 @@
   ),
    
   array (
-    'id' => '279',
+    'id' => 281,
     'code' => '2115',
     'name' => 'Zitouna',
     'ar_name' => 'الزيتونة',
@@ -2233,7 +2249,7 @@
   ),
    
   array (
-    'id' => '280',
+    'id' => 282,
     'code' => '2116',
     'name' => 'El harrouch',
     'ar_name' => 'الحروش',
@@ -2241,7 +2257,7 @@
   ),
    
   array (
-    'id' => '281',
+    'id' => 283,
     'code' => '2119',
     'name' => 'Sidi mezghiche',
     'ar_name' => 'سيدي مزغيش',
@@ -2249,7 +2265,7 @@
   ),
    
   array (
-    'id' => '282',
+    'id' => 284,
     'code' => '2123',
     'name' => 'Ramdane djamel',
     'ar_name' => 'رمضان جمال',
@@ -2257,7 +2273,7 @@
   ),
    
   array (
-    'id' => '283',
+    'id' => 285,
     'code' => '2126',
     'name' => 'Tamalous',
     'ar_name' => 'تمالوس',
@@ -2265,7 +2281,7 @@
   ),
    
   array (
-    'id' => '284',
+    'id' => 286,
     'code' => '2127',
     'name' => 'Ain kechra',
     'ar_name' => 'عين قشرة',
@@ -2273,7 +2289,7 @@
   ),
    
   array (
-    'id' => '285',
+    'id' => 287,
     'code' => '2128',
     'name' => 'Oum toub',
     'ar_name' => 'أم الطوب',
@@ -2281,7 +2297,7 @@
   ),
    
   array (
-    'id' => '286',
+    'id' => 288,
     'code' => '2201',
     'name' => 'Sidi bel abbes',
     'ar_name' => 'سيدي بلعباس',
@@ -2289,7 +2305,7 @@
   ),
    
   array (
-    'id' => '287',
+    'id' => 289,
     'code' => '2202',
     'name' => 'Tessala',
     'ar_name' => 'تسالة',
@@ -2297,7 +2313,7 @@
   ),
    
   array (
-    'id' => '288',
+    'id' => 290,
     'code' => '2204',
     'name' => 'Mostefa  ben brahim',
     'ar_name' => 'مصطفى بن ابراهيم',
@@ -2305,7 +2321,7 @@
   ),
    
   array (
-    'id' => '289',
+    'id' => 291,
     'code' => '2205',
     'name' => 'Telagh',
     'ar_name' => 'تلاغ',
@@ -2313,7 +2329,7 @@
   ),
    
   array (
-    'id' => '290',
+    'id' => 292,
     'code' => '2208',
     'name' => 'Sidi ali boussidi',
     'ar_name' => 'سيدي علي بوسيدي',
@@ -2321,7 +2337,7 @@
   ),
    
   array (
-    'id' => '291',
+    'id' => 293,
     'code' => '2210',
     'name' => 'Marhoum',
     'ar_name' => 'مرحوم',
@@ -2329,7 +2345,7 @@
   ),
    
   array (
-    'id' => '292',
+    'id' => 294,
     'code' => '2214',
     'name' => 'Sidi lahcene',
     'ar_name' => 'سيدي لحسن',
@@ -2337,7 +2353,7 @@
   ),
    
   array (
-    'id' => '293',
+    'id' => 295,
     'code' => '2217',
     'name' => 'Tenira',
     'ar_name' => 'تنيرة',
@@ -2345,7 +2361,7 @@
   ),
    
   array (
-    'id' => '294',
+    'id' => 296,
     'code' => '2218',
     'name' => 'Moulay slissen',
     'ar_name' => 'مولاي سليسن',
@@ -2353,7 +2369,7 @@
   ),
    
   array (
-    'id' => '295',
+    'id' => 297,
     'code' => '2222',
     'name' => 'Merine',
     'ar_name' => 'مرين',
@@ -2361,7 +2377,7 @@
   ),
    
   array (
-    'id' => '296',
+    'id' => 298,
     'code' => '2223',
     'name' => 'Ras el ma',
     'ar_name' => 'راس الماء',
@@ -2369,7 +2385,7 @@
   ),
    
   array (
-    'id' => '297',
+    'id' => 299,
     'code' => '2228',
     'name' => 'Ain el berd',
     'ar_name' => 'عين البرد',
@@ -2377,7 +2393,7 @@
   ),
    
   array (
-    'id' => '298',
+    'id' => 300,
     'code' => '2229',
     'name' => 'Sfisef',
     'ar_name' => 'سفيزف',
@@ -2385,7 +2401,7 @@
   ),
    
   array (
-    'id' => '299',
+    'id' => 301,
     'code' => '2245',
     'name' => 'Ben badis',
     'ar_name' => 'بن باديس',
@@ -2393,7 +2409,7 @@
   ),
    
   array (
-    'id' => '300',
+    'id' => 302,
     'code' => '2246',
     'name' => 'Sidi ali ben youb',
     'ar_name' => 'سيدي علي بن يوب',
@@ -2401,7 +2417,7 @@
   ),
    
   array (
-    'id' => '301',
+    'id' => 303,
     'code' => '2301',
     'name' => 'Annaba',
     'ar_name' => 'عنابة',
@@ -2409,7 +2425,7 @@
   ),
    
   array (
-    'id' => '302',
+    'id' => 304,
     'code' => '2302',
     'name' => 'Berrahal',
     'ar_name' => 'برحال',
@@ -2417,7 +2433,7 @@
   ),
    
   array (
-    'id' => '303',
+    'id' => 305,
     'code' => '2303',
     'name' => 'El hadjar',
     'ar_name' => 'الحجار',
@@ -2425,7 +2441,7 @@
   ),
    
   array (
-    'id' => '304',
+    'id' => 306,
     'code' => '2305',
     'name' => 'El bouni',
     'ar_name' => 'البوني',
@@ -2433,7 +2449,7 @@
   ),
    
   array (
-    'id' => '305',
+    'id' => 307,
     'code' => '2309',
     'name' => 'Ain el berda',
     'ar_name' => 'عين الباردة',
@@ -2441,7 +2457,7 @@
   ),
    
   array (
-    'id' => '306',
+    'id' => 308,
     'code' => '2310',
     'name' => 'Chetaibi',
     'ar_name' => 'شطايبي',
@@ -2449,7 +2465,7 @@
   ),
    
   array (
-    'id' => '307',
+    'id' => 309,
     'code' => '2401',
     'name' => 'Guelma',
     'ar_name' => 'قالمة',
@@ -2457,7 +2473,7 @@
   ),
    
   array (
-    'id' => '308',
+    'id' => 310,
     'code' => '2404',
     'name' => 'Oued zenati',
     'ar_name' => 'وادي الزناتي',
@@ -2465,7 +2481,7 @@
   ),
    
   array (
-    'id' => '309',
+    'id' => 311,
     'code' => '2413',
     'name' => 'Ain makhlouf',
     'ar_name' => 'عين مخلوف',
@@ -2473,7 +2489,7 @@
   ),
    
   array (
-    'id' => '310',
+    'id' => 312,
     'code' => '2415',
     'name' => 'Khezaras',
     'ar_name' => 'خزارة',
@@ -2481,7 +2497,7 @@
   ),
    
   array (
-    'id' => '311',
+    'id' => 313,
     'code' => '2418',
     'name' => 'Guelaat bousbaa',
     'ar_name' => 'قلعة بوصبع',
@@ -2489,7 +2505,7 @@
   ),
    
   array (
-    'id' => '312',
+    'id' => 314,
     'code' => '2419',
     'name' => 'Hammam debagh',
     'ar_name' => 'حمام دباغ',
@@ -2497,7 +2513,7 @@
   ),
    
   array (
-    'id' => '313',
+    'id' => 315,
     'code' => '2422',
     'name' => 'Hammam n\'bails',
     'ar_name' => 'حمام النبايل',
@@ -2505,7 +2521,7 @@
   ),
    
   array (
-    'id' => '314',
+    'id' => 316,
     'code' => '2425',
     'name' => 'Bouchegouf',
     'ar_name' => 'بوشقوف',
@@ -2513,7 +2529,7 @@
   ),
    
   array (
-    'id' => '315',
+    'id' => 317,
     'code' => '2426',
     'name' => 'Heliopolis',
     'ar_name' => 'هيليوبوليس',
@@ -2521,7 +2537,7 @@
   ),
    
   array (
-    'id' => '316',
+    'id' => 318,
     'code' => '2427',
     'name' => 'Ain hessainia',
     'ar_name' => 'عين حساينية',
@@ -2529,7 +2545,7 @@
   ),
    
   array (
-    'id' => '317',
+    'id' => 319,
     'code' => '2501',
     'name' => 'Constantine',
     'ar_name' => 'قسنطينة',
@@ -2537,7 +2553,7 @@
   ),
    
   array (
-    'id' => '318',
+    'id' => 320,
     'code' => '2502',
     'name' => 'Hamma bouziane',
     'ar_name' => 'حامة بوزيان',
@@ -2545,7 +2561,7 @@
   ),
    
   array (
-    'id' => '319',
+    'id' => 321,
     'code' => '2504',
     'name' => 'Zighoud youcef',
     'ar_name' => 'زيغود يوسف',
@@ -2553,7 +2569,7 @@
   ),
    
   array (
-    'id' => '320',
+    'id' => 322,
     'code' => '2506',
     'name' => 'El khroub',
     'ar_name' => 'الخروب',
@@ -2561,7 +2577,7 @@
   ),
    
   array (
-    'id' => '321',
+    'id' => 323,
     'code' => '2507',
     'name' => 'Ain abid',
     'ar_name' => 'عين عبيد',
@@ -2569,7 +2585,7 @@
   ),
    
   array (
-    'id' => '322',
+    'id' => 324,
     'code' => '2512',
     'name' => 'Ibn ziad',
     'ar_name' => 'ابن زياد',
@@ -2577,7 +2593,7 @@
   ),
    
   array (
-    'id' => '323',
+    'id' => 325,
     'code' => '2601',
     'name' => 'Medea',
     'ar_name' => 'المدية',
@@ -2585,7 +2601,7 @@
   ),
    
   array (
-    'id' => '324',
+    'id' => 326,
     'code' => '2602',
     'name' => 'Ouzera',
     'ar_name' => 'وزرة',
@@ -2593,7 +2609,7 @@
   ),
    
   array (
-    'id' => '325',
+    'id' => 327,
     'code' => '2604',
     'name' => 'Ain boucif',
     'ar_name' => 'عين بوسيف',
@@ -2601,7 +2617,7 @@
   ),
    
   array (
-    'id' => '326',
+    'id' => 328,
     'code' => '2607',
     'name' => 'El omaria',
     'ar_name' => 'العمارية',
@@ -2609,7 +2625,7 @@
   ),
    
   array (
-    'id' => '327',
+    'id' => 329,
     'code' => '2609',
     'name' => 'Guelb el kebir',
     'ar_name' => 'القلب الكبير',
@@ -2617,7 +2633,7 @@
   ),
    
   array (
-    'id' => '328',
+    'id' => 330,
     'code' => '2618',
     'name' => 'Chellalat el adhaoura',
     'ar_name' => 'شلالة العذاورة',
@@ -2625,7 +2641,7 @@
   ),
    
   array (
-    'id' => '329',
+    'id' => 331,
     'code' => '2626',
     'name' => 'Sidi naamane',
     'ar_name' => 'سيدي نعمان',
@@ -2633,7 +2649,7 @@
   ),
    
   array (
-    'id' => '330',
+    'id' => 332,
     'code' => '2632',
     'name' => 'Aziz',
     'ar_name' => 'عزيز',
@@ -2641,7 +2657,7 @@
   ),
    
   array (
-    'id' => '331',
+    'id' => 333,
     'code' => '2633',
     'name' => 'Souaghi',
     'ar_name' => 'السواقي',
@@ -2649,7 +2665,7 @@
   ),
    
   array (
-    'id' => '332',
+    'id' => 334,
     'code' => '2635',
     'name' => 'Ksar el boukhari',
     'ar_name' => 'قصر البخاري',
@@ -2657,7 +2673,7 @@
   ),
    
   array (
-    'id' => '333',
+    'id' => 335,
     'code' => '2636',
     'name' => 'El azizia',
     'ar_name' => 'العزيزية',
@@ -2665,7 +2681,7 @@
   ),
    
   array (
-    'id' => '334',
+    'id' => 336,
     'code' => '2638',
     'name' => 'Chahbounia',
     'ar_name' => 'الشهبونية',
@@ -2673,7 +2689,7 @@
   ),
    
   array (
-    'id' => '335',
+    'id' => 337,
     'code' => '2643',
     'name' => 'Ouamri',
     'ar_name' => 'عوامري',
@@ -2681,7 +2697,7 @@
   ),
    
   array (
-    'id' => '336',
+    'id' => 338,
     'code' => '2644',
     'name' => 'Si mahdjoub',
     'ar_name' => 'سي المحجوب',
@@ -2689,7 +2705,7 @@
   ),
    
   array (
-    'id' => '337',
+    'id' => 339,
     'code' => '2646',
     'name' => 'Beni slimane',
     'ar_name' => 'بني سليمان',
@@ -2697,7 +2713,7 @@
   ),
    
   array (
-    'id' => '338',
+    'id' => 340,
     'code' => '2647',
     'name' => 'Berrouaghia',
     'ar_name' => 'البرواقية',
@@ -2705,7 +2721,7 @@
   ),
    
   array (
-    'id' => '339',
+    'id' => 341,
     'code' => '2648',
     'name' => 'Seghouane',
     'ar_name' => 'سغوان',
@@ -2713,7 +2729,7 @@
   ),
    
   array (
-    'id' => '340',
+    'id' => 342,
     'code' => '2652',
     'name' => 'Tablat',
     'ar_name' => 'تابلاط',
@@ -2721,7 +2737,7 @@
   ),
    
   array (
-    'id' => '341',
+    'id' => 343,
     'code' => '2658',
     'name' => 'Ouled antar',
     'ar_name' => 'أولاد عنتر',
@@ -2729,7 +2745,7 @@
   ),
    
   array (
-    'id' => '342',
+    'id' => 344,
     'code' => '2701',
     'name' => 'Mostaganem',
     'ar_name' => 'مستغانم',
@@ -2737,7 +2753,7 @@
   ),
    
   array (
-    'id' => '343',
+    'id' => 345,
     'code' => '2705',
     'name' => 'Ain nouicy',
     'ar_name' => 'عين نويسي',
@@ -2745,7 +2761,7 @@
   ),
    
   array (
-    'id' => '344',
+    'id' => 346,
     'code' => '2706',
     'name' => 'Hassi mameche',
     'ar_name' => 'حاسي ماماش',
@@ -2753,7 +2769,7 @@
   ),
    
   array (
-    'id' => '345',
+    'id' => 347,
     'code' => '2707',
     'name' => 'Ain tedeles',
     'ar_name' => 'عين تادلس',
@@ -2761,7 +2777,7 @@
   ),
    
   array (
-    'id' => '346',
+    'id' => 348,
     'code' => '2711',
     'name' => 'Kheir eddine',
     'ar_name' => 'خير الدين',
@@ -2769,7 +2785,7 @@
   ),
    
   array (
-    'id' => '347',
+    'id' => 349,
     'code' => '2712',
     'name' => 'Sidi ali',
     'ar_name' => 'سيدي علي',
@@ -2777,7 +2793,7 @@
   ),
    
   array (
-    'id' => '348',
+    'id' => 350,
     'code' => '2716',
     'name' => 'Sidi lakhdar',
     'ar_name' => 'سيدي لخضر',
@@ -2785,7 +2801,7 @@
   ),
    
   array (
-    'id' => '349',
+    'id' => 351,
     'code' => '2717',
     'name' => 'Achaacha',
     'ar_name' => 'عشعاشة',
@@ -2793,7 +2809,7 @@
   ),
    
   array (
-    'id' => '350',
+    'id' => 352,
     'code' => '2719',
     'name' => 'Bouguirat',
     'ar_name' => 'بوقيراط',
@@ -2801,7 +2817,7 @@
   ),
    
   array (
-    'id' => '351',
+    'id' => 353,
     'code' => '2722',
     'name' => 'Mesra',
     'ar_name' => 'ماسرة',
@@ -2809,7 +2825,7 @@
   ),
    
   array (
-    'id' => '352',
+    'id' => 354,
     'code' => '2801',
     'name' => 'M\'sila',
     'ar_name' => 'المسيلة',
@@ -2817,7 +2833,7 @@
   ),
    
   array (
-    'id' => '353',
+    'id' => 355,
     'code' => '2803',
     'name' => 'Hammam dalaa',
     'ar_name' => 'حمام الضلعة',
@@ -2825,7 +2841,7 @@
   ),
    
   array (
-    'id' => '354',
+    'id' => 356,
     'code' => '2804',
     'name' => 'Ouled derradj',
     'ar_name' => 'أولاد دراج',
@@ -2833,7 +2849,7 @@
   ),
    
   array (
-    'id' => '355',
+    'id' => 357,
     'code' => '2807',
     'name' => 'Khoubana',
     'ar_name' => 'خبانة',
@@ -2841,7 +2857,7 @@
   ),
    
   array (
-    'id' => '356',
+    'id' => 358,
     'code' => '2809',
     'name' => 'Chellal',
     'ar_name' => 'شلال',
@@ -2849,7 +2865,7 @@
   ),
    
   array (
-    'id' => '357',
+    'id' => 359,
     'code' => '2811',
     'name' => 'Magra',
     'ar_name' => 'مقرة',
@@ -2857,7 +2873,7 @@
   ),
    
   array (
-    'id' => '358',
+    'id' => 360,
     'code' => '2816',
     'name' => 'Sidi aissa',
     'ar_name' => 'سيدي عيسى',
@@ -2865,7 +2881,7 @@
   ),
    
   array (
-    'id' => '359',
+    'id' => 361,
     'code' => '2817',
     'name' => 'Ain el hadjel',
     'ar_name' => 'عين الحجل',
@@ -2873,7 +2889,7 @@
   ),
    
   array (
-    'id' => '360',
+    'id' => 362,
     'code' => '2820',
     'name' => 'Bousaada',
     'ar_name' => 'بوسعادة',
@@ -2881,7 +2897,7 @@
   ),
    
   array (
-    'id' => '361',
+    'id' => 363,
     'code' => '2821',
     'name' => 'Ouled sidi brahim',
     'ar_name' => 'أولاد سيدي ابراهيم',
@@ -2889,7 +2905,7 @@
   ),
    
   array (
-    'id' => '362',
+    'id' => 364,
     'code' => '2822',
     'name' => 'Sidi ameur',
     'ar_name' => 'سيدي عامر',
@@ -2897,7 +2913,7 @@
   ),
    
   array (
-    'id' => '363',
+    'id' => 365,
     'code' => '2824',
     'name' => 'Ben srour',
     'ar_name' => 'بن سرور',
@@ -2905,7 +2921,7 @@
   ),
    
   array (
-    'id' => '364',
+    'id' => 366,
     'code' => '2841',
     'name' => 'Ain el melh',
     'ar_name' => 'عين الملح',
@@ -2913,7 +2929,7 @@
   ),
    
   array (
-    'id' => '365',
+    'id' => 367,
     'code' => '2842',
     'name' => 'Medjedel',
     'ar_name' => 'امجدل',
@@ -2921,7 +2937,7 @@
   ),
    
   array (
-    'id' => '366',
+    'id' => 368,
     'code' => '2847',
     'name' => 'Djebel messaad',
     'ar_name' => 'جبل مساعد',
@@ -2929,7 +2945,7 @@
   ),
    
   array (
-    'id' => '367',
+    'id' => 369,
     'code' => '2901',
     'name' => 'Mascara',
     'ar_name' => 'معسكر',
@@ -2937,7 +2953,7 @@
   ),
    
   array (
-    'id' => '368',
+    'id' => 370,
     'code' => '2902',
     'name' => 'Bouhanifia',
     'ar_name' => 'بوحنيفية',
@@ -2945,7 +2961,7 @@
   ),
    
   array (
-    'id' => '369',
+    'id' => 371,
     'code' => '2903',
     'name' => 'Tizi',
     'ar_name' => 'تيزي',
@@ -2953,7 +2969,7 @@
   ),
    
   array (
-    'id' => '370',
+    'id' => 372,
     'code' => '2906',
     'name' => 'Tighennif',
     'ar_name' => 'تيغنيف',
@@ -2961,7 +2977,7 @@
   ),
    
   array (
-    'id' => '371',
+    'id' => 373,
     'code' => '2907',
     'name' => 'Hachem',
     'ar_name' => 'الحشم',
@@ -2969,7 +2985,7 @@
   ),
    
   array (
-    'id' => '372',
+    'id' => 374,
     'code' => '2910',
     'name' => 'Oued el abtal',
     'ar_name' => 'وادي الأبطال',
@@ -2977,7 +2993,7 @@
   ),
    
   array (
-    'id' => '373',
+    'id' => 375,
     'code' => '2912',
     'name' => 'Ghriss',
     'ar_name' => 'غريس',
@@ -2985,7 +3001,7 @@
   ),
    
   array (
-    'id' => '374',
+    'id' => 376,
     'code' => '2917',
     'name' => 'El bordj',
     'ar_name' => 'البرج',
@@ -2993,7 +3009,7 @@
   ),
    
   array (
-    'id' => '375',
+    'id' => 377,
     'code' => '2918',
     'name' => 'Ain fekan',
     'ar_name' => 'عين فكان',
@@ -3001,7 +3017,7 @@
   ),
    
   array (
-    'id' => '376',
+    'id' => 378,
     'code' => '2922',
     'name' => 'Oued taria',
     'ar_name' => 'وادي التاغية',
@@ -3009,7 +3025,7 @@
   ),
    
   array (
-    'id' => '377',
+    'id' => 379,
     'code' => '2923',
     'name' => 'Aouf',
     'ar_name' => 'عوف',
@@ -3017,7 +3033,7 @@
   ),
    
   array (
-    'id' => '378',
+    'id' => 380,
     'code' => '2924',
     'name' => 'Ain fares',
     'ar_name' => 'عين فارس',
@@ -3025,7 +3041,7 @@
   ),
    
   array (
-    'id' => '379',
+    'id' => 381,
     'code' => '2926',
     'name' => 'Sig',
     'ar_name' => 'سيق',
@@ -3033,7 +3049,7 @@
   ),
    
   array (
-    'id' => '380',
+    'id' => 382,
     'code' => '2927',
     'name' => 'Oggaz',
     'ar_name' => 'عقاز',
@@ -3041,7 +3057,7 @@
   ),
    
   array (
-    'id' => '381',
+    'id' => 383,
     'code' => '2930',
     'name' => 'Zahana',
     'ar_name' => 'زهانة',
@@ -3049,7 +3065,7 @@
   ),
    
   array (
-    'id' => '382',
+    'id' => 384,
     'code' => '2931',
     'name' => 'Mohammadia',
     'ar_name' => 'المحمدية',
@@ -3057,7 +3073,7 @@
   ),
    
   array (
-    'id' => '383',
+    'id' => 385,
     'code' => '3001',
     'name' => 'Ouargla',
     'ar_name' => 'ورقلة',
@@ -3065,7 +3081,7 @@
   ),
    
   array (
-    'id' => '384',
+    'id' => 386,
     'code' => '3003',
     'name' => 'N\'goussa',
     'ar_name' => 'انقوسة',
@@ -3073,7 +3089,7 @@
   ),
    
   array (
-    'id' => '385',
+    'id' => 387,
     'code' => '3004',
     'name' => 'Hassi messaoud',
     'ar_name' => 'حاسي مسعود',
@@ -3081,7 +3097,7 @@
   ),
    
   array (
-    'id' => '386',
+    'id' => 388,
     'code' => '3011',
     'name' => 'Sidi khouiled',
     'ar_name' => 'سيدي خويلد',
@@ -3089,7 +3105,7 @@
   ),
    
   array (
-    'id' => '387',
+    'id' => 389,
     'code' => '3013',
     'name' => 'Touggourt (delegate state)',
     'ar_name' => 'تقرت',
@@ -3097,7 +3113,7 @@
   ),
    
   array (
-    'id' => '388',
+    'id' => 390,
     'code' => '3013',
     'name' => 'Touggourt',
     'ar_name' => 'تقرت (ولاية منتدبة)',
@@ -3105,7 +3121,7 @@
   ),
    
   array (
-    'id' => '389',
+    'id' => 391,
     'code' => '3014',
     'name' => 'El-hadjira',
     'ar_name' => 'الحجيرة',
@@ -3113,7 +3129,7 @@
   ),
    
   array (
-    'id' => '390',
+    'id' => 392,
     'code' => '3015',
     'name' => 'Taibet',
     'ar_name' => 'الطيبات',
@@ -3121,7 +3137,7 @@
   ),
    
   array (
-    'id' => '391',
+    'id' => 393,
     'code' => '3016',
     'name' => 'Temacine',
     'ar_name' => 'تماسين',
@@ -3129,7 +3145,7 @@
   ),
    
   array (
-    'id' => '392',
+    'id' => 394,
     'code' => '3019',
     'name' => 'Megarine',
     'ar_name' => 'المقارين',
@@ -3137,7 +3153,7 @@
   ),
    
   array (
-    'id' => '393',
+    'id' => 395,
     'code' => '3021',
     'name' => 'El borma',
     'ar_name' => 'البرمة',
@@ -3145,7 +3161,7 @@
   ),
    
   array (
-    'id' => '394',
+    'id' => 396,
     'code' => '3101',
     'name' => 'Oran',
     'ar_name' => 'وهران',
@@ -3153,7 +3169,7 @@
   ),
    
   array (
-    'id' => '395',
+    'id' => 397,
     'code' => '3102',
     'name' => 'Gdyel',
     'ar_name' => 'قديل',
@@ -3161,7 +3177,7 @@
   ),
    
   array (
-    'id' => '396',
+    'id' => 398,
     'code' => '3103',
     'name' => 'Bir el djir',
     'ar_name' => 'بئر الجير',
@@ -3169,7 +3185,7 @@
   ),
    
   array (
-    'id' => '397',
+    'id' => 399,
     'code' => '3105',
     'name' => 'Es senia',
     'ar_name' => 'السانية',
@@ -3177,7 +3193,7 @@
   ),
    
   array (
-    'id' => '398',
+    'id' => 400,
     'code' => '3106',
     'name' => 'Arzew',
     'ar_name' => 'أرزيو',
@@ -3185,7 +3201,7 @@
   ),
    
   array (
-    'id' => '399',
+    'id' => 401,
     'code' => '3107',
     'name' => 'Bethioua',
     'ar_name' => 'بطيوة',
@@ -3193,7 +3209,7 @@
   ),
    
   array (
-    'id' => '400',
+    'id' => 402,
     'code' => '3109',
     'name' => 'Ain turk',
     'ar_name' => 'عين الترك',
@@ -3201,7 +3217,7 @@
   ),
    
   array (
-    'id' => '401',
+    'id' => 403,
     'code' => '3111',
     'name' => 'Oued tlelat',
     'ar_name' => 'وادي تليلات',
@@ -3209,7 +3225,7 @@
   ),
    
   array (
-    'id' => '402',
+    'id' => 404,
     'code' => '3124',
     'name' => 'Boutlelis',
     'ar_name' => 'بوتليليس',
@@ -3217,7 +3233,7 @@
   ),
    
   array (
-    'id' => '403',
+    'id' => 405,
     'code' => '3201',
     'name' => 'El bayadh',
     'ar_name' => 'البيض',
@@ -3225,7 +3241,7 @@
   ),
    
   array (
-    'id' => '404',
+    'id' => 406,
     'code' => '3202',
     'name' => 'Rogassa',
     'ar_name' => 'رقاصة',
@@ -3233,7 +3249,7 @@
   ),
    
   array (
-    'id' => '405',
+    'id' => 407,
     'code' => '3203',
     'name' => 'Brezina',
     'ar_name' => 'بريزينة',
@@ -3241,7 +3257,7 @@
   ),
    
   array (
-    'id' => '406',
+    'id' => 408,
     'code' => '3204',
     'name' => 'Boualem',
     'ar_name' => 'بوعلام',
@@ -3249,7 +3265,7 @@
   ),
    
   array (
-    'id' => '407',
+    'id' => 409,
     'code' => '3205',
     'name' => 'Labiodh sidi cheikh',
     'ar_name' => 'الأبيض سيدي الشيخ',
@@ -3257,7 +3273,7 @@
   ),
    
   array (
-    'id' => '408',
+    'id' => 410,
     'code' => '3206',
     'name' => 'Bougtob',
     'ar_name' => 'بوقطب',
@@ -3265,7 +3281,7 @@
   ),
    
   array (
-    'id' => '409',
+    'id' => 411,
     'code' => '3207',
     'name' => 'Boussemghoun',
     'ar_name' => 'بوسمغون',
@@ -3273,7 +3289,7 @@
   ),
    
   array (
-    'id' => '410',
+    'id' => 412,
     'code' => '3208',
     'name' => 'Chellala',
     'ar_name' => 'شلالة',
@@ -3281,7 +3297,7 @@
   ),
    
   array (
-    'id' => '411',
+    'id' => 413,
     'code' => '3301',
     'name' => 'Illizi',
     'ar_name' => 'إيليزي',
@@ -3289,7 +3305,7 @@
   ),
    
   array (
-    'id' => '412',
+    'id' => 414,
     'code' => '3302',
     'name' => 'Djanet',
     'ar_name' => 'جانت',
@@ -3297,7 +3313,7 @@
   ),
    
   array (
-    'id' => '413',
+    'id' => 415,
     'code' => '3302',
     'name' => 'Djanet (delegate state)',
     'ar_name' => 'جانت (ولاية منتدبة)',
@@ -3305,7 +3321,7 @@
   ),
    
   array (
-    'id' => '414',
+    'id' => 416,
     'code' => '3306',
     'name' => 'Ain amenas',
     'ar_name' => 'إن أمناس',
@@ -3313,7 +3329,7 @@
   ),
    
   array (
-    'id' => '415',
+    'id' => 417,
     'code' => '3401',
     'name' => 'Bordj bou arreridj',
     'ar_name' => 'برج بوعريريج',
@@ -3321,7 +3337,7 @@
   ),
    
   array (
-    'id' => '416',
+    'id' => 418,
     'code' => '3402',
     'name' => 'Ras el oued',
     'ar_name' => 'رأس الوادي',
@@ -3329,7 +3345,7 @@
   ),
    
   array (
-    'id' => '417',
+    'id' => 419,
     'code' => '3403',
     'name' => 'Bordj zemmoura',
     'ar_name' => 'برج زمورة',
@@ -3337,7 +3353,7 @@
   ),
    
   array (
-    'id' => '418',
+    'id' => 420,
     'code' => '3404',
     'name' => 'Mansourah',
     'ar_name' => 'المنصورة',
@@ -3345,7 +3361,7 @@
   ),
    
   array (
-    'id' => '419',
+    'id' => 421,
     'code' => '3408',
     'name' => 'Ain taghrout',
     'ar_name' => 'عين تاغروت',
@@ -3353,7 +3369,7 @@
   ),
    
   array (
-    'id' => '420',
+    'id' => 422,
     'code' => '3409',
     'name' => 'Bordj ghedir',
     'ar_name' => 'برج الغدير',
@@ -3361,7 +3377,7 @@
   ),
    
   array (
-    'id' => '421',
+    'id' => 423,
     'code' => '3411',
     'name' => 'El hamadia',
     'ar_name' => 'الحمادية',
@@ -3369,7 +3385,7 @@
   ),
    
   array (
-    'id' => '422',
+    'id' => 424,
     'code' => '3413',
     'name' => 'Medjana',
     'ar_name' => 'مجانة',
@@ -3377,7 +3393,7 @@
   ),
    
   array (
-    'id' => '423',
+    'id' => 425,
     'code' => '3415',
     'name' => 'Djaafra',
     'ar_name' => 'جعافرة',
@@ -3385,7 +3401,7 @@
   ),
    
   array (
-    'id' => '424',
+    'id' => 426,
     'code' => '3431',
     'name' => 'Bir kasdali',
     'ar_name' => 'بئر قاصد علي',
@@ -3393,7 +3409,7 @@
   ),
    
   array (
-    'id' => '425',
+    'id' => 427,
     'code' => '3501',
     'name' => 'Boumerdes',
     'ar_name' => 'بومرداس',
@@ -3401,7 +3417,7 @@
   ),
    
   array (
-    'id' => '426',
+    'id' => 428,
     'code' => '3502',
     'name' => 'Boudouaou',
     'ar_name' => 'بودواو',
@@ -3409,7 +3425,7 @@
   ),
    
   array (
-    'id' => '427',
+    'id' => 429,
     'code' => '3504',
     'name' => 'Bordj menaiel',
     'ar_name' => 'برج منايل',
@@ -3417,7 +3433,7 @@
   ),
    
   array (
-    'id' => '428',
+    'id' => 430,
     'code' => '3505',
     'name' => 'Baghlia',
     'ar_name' => 'بغلية',
@@ -3425,7 +3441,7 @@
   ),
    
   array (
-    'id' => '429',
+    'id' => 431,
     'code' => '3507',
     'name' => 'Naciria',
     'ar_name' => 'الناصرية',
@@ -3433,7 +3449,7 @@
   ),
    
   array (
-    'id' => '430',
+    'id' => 432,
     'code' => '3509',
     'name' => 'Isser',
     'ar_name' => 'يسر',
@@ -3441,7 +3457,7 @@
   ),
    
   array (
-    'id' => '431',
+    'id' => 433,
     'code' => '3514',
     'name' => 'Thenia',
     'ar_name' => 'الثنية',
@@ -3449,7 +3465,7 @@
   ),
    
   array (
-    'id' => '432',
+    'id' => 434,
     'code' => '3523',
     'name' => 'Dellys',
     'ar_name' => 'دلس',
@@ -3457,7 +3473,7 @@
   ),
    
   array (
-    'id' => '433',
+    'id' => 435,
     'code' => '3531',
     'name' => 'Khemis el khechna',
     'ar_name' => 'خميس الخشنة',
@@ -3465,7 +3481,7 @@
   ),
    
   array (
-    'id' => '434',
+    'id' => 436,
     'code' => '3601',
     'name' => 'El tarf',
     'ar_name' => 'الطارف',
@@ -3473,7 +3489,7 @@
   ),
    
   array (
-    'id' => '435',
+    'id' => 437,
     'code' => '3602',
     'name' => 'Bouhadjar',
     'ar_name' => 'بوحجار',
@@ -3481,7 +3497,7 @@
   ),
    
   array (
-    'id' => '436',
+    'id' => 438,
     'code' => '3603',
     'name' => 'Ben m\'hidi',
     'ar_name' => 'بن مهيدي',
@@ -3489,7 +3505,7 @@
   ),
    
   array (
-    'id' => '437',
+    'id' => 439,
     'code' => '3605',
     'name' => 'El kala',
     'ar_name' => 'القالة',
@@ -3497,7 +3513,7 @@
   ),
    
   array (
-    'id' => '438',
+    'id' => 440,
     'code' => '3608',
     'name' => 'Bouteldja',
     'ar_name' => 'بوثلجة',
@@ -3505,7 +3521,7 @@
   ),
    
   array (
-    'id' => '439',
+    'id' => 441,
     'code' => '3613',
     'name' => 'Drean',
     'ar_name' => 'الذرعان',
@@ -3513,7 +3529,7 @@
   ),
    
   array (
-    'id' => '440',
+    'id' => 442,
     'code' => '3616',
     'name' => 'Besbes',
     'ar_name' => 'البسباس',
@@ -3521,7 +3537,7 @@
   ),
    
   array (
-    'id' => '441',
+    'id' => 443,
     'code' => '3701',
     'name' => 'Tindouf',
     'ar_name' => 'تندوف',
@@ -3529,7 +3545,7 @@
   ),
    
   array (
-    'id' => '442',
+    'id' => 444,
     'code' => '3801',
     'name' => 'Tissemsilt',
     'ar_name' => 'تيسمسيلت',
@@ -3537,7 +3553,7 @@
   ),
    
   array (
-    'id' => '443',
+    'id' => 445,
     'code' => '3802',
     'name' => 'Bordj bounaama',
     'ar_name' => 'برج بونعامة',
@@ -3545,7 +3561,7 @@
   ),
    
   array (
-    'id' => '444',
+    'id' => 446,
     'code' => '3803',
     'name' => 'Theniet el had',
     'ar_name' => 'ثنية الاحد',
@@ -3553,7 +3569,7 @@
   ),
    
   array (
-    'id' => '445',
+    'id' => 447,
     'code' => '3804',
     'name' => 'Lazharia',
     'ar_name' => 'الأزهرية',
@@ -3561,7 +3577,7 @@
   ),
    
   array (
-    'id' => '446',
+    'id' => 448,
     'code' => '3806',
     'name' => 'Lardjem',
     'ar_name' => 'لرجام',
@@ -3569,7 +3585,7 @@
   ),
    
   array (
-    'id' => '447',
+    'id' => 449,
     'code' => '3809',
     'name' => 'Bordj emir abdelkader',
     'ar_name' => 'برج الأمير عبد القادر',
@@ -3577,7 +3593,7 @@
   ),
    
   array (
-    'id' => '448',
+    'id' => 450,
     'code' => '3811',
     'name' => 'Khemisti',
     'ar_name' => 'خميستي',
@@ -3585,7 +3601,7 @@
   ),
    
   array (
-    'id' => '449',
+    'id' => 451,
     'code' => '3813',
     'name' => 'Ammari',
     'ar_name' => 'عماري',
@@ -3593,7 +3609,7 @@
   ),
    
   array (
-    'id' => '450',
+    'id' => 452,
     'code' => '3901',
     'name' => 'El oued',
     'ar_name' => 'الوادي',
@@ -3601,7 +3617,7 @@
   ),
    
   array (
-    'id' => '451',
+    'id' => 453,
     'code' => '3902',
     'name' => 'Robbah',
     'ar_name' => 'الرباح',
@@ -3609,7 +3625,7 @@
   ),
    
   array (
-    'id' => '452',
+    'id' => 454,
     'code' => '3904',
     'name' => 'Bayadha',
     'ar_name' => 'البياضة',
@@ -3617,7 +3633,7 @@
   ),
    
   array (
-    'id' => '453',
+    'id' => 455,
     'code' => '3906',
     'name' => 'Guemar',
     'ar_name' => 'قمار',
@@ -3625,7 +3641,7 @@
   ),
    
   array (
-    'id' => '454',
+    'id' => 456,
     'code' => '3908',
     'name' => 'Reguiba',
     'ar_name' => 'الرقيبة',
@@ -3633,7 +3649,7 @@
   ),
    
   array (
-    'id' => '455',
+    'id' => 457,
     'code' => '3911',
     'name' => 'Debila',
     'ar_name' => 'الدبيلة',
@@ -3641,7 +3657,7 @@
   ),
    
   array (
-    'id' => '456',
+    'id' => 458,
     'code' => '3913',
     'name' => 'Hassi khalifa',
     'ar_name' => 'حاسي خليفة',
@@ -3649,7 +3665,7 @@
   ),
    
   array (
-    'id' => '457',
+    'id' => 459,
     'code' => '3914',
     'name' => 'Taleb larbi',
     'ar_name' => 'الطالب العربي',
@@ -3657,7 +3673,7 @@
   ),
    
   array (
-    'id' => '458',
+    'id' => 460,
     'code' => '3918',
     'name' => 'Magrane',
     'ar_name' => 'المقرن',
@@ -3665,7 +3681,7 @@
   ),
    
   array (
-    'id' => '459',
+    'id' => 461,
     'code' => '3926',
     'name' => 'Mih ouensa',
     'ar_name' => 'اميه وانسة',
@@ -3673,7 +3689,7 @@
   ),
    
   array (
-    'id' => '460',
+    'id' => 462,
     'code' => '3927',
     'name' => 'El meghaier (delegate state)',
     'ar_name' => 'المغير',
@@ -3681,7 +3697,7 @@
   ),
    
   array (
-    'id' => '461',
+    'id' => 463,
     'code' => '3927',
     'name' => 'El meghaier',
     'ar_name' => 'المغير (ولاية منتدبة)',
@@ -3689,7 +3705,7 @@
   ),
    
   array (
-    'id' => '462',
+    'id' => 464,
     'code' => '3928',
     'name' => 'Djamaa',
     'ar_name' => 'جامعة',
@@ -3697,7 +3713,7 @@
   ),
    
   array (
-    'id' => '463',
+    'id' => 465,
     'code' => '4001',
     'name' => 'Khenchela',
     'ar_name' => 'خنشلة',
@@ -3705,7 +3721,7 @@
   ),
    
   array (
-    'id' => '464',
+    'id' => 466,
     'code' => '4003',
     'name' => 'Kais',
     'ar_name' => 'قايس',
@@ -3713,7 +3729,7 @@
   ),
    
   array (
-    'id' => '465',
+    'id' => 467,
     'code' => '4005',
     'name' => 'El hamma',
     'ar_name' => 'الحامة',
@@ -3721,7 +3737,7 @@
   ),
    
   array (
-    'id' => '466',
+    'id' => 468,
     'code' => '4006',
     'name' => 'Ain touila',
     'ar_name' => 'عين الطويلة',
@@ -3729,7 +3745,7 @@
   ),
    
   array (
-    'id' => '467',
+    'id' => 469,
     'code' => '4008',
     'name' => 'Bouhmama',
     'ar_name' => 'بوحمامة',
@@ -3737,7 +3753,7 @@
   ),
    
   array (
-    'id' => '468',
+    'id' => 470,
     'code' => '4011',
     'name' => 'Chechar',
     'ar_name' => 'ششار',
@@ -3745,7 +3761,7 @@
   ),
    
   array (
-    'id' => '469',
+    'id' => 471,
     'code' => '4013',
     'name' => 'Babar',
     'ar_name' => 'بابار',
@@ -3753,7 +3769,7 @@
   ),
    
   array (
-    'id' => '470',
+    'id' => 472,
     'code' => '4016',
     'name' => 'Ouled rechache',
     'ar_name' => 'أولاد رشاش',
@@ -3761,7 +3777,7 @@
   ),
    
   array (
-    'id' => '471',
+    'id' => 473,
     'code' => '4101',
     'name' => 'Souk ahras',
     'ar_name' => 'سوق أهراس',
@@ -3769,7 +3785,7 @@
   ),
    
   array (
-    'id' => '472',
+    'id' => 474,
     'code' => '4102',
     'name' => 'Sedrata',
     'ar_name' => 'سدراتة',
@@ -3777,7 +3793,7 @@
   ),
    
   array (
-    'id' => '473',
+    'id' => 475,
     'code' => '4104',
     'name' => 'Mechroha',
     'ar_name' => 'المشروحة',
@@ -3785,7 +3801,7 @@
   ),
    
   array (
-    'id' => '474',
+    'id' => 476,
     'code' => '4105',
     'name' => 'Ouled driss',
     'ar_name' => 'أولاد إدريس',
@@ -3793,7 +3809,7 @@
   ),
    
   array (
-    'id' => '475',
+    'id' => 477,
     'code' => '4108',
     'name' => 'Taoura',
     'ar_name' => 'تاورة',
@@ -3801,7 +3817,7 @@
   ),
    
   array (
-    'id' => '476',
+    'id' => 478,
     'code' => '4110',
     'name' => 'Haddada',
     'ar_name' => 'الحدادة',
@@ -3809,7 +3825,7 @@
   ),
    
   array (
-    'id' => '477',
+    'id' => 479,
     'code' => '4112',
     'name' => 'Merahna',
     'ar_name' => 'المراهنة',
@@ -3817,7 +3833,7 @@
   ),
    
   array (
-    'id' => '478',
+    'id' => 480,
     'code' => '4114',
     'name' => 'Bir bouhouche',
     'ar_name' => 'بئر بوحوش',
@@ -3825,7 +3841,7 @@
   ),
    
   array (
-    'id' => '479',
+    'id' => 481,
     'code' => '4115',
     'name' => 'M\'daourouche',
     'ar_name' => 'مداوروش',
@@ -3833,7 +3849,7 @@
   ),
    
   array (
-    'id' => '480',
+    'id' => 482,
     'code' => '4116',
     'name' => 'Oum el adhaim',
     'ar_name' => 'أم العظايم',
@@ -3841,7 +3857,7 @@
   ),
    
   array (
-    'id' => '481',
+    'id' => 483,
     'code' => '4201',
     'name' => 'Tipaza',
     'ar_name' => 'تيبازة',
@@ -3849,7 +3865,7 @@
   ),
    
   array (
-    'id' => '482',
+    'id' => 484,
     'code' => '4208',
     'name' => 'Hadjout',
     'ar_name' => 'حجوط',
@@ -3857,7 +3873,7 @@
   ),
    
   array (
-    'id' => '483',
+    'id' => 485,
     'code' => '4209',
     'name' => 'Sidi amar',
     'ar_name' => 'سيدي أعمر',
@@ -3865,7 +3881,7 @@
   ),
    
   array (
-    'id' => '484',
+    'id' => 486,
     'code' => '4210',
     'name' => 'Gouraya',
     'ar_name' => 'قوراية',
@@ -3873,7 +3889,7 @@
   ),
    
   array (
-    'id' => '485',
+    'id' => 487,
     'code' => '4214',
     'name' => 'Cherchell',
     'ar_name' => 'شرشال',
@@ -3881,7 +3897,7 @@
   ),
    
   array (
-    'id' => '486',
+    'id' => 488,
     'code' => '4215',
     'name' => 'Damous',
     'ar_name' => 'الداموس',
@@ -3889,7 +3905,7 @@
   ),
    
   array (
-    'id' => '487',
+    'id' => 489,
     'code' => '4217',
     'name' => 'Fouka',
     'ar_name' => 'فوكة',
@@ -3897,7 +3913,7 @@
   ),
    
   array (
-    'id' => '488',
+    'id' => 490,
     'code' => '4218',
     'name' => 'Bou ismail',
     'ar_name' => 'بواسماعيل',
@@ -3905,7 +3921,7 @@
   ),
    
   array (
-    'id' => '489',
+    'id' => 491,
     'code' => '4219',
     'name' => 'Ahmar el ain',
     'ar_name' => 'أحمر العين',
@@ -3913,7 +3929,7 @@
   ),
    
   array (
-    'id' => '490',
+    'id' => 492,
     'code' => '4224',
     'name' => 'Kolea',
     'ar_name' => 'القليعة',
@@ -3921,7 +3937,7 @@
   ),
    
   array (
-    'id' => '491',
+    'id' => 493,
     'code' => '4301',
     'name' => 'Mila',
     'ar_name' => 'ميلة',
@@ -3929,7 +3945,7 @@
   ),
    
   array (
-    'id' => '492',
+    'id' => 494,
     'code' => '4302',
     'name' => 'Ferdjioua',
     'ar_name' => 'فرجيوة',
@@ -3937,7 +3953,7 @@
   ),
    
   array (
-    'id' => '493',
+    'id' => 495,
     'code' => '4303',
     'name' => 'Chelghoum laid',
     'ar_name' => 'شلغوم العيد',
@@ -3945,7 +3961,7 @@
   ),
    
   array (
-    'id' => '494',
+    'id' => 496,
     'code' => '4306',
     'name' => 'Teleghma',
     'ar_name' => 'التلاغمة',
@@ -3953,7 +3969,7 @@
   ),
    
   array (
-    'id' => '495',
+    'id' => 497,
     'code' => '4308',
     'name' => 'Tadjenanet',
     'ar_name' => 'تاجنانت',
@@ -3961,7 +3977,7 @@
   ),
    
   array (
-    'id' => '496',
+    'id' => 498,
     'code' => '4310',
     'name' => 'Oued endja',
     'ar_name' => 'وادي النجاء',
@@ -3969,7 +3985,7 @@
   ),
    
   array (
-    'id' => '497',
+    'id' => 499,
     'code' => '4314',
     'name' => 'Bouhatem',
     'ar_name' => 'بوحاتم',
@@ -3977,7 +3993,7 @@
   ),
    
   array (
-    'id' => '498',
+    'id' => 500,
     'code' => '4315',
     'name' => 'Rouached',
     'ar_name' => 'الرواشد',
@@ -3985,7 +4001,7 @@
   ),
    
   array (
-    'id' => '499',
+    'id' => 501,
     'code' => '4317',
     'name' => 'Grarem gouga',
     'ar_name' => 'القرارم قوقة',
@@ -3993,7 +4009,7 @@
   ),
    
   array (
-    'id' => '500',
+    'id' => 502,
     'code' => '4318',
     'name' => 'Sidi merouane',
     'ar_name' => 'سيدي مروان',
@@ -4001,7 +4017,7 @@
   ),
    
   array (
-    'id' => '501',
+    'id' => 503,
     'code' => '4319',
     'name' => 'Tassadane haddada',
     'ar_name' => 'تسدان حدادة',
@@ -4009,7 +4025,7 @@
   ),
    
   array (
-    'id' => '502',
+    'id' => 504,
     'code' => '4323',
     'name' => 'Terrai bainen',
     'ar_name' => 'ترعي باينان',
@@ -4017,7 +4033,7 @@
   ),
    
   array (
-    'id' => '503',
+    'id' => 505,
     'code' => '4330',
     'name' => 'Ain beida harriche',
     'ar_name' => 'عين البيضاء أحريش',
@@ -4025,7 +4041,7 @@
   ),
    
   array (
-    'id' => '504',
+    'id' => 506,
     'code' => '4401',
     'name' => 'Ain defla',
     'ar_name' => 'عين الدفلى',
@@ -4033,7 +4049,7 @@
   ),
    
   array (
-    'id' => '505',
+    'id' => 507,
     'code' => '4402',
     'name' => 'Miliana',
     'ar_name' => 'مليانة',
@@ -4041,7 +4057,7 @@
   ),
    
   array (
-    'id' => '506',
+    'id' => 508,
     'code' => '4403',
     'name' => 'Boumedfaa',
     'ar_name' => 'بومدفع',
@@ -4049,7 +4065,7 @@
   ),
    
   array (
-    'id' => '507',
+    'id' => 509,
     'code' => '4404',
     'name' => 'Khemis',
     'ar_name' => 'خميس',
@@ -4057,7 +4073,7 @@
   ),
    
   array (
-    'id' => '508',
+    'id' => 510,
     'code' => '4405',
     'name' => 'Hammam righa',
     'ar_name' => 'حمام ريغة',
@@ -4065,7 +4081,7 @@
   ),
    
   array (
-    'id' => '509',
+    'id' => 511,
     'code' => '4407',
     'name' => 'Djelida',
     'ar_name' => 'جليدة',
@@ -4073,7 +4089,7 @@
   ),
    
   array (
-    'id' => '510',
+    'id' => 512,
     'code' => '4408',
     'name' => 'El amra',
     'ar_name' => 'العامرة',
@@ -4081,7 +4097,7 @@
   ),
    
   array (
-    'id' => '511',
+    'id' => 513,
     'code' => '4410',
     'name' => 'El attaf',
     'ar_name' => 'العطاف',
@@ -4089,7 +4105,7 @@
   ),
    
   array (
-    'id' => '512',
+    'id' => 514,
     'code' => '4411',
     'name' => 'El abadia',
     'ar_name' => 'العبادية',
@@ -4097,7 +4113,7 @@
   ),
    
   array (
-    'id' => '513',
+    'id' => 515,
     'code' => '4412',
     'name' => 'Djendel',
     'ar_name' => 'جندل',
@@ -4105,7 +4121,7 @@
   ),
    
   array (
-    'id' => '514',
+    'id' => 516,
     'code' => '4414',
     'name' => 'Ain lechiakh',
     'ar_name' => 'عين الاشياخ',
@@ -4113,7 +4129,7 @@
   ),
    
   array (
-    'id' => '515',
+    'id' => 517,
     'code' => '4416',
     'name' => 'Rouina',
     'ar_name' => 'الروينة',
@@ -4121,7 +4137,7 @@
   ),
    
   array (
-    'id' => '516',
+    'id' => 518,
     'code' => '4422',
     'name' => 'Bordj el emir khaled',
     'ar_name' => 'برج الأمير خالد',
@@ -4129,7 +4145,7 @@
   ),
    
   array (
-    'id' => '517',
+    'id' => 519,
     'code' => '4431',
     'name' => 'Bathia',
     'ar_name' => 'بطحية',
@@ -4137,7 +4153,7 @@
   ),
    
   array (
-    'id' => '518',
+    'id' => 520,
     'code' => '4501',
     'name' => 'Naama',
     'ar_name' => 'النعامة',
@@ -4145,7 +4161,7 @@
   ),
    
   array (
-    'id' => '519',
+    'id' => 521,
     'code' => '4502',
     'name' => 'Mecheria',
     'ar_name' => 'المشرية',
@@ -4153,7 +4169,7 @@
   ),
    
   array (
-    'id' => '520',
+    'id' => 522,
     'code' => '4503',
     'name' => 'Ain sefra',
     'ar_name' => 'عين الصفراء',
@@ -4161,7 +4177,7 @@
   ),
    
   array (
-    'id' => '521',
+    'id' => 523,
     'code' => '4505',
     'name' => 'Sfissifa',
     'ar_name' => 'سفيسيفة',
@@ -4169,7 +4185,7 @@
   ),
    
   array (
-    'id' => '522',
+    'id' => 524,
     'code' => '4506',
     'name' => 'Moghrar',
     'ar_name' => 'مغرار',
@@ -4177,7 +4193,7 @@
   ),
    
   array (
-    'id' => '523',
+    'id' => 525,
     'code' => '4507',
     'name' => 'Asla',
     'ar_name' => 'عسلة',
@@ -4185,7 +4201,7 @@
   ),
    
   array (
-    'id' => '524',
+    'id' => 526,
     'code' => '4510',
     'name' => 'Mekmen ben amar',
     'ar_name' => 'مكمن بن عمار',
@@ -4193,7 +4209,7 @@
   ),
    
   array (
-    'id' => '525',
+    'id' => 527,
     'code' => '4601',
     'name' => 'Ain temouchent',
     'ar_name' => 'عين تموشنت',
@@ -4201,7 +4217,7 @@
   ),
    
   array (
-    'id' => '526',
+    'id' => 528,
     'code' => '4604',
     'name' => 'Hammam bou hadjar',
     'ar_name' => 'حمام بوحجر',
@@ -4209,7 +4225,7 @@
   ),
    
   array (
-    'id' => '527',
+    'id' => 529,
     'code' => '4609',
     'name' => 'Ain larbaa',
     'ar_name' => 'عين الأربعاء',
@@ -4217,7 +4233,7 @@
   ),
    
   array (
-    'id' => '528',
+    'id' => 530,
     'code' => '4614',
     'name' => 'El maleh',
     'ar_name' => 'المالح',
@@ -4225,7 +4241,7 @@
   ),
    
   array (
-    'id' => '529',
+    'id' => 531,
     'code' => '4619',
     'name' => 'El amria',
     'ar_name' => 'العامرية',
@@ -4233,7 +4249,7 @@
   ),
    
   array (
-    'id' => '530',
+    'id' => 532,
     'code' => '4622',
     'name' => 'Ain kihel',
     'ar_name' => 'عين الكيحل',
@@ -4241,7 +4257,7 @@
   ),
    
   array (
-    'id' => '531',
+    'id' => 533,
     'code' => '4623',
     'name' => 'Beni saf',
     'ar_name' => 'بني صاف',
@@ -4249,7 +4265,7 @@
   ),
    
   array (
-    'id' => '532',
+    'id' => 534,
     'code' => '4625',
     'name' => 'Oulhassa gheraba',
     'ar_name' => 'ولهاصة الغرابة',
@@ -4257,7 +4273,7 @@
   ),
    
   array (
-    'id' => '533',
+    'id' => 535,
     'code' => '4701',
     'name' => 'Ghardaia',
     'ar_name' => 'غرداية',
@@ -4265,7 +4281,7 @@
   ),
    
   array (
-    'id' => '534',
+    'id' => 536,
     'code' => '4702',
     'name' => 'El menia',
     'ar_name' => 'المنيعة',
@@ -4273,7 +4289,7 @@
   ),
    
   array (
-    'id' => '535',
+    'id' => 537,
     'code' => '4702',
     'name' => 'El menia (delegate state)',
     'ar_name' => 'المنيعة (ولاية منتدبة)',
@@ -4281,7 +4297,7 @@
   ),
    
   array (
-    'id' => '536',
+    'id' => 538,
     'code' => '4703',
     'name' => 'Dhayet ben dhahoua',
     'ar_name' => 'ضاية بن ضحوة',
@@ -4289,7 +4305,7 @@
   ),
    
   array (
-    'id' => '537',
+    'id' => 539,
     'code' => '4704',
     'name' => 'Berriane',
     'ar_name' => 'بريان',
@@ -4297,7 +4313,7 @@
   ),
    
   array (
-    'id' => '538',
+    'id' => 540,
     'code' => '4705',
     'name' => 'Metlili',
     'ar_name' => 'متليلي',
@@ -4305,7 +4321,7 @@
   ),
    
   array (
-    'id' => '539',
+    'id' => 541,
     'code' => '4706',
     'name' => 'El guerrara',
     'ar_name' => 'القرارة',
@@ -4313,7 +4329,7 @@
   ),
    
   array (
-    'id' => '540',
+    'id' => 542,
     'code' => '4708',
     'name' => 'Zelfana',
     'ar_name' => 'زلفانة',
@@ -4321,7 +4337,7 @@
   ),
    
   array (
-    'id' => '541',
+    'id' => 543,
     'code' => '4710',
     'name' => 'Bounoura',
     'ar_name' => 'بونورة',
@@ -4329,7 +4345,7 @@
   ),
    
   array (
-    'id' => '542',
+    'id' => 544,
     'code' => '4713',
     'name' => 'Mansourah',
     'ar_name' => 'المنصورة',
@@ -4337,7 +4353,7 @@
   ),
    
   array (
-    'id' => '543',
+    'id' => 545,
     'code' => '4801',
     'name' => 'Relizane',
     'ar_name' => 'غليزان',
@@ -4345,7 +4361,7 @@
   ),
    
   array (
-    'id' => '544',
+    'id' => 546,
     'code' => '4802',
     'name' => 'Oued rhiou',
     'ar_name' => 'وادي رهيو',
@@ -4353,7 +4369,7 @@
   ),
    
   array (
-    'id' => '545',
+    'id' => 547,
     'code' => '4807',
     'name' => 'El h\'madna',
     'ar_name' => 'الحمادنة',
@@ -4361,7 +4377,7 @@
   ),
    
   array (
-    'id' => '546',
+    'id' => 548,
     'code' => '4808',
     'name' => 'Sidi m\'hamed ben ali',
     'ar_name' => 'سيدي أمحمد بن علي',
@@ -4369,7 +4385,7 @@
   ),
    
   array (
-    'id' => '547',
+    'id' => 549,
     'code' => '4811',
     'name' => 'Ammi moussa',
     'ar_name' => 'عمي موسى',
@@ -4377,7 +4393,7 @@
   ),
    
   array (
-    'id' => '548',
+    'id' => 550,
     'code' => '4812',
     'name' => 'Zemmoura',
     'ar_name' => 'زمورة',
@@ -4385,7 +4401,7 @@
   ),
    
   array (
-    'id' => '549',
+    'id' => 551,
     'code' => '4814',
     'name' => 'Djidiouia',
     'ar_name' => 'جديوية',
@@ -4393,7 +4409,7 @@
   ),
    
   array (
-    'id' => '550',
+    'id' => 552,
     'code' => '4817',
     'name' => 'El matmar',
     'ar_name' => 'المطمر',
@@ -4401,7 +4417,7 @@
   ),
    
   array (
-    'id' => '551',
+    'id' => 553,
     'code' => '4819',
     'name' => 'Ain tarek',
     'ar_name' => 'عين طارق',
@@ -4409,7 +4425,7 @@
   ),
    
   array (
-    'id' => '552',
+    'id' => 554,
     'code' => '4822',
     'name' => 'Mazouna',
     'ar_name' => 'مازونة',
@@ -4417,7 +4433,7 @@
   ),
    
   array (
-    'id' => '553',
+    'id' => 555,
     'code' => '4825',
     'name' => 'Yellel',
     'ar_name' => 'يلل',
@@ -4425,7 +4441,7 @@
   ),
    
   array (
-    'id' => '554',
+    'id' => 556,
     'code' => '4827',
     'name' => 'Ramka',
     'ar_name' => 'الرمكة',
@@ -4433,26 +4449,10 @@
   ),
    
   array (
-    'id' => '555',
+    'id' => 557,
     'code' => '4828',
     'name' => 'Mendes',
     'ar_name' => 'منداس',
     'state_code' => '48',
-  ),
-   
-  array (
-    'id' => '556',
-    'code' => '7050',
-    'name' => 'Ouled djellal (delegate state)',
-    'ar_name' => 'أولاد جلال (ولاية منتدبة)',
-    'state_code' => '7',
-  ),
-   
-  array (
-    'id' => '557',
-    'code' => '8070',
-    'name' => 'Beni abbes (delegate state)',
-    'ar_name' => 'بني عباس (ولاية منتدبة)',
-    'state_code' => '8',
   ),
 );

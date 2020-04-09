@@ -1,2160 +1,2159 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <districts>
 	<district>
 		<id>1</id>
 		<code>0101</code>
 		<name>Adrar</name>
 		<ar_name>أدرار</ar_name>
-		<county_code>101</county_code>
+		<county_code>0101</county_code>
 	</district>
 	<district>
 		<id>2</id>
 		<code>0102</code>
 		<name>Tamest</name>
 		<ar_name>تامست</ar_name>
-		<county_code>115</county_code>
+		<county_code>0115</county_code>
 	</district>
 	<district>
 		<id>3</id>
 		<code>0103</code>
 		<name>Charouine</name>
 		<ar_name>شروين</ar_name>
-		<county_code>103</county_code>
+		<county_code>0103</county_code>
 	</district>
 	<district>
 		<id>4</id>
 		<code>0104</code>
 		<name>Reggane</name>
 		<ar_name>رقان</ar_name>
-		<county_code>104</county_code>
+		<county_code>0104</county_code>
 	</district>
 	<district>
 		<id>5</id>
 		<code>0105</code>
 		<name>In zghmir</name>
 		<ar_name>إن زغمير</ar_name>
-		<county_code>111</county_code>
+		<county_code>0111</county_code>
 	</district>
 	<district>
 		<id>6</id>
 		<code>0106</code>
 		<name>Tit</name>
 		<ar_name>تيت</ar_name>
-		<county_code>112</county_code>
+		<county_code>0112</county_code>
 	</district>
 	<district>
 		<id>7</id>
 		<code>0107</code>
 		<name>Ksar kaddour</name>
 		<ar_name>قصر قدور</ar_name>
-		<county_code>116</county_code>
+		<county_code>0116</county_code>
 	</district>
 	<district>
 		<id>8</id>
 		<code>0108</code>
 		<name>Tsabit</name>
 		<ar_name>تسابيت</ar_name>
-		<county_code>108</county_code>
+		<county_code>0108</county_code>
 	</district>
 	<district>
 		<id>9</id>
 		<code>0109</code>
 		<name>Timimoun</name>
 		<ar_name>تيميمون</ar_name>
-		<county_code>109</county_code>
+		<county_code>0109</county_code>
 	</district>
 	<district>
 		<id>10</id>
 		<code>0110</code>
 		<name>Ouled said</name>
 		<ar_name>أولاد السعيد</ar_name>
-		<county_code>109</county_code>
+		<county_code>0109</county_code>
 	</district>
 	<district>
 		<id>11</id>
 		<code>0111</code>
 		<name>Zaouiet kounta</name>
 		<ar_name>زاوية كنتة</ar_name>
-		<county_code>111</county_code>
+		<county_code>0111</county_code>
 	</district>
 	<district>
 		<id>12</id>
 		<code>0112</code>
 		<name>Aoulef</name>
 		<ar_name>أولف</ar_name>
-		<county_code>112</county_code>
+		<county_code>0112</county_code>
 	</district>
 	<district>
 		<id>13</id>
 		<code>0113</code>
 		<name>Timekten</name>
 		<ar_name>تيمقتن</ar_name>
-		<county_code>112</county_code>
+		<county_code>0112</county_code>
 	</district>
 	<district>
 		<id>14</id>
 		<code>0114</code>
 		<name>Tamantit</name>
 		<ar_name>تامنطيط</ar_name>
-		<county_code>115</county_code>
+		<county_code>0115</county_code>
 	</district>
 	<district>
 		<id>15</id>
 		<code>0115</code>
 		<name>Fenoughil</name>
 		<ar_name>فنوغيل</ar_name>
-		<county_code>115</county_code>
+		<county_code>0115</county_code>
 	</district>
 	<district>
 		<id>16</id>
 		<code>0116</code>
 		<name>Tinerkouk</name>
 		<ar_name>تنركوك</ar_name>
-		<county_code>116</county_code>
+		<county_code>0116</county_code>
 	</district>
 	<district>
 		<id>17</id>
 		<code>0117</code>
 		<name>Deldoul</name>
 		<ar_name>دلدول</ar_name>
-		<county_code>123</county_code>
+		<county_code>0123</county_code>
 	</district>
 	<district>
 		<id>18</id>
 		<code>0118</code>
 		<name>Sali</name>
 		<ar_name>سالي</ar_name>
-		<county_code>104</county_code>
+		<county_code>0104</county_code>
 	</district>
 	<district>
 		<id>19</id>
 		<code>0119</code>
 		<name>Akabli</name>
 		<ar_name>اقبلي</ar_name>
-		<county_code>112</county_code>
+		<county_code>0112</county_code>
 	</district>
 	<district>
 		<id>20</id>
 		<code>0120</code>
 		<name>Metarfa</name>
 		<ar_name>المطارفة</ar_name>
-		<county_code>123</county_code>
+		<county_code>0123</county_code>
 	</district>
 	<district>
 		<id>21</id>
 		<code>0121</code>
 		<name>Ouled ahmed timmi</name>
 		<ar_name>أولاد أحمد تيمي</ar_name>
-		<county_code>101</county_code>
+		<county_code>0101</county_code>
 	</district>
 	<district>
 		<id>22</id>
 		<code>0122</code>
 		<name>Bouda</name>
 		<ar_name>بودة</ar_name>
-		<county_code>101</county_code>
+		<county_code>0101</county_code>
 	</district>
 	<district>
 		<id>23</id>
 		<code>0123</code>
 		<name>Aougrout</name>
 		<ar_name>أوقروت</ar_name>
-		<county_code>123</county_code>
+		<county_code>0123</county_code>
 	</district>
 	<district>
 		<id>24</id>
 		<code>0124</code>
 		<name>Talmine</name>
 		<ar_name>طالمين</ar_name>
-		<county_code>103</county_code>
+		<county_code>0103</county_code>
 	</district>
 	<district>
 		<id>25</id>
 		<code>0125</code>
 		<name>Bordj badji mokhtar</name>
 		<ar_name>برج باجي مختار</ar_name>
-		<county_code>125</county_code>
+		<county_code>0125</county_code>
 	</district>
 	<district>
 		<id>26</id>
 		<code>0126</code>
 		<name>Sebaa</name>
 		<ar_name>السبع</ar_name>
-		<county_code>108</county_code>
+		<county_code>0108</county_code>
 	</district>
 	<district>
 		<id>27</id>
 		<code>0127</code>
 		<name>Ouled aissa</name>
 		<ar_name>أولاد عيسى</ar_name>
-		<county_code>103</county_code>
+		<county_code>0103</county_code>
 	</district>
 	<district>
 		<id>28</id>
 		<code>0128</code>
 		<name>Timiaouine</name>
 		<ar_name>تيمياوين</ar_name>
-		<county_code>125</county_code>
+		<county_code>0125</county_code>
 	</district>
 	<district>
 		<id>29</id>
 		<code>0201</code>
 		<name>Chlef</name>
 		<ar_name>الشلف</ar_name>
-		<county_code>201</county_code>
+		<county_code>0201</county_code>
 	</district>
 	<district>
 		<id>30</id>
 		<code>0202</code>
 		<name>Tenes</name>
 		<ar_name>تنس</ar_name>
-		<county_code>202</county_code>
+		<county_code>0202</county_code>
 	</district>
 	<district>
 		<id>31</id>
 		<code>0203</code>
 		<name>Benairia</name>
 		<ar_name>بنايرية</ar_name>
-		<county_code>220</county_code>
+		<county_code>0220</county_code>
 	</district>
 	<district>
 		<id>32</id>
 		<code>0204</code>
 		<name>El karimia</name>
 		<ar_name>الكريمية</ar_name>
-		<county_code>204</county_code>
+		<county_code>0204</county_code>
 	</district>
 	<district>
 		<id>33</id>
 		<code>0205</code>
 		<name>Tadjena</name>
 		<ar_name>تاجنة</ar_name>
-		<county_code>222</county_code>
+		<county_code>0222</county_code>
 	</district>
 	<district>
 		<id>34</id>
 		<code>0206</code>
 		<name>Taougrit</name>
 		<ar_name>تاوقريت</ar_name>
-		<county_code>206</county_code>
+		<county_code>0206</county_code>
 	</district>
 	<district>
 		<id>35</id>
 		<code>0207</code>
 		<name>Beni haoua</name>
 		<ar_name>بني حواء</ar_name>
-		<county_code>207</county_code>
+		<county_code>0207</county_code>
 	</district>
 	<district>
 		<id>36</id>
 		<code>0208</code>
 		<name>Sobha</name>
 		<ar_name>الصبحة</ar_name>
-		<county_code>212</county_code>
+		<county_code>0212</county_code>
 	</district>
 	<district>
 		<id>37</id>
 		<code>0209</code>
 		<name>Harchoun</name>
 		<ar_name>حرشون</ar_name>
-		<county_code>204</county_code>
+		<county_code>0204</county_code>
 	</district>
 	<district>
 		<id>38</id>
 		<code>0210</code>
 		<name>Ouled fares</name>
 		<ar_name>أولاد فارس</ar_name>
-		<county_code>210</county_code>
+		<county_code>0210</county_code>
 	</district>
 	<district>
 		<id>39</id>
 		<code>0211</code>
 		<name>Sidi akkacha</name>
 		<ar_name>سيدي عكاشة</ar_name>
-		<county_code>202</county_code>
+		<county_code>0202</county_code>
 	</district>
 	<district>
 		<id>40</id>
 		<code>0212</code>
 		<name>Boukadir</name>
 		<ar_name>بوقادير</ar_name>
-		<county_code>212</county_code>
+		<county_code>0212</county_code>
 	</district>
 	<district>
 		<id>41</id>
 		<code>0213</code>
 		<name>Beni rached</name>
 		<ar_name>بني راشد</ar_name>
-		<county_code>229</county_code>
+		<county_code>0229</county_code>
 	</district>
 	<district>
 		<id>42</id>
 		<code>0214</code>
 		<name>Talassa</name>
 		<ar_name>تلعصة</ar_name>
-		<county_code>222</county_code>
+		<county_code>0222</county_code>
 	</district>
 	<district>
 		<id>43</id>
 		<code>0215</code>
 		<name>Herenfa</name>
 		<ar_name>الهرانفة</ar_name>
-		<county_code>232</county_code>
+		<county_code>0232</county_code>
 	</district>
 	<district>
 		<id>44</id>
 		<code>0216</code>
 		<name>Oued goussine</name>
 		<ar_name>وادي قوسين</ar_name>
-		<county_code>207</county_code>
+		<county_code>0207</county_code>
 	</district>
 	<district>
 		<id>45</id>
 		<code>0217</code>
 		<name>Dahra</name>
 		<ar_name>الظهرة</ar_name>
-		<county_code>206</county_code>
+		<county_code>0206</county_code>
 	</district>
 	<district>
 		<id>46</id>
 		<code>0218</code>
 		<name>Ouled abbes</name>
 		<ar_name>أولاد عباس</ar_name>
-		<county_code>229</county_code>
+		<county_code>0229</county_code>
 	</district>
 	<district>
 		<id>47</id>
 		<code>0219</code>
 		<name>Sendjas</name>
 		<ar_name>سنجاس</ar_name>
-		<county_code>201</county_code>
+		<county_code>0201</county_code>
 	</district>
 	<district>
 		<id>48</id>
 		<code>0220</code>
 		<name>Zeboudja</name>
 		<ar_name>الزبوجة</ar_name>
-		<county_code>220</county_code>
+		<county_code>0220</county_code>
 	</district>
 	<district>
 		<id>49</id>
 		<code>0221</code>
 		<name>Oued sly</name>
 		<ar_name>وادي سلي</ar_name>
-		<county_code>212</county_code>
+		<county_code>0212</county_code>
 	</district>
 	<district>
 		<id>50</id>
 		<code>0222</code>
 		<name>Abou el hassane</name>
 		<ar_name>أبو الحسن</ar_name>
-		<county_code>222</county_code>
+		<county_code>0222</county_code>
 	</district>
 	<district>
 		<id>51</id>
 		<code>0223</code>
 		<name>El marsa</name>
 		<ar_name>المرسى</ar_name>
-		<county_code>223</county_code>
+		<county_code>0223</county_code>
 	</district>
 	<district>
 		<id>52</id>
 		<code>0224</code>
 		<name>Chettia</name>
 		<ar_name>الشطية</ar_name>
-		<county_code>210</county_code>
+		<county_code>0210</county_code>
 	</district>
 	<district>
 		<id>53</id>
 		<code>0225</code>
 		<name>Sidi abderrahmane</name>
 		<ar_name>سيدي عبد الرحمن</ar_name>
-		<county_code>202</county_code>
+		<county_code>0202</county_code>
 	</district>
 	<district>
 		<id>54</id>
 		<code>0226</code>
 		<name>Moussadek</name>
 		<ar_name>مصدق</ar_name>
-		<county_code>223</county_code>
+		<county_code>0223</county_code>
 	</district>
 	<district>
 		<id>55</id>
 		<code>0227</code>
 		<name>El hadjadj</name>
 		<ar_name>الحجاج</ar_name>
-		<county_code>230</county_code>
+		<county_code>0230</county_code>
 	</district>
 	<district>
 		<id>56</id>
 		<code>0228</code>
 		<name>Labiod medjadja</name>
 		<ar_name>الأبيض مجاجة</ar_name>
-		<county_code>210</county_code>
+		<county_code>0210</county_code>
 	</district>
 	<district>
 		<id>57</id>
 		<code>0229</code>
 		<name>Oued fodda</name>
 		<ar_name>وادي الفضة</ar_name>
-		<county_code>229</county_code>
+		<county_code>0229</county_code>
 	</district>
 	<district>
 		<id>58</id>
 		<code>0230</code>
 		<name>Ouled ben abdelkader</name>
 		<ar_name>أولاد بن عبد القادر</ar_name>
-		<county_code>230</county_code>
+		<county_code>0230</county_code>
 	</district>
 	<district>
 		<id>59</id>
 		<code>0231</code>
 		<name>Bouzeghaia</name>
 		<ar_name>بوزغاية</ar_name>
-		<county_code>220</county_code>
+		<county_code>0220</county_code>
 	</district>
 	<district>
 		<id>60</id>
 		<code>0232</code>
 		<name>Ain merane</name>
 		<ar_name>عين مران</ar_name>
-		<county_code>232</county_code>
+		<county_code>0232</county_code>
 	</district>
 	<district>
 		<id>61</id>
 		<code>0233</code>
 		<name>Oum drou</name>
 		<ar_name>أم الدروع</ar_name>
-		<county_code>201</county_code>
+		<county_code>0201</county_code>
 	</district>
 	<district>
 		<id>62</id>
 		<code>0234</code>
 		<name>Breira</name>
 		<ar_name>بريرة</ar_name>
-		<county_code>207</county_code>
+		<county_code>0207</county_code>
 	</district>
 	<district>
 		<id>63</id>
 		<code>0235</code>
 		<name>Beni  bouattab</name>
 		<ar_name>بني بوعتاب</ar_name>
-		<county_code>204</county_code>
+		<county_code>0204</county_code>
 	</district>
 	<district>
 		<id>64</id>
 		<code>0301</code>
 		<name>Laghouat</name>
 		<ar_name>الأغواط</ar_name>
-		<county_code>301</county_code>
+		<county_code>0301</county_code>
 	</district>
 	<district>
 		<id>65</id>
 		<code>0302</code>
 		<name>Ksar el hirane</name>
 		<ar_name>قصر الحيران</ar_name>
-		<county_code>302</county_code>
+		<county_code>0302</county_code>
 	</district>
 	<district>
 		<id>66</id>
 		<code>0303</code>
 		<name>Benacer benchohra</name>
 		<ar_name>بن ناصر بن شهرة</ar_name>
-		<county_code>302</county_code>
+		<county_code>0302</county_code>
 	</district>
 	<district>
 		<id>67</id>
 		<code>0304</code>
 		<name>Sidi makhlouf</name>
 		<ar_name>سيدي مخلوف</ar_name>
-		<county_code>304</county_code>
+		<county_code>0304</county_code>
 	</district>
 	<district>
 		<id>68</id>
 		<code>0305</code>
 		<name>Hassi delaa</name>
 		<ar_name>حاسي الدلاعة</ar_name>
-		<county_code>306</county_code>
+		<county_code>0306</county_code>
 	</district>
 	<district>
 		<id>69</id>
 		<code>0306</code>
 		<name>Hassi r'mel</name>
 		<ar_name>حاسي الرمل</ar_name>
-		<county_code>306</county_code>
+		<county_code>0306</county_code>
 	</district>
 	<district>
 		<id>70</id>
 		<code>0307</code>
 		<name>Ain madhi</name>
 		<ar_name>عين ماضي</ar_name>
-		<county_code>307</county_code>
+		<county_code>0307</county_code>
 	</district>
 	<district>
 		<id>71</id>
 		<code>0308</code>
 		<name>Tadjemout</name>
 		<ar_name>تاجموت</ar_name>
-		<county_code>307</county_code>
+		<county_code>0307</county_code>
 	</district>
 	<district>
 		<id>72</id>
 		<code>0309</code>
 		<name>Kheneg</name>
 		<ar_name>الخنق</ar_name>
-		<county_code>307</county_code>
+		<county_code>0307</county_code>
 	</district>
 	<district>
 		<id>73</id>
 		<code>0310</code>
 		<name>Gueltat sidi saad</name>
 		<ar_name>قلتة سيدي سعد</ar_name>
-		<county_code>310</county_code>
+		<county_code>0310</county_code>
 	</district>
 	<district>
 		<id>74</id>
 		<code>0311</code>
 		<name>Ain sidi ali</name>
 		<ar_name>عين سيدي علي</ar_name>
-		<county_code>310</county_code>
+		<county_code>0310</county_code>
 	</district>
 	<district>
 		<id>75</id>
 		<code>0312</code>
 		<name>El beidha</name>
 		<ar_name>البيضاء</ar_name>
-		<county_code>310</county_code>
+		<county_code>0310</county_code>
 	</district>
 	<district>
 		<id>76</id>
 		<code>0313</code>
 		<name>Brida</name>
 		<ar_name>بريدة</ar_name>
-		<county_code>313</county_code>
+		<county_code>0313</county_code>
 	</district>
 	<district>
 		<id>77</id>
 		<code>0314</code>
 		<name>El ghicha</name>
 		<ar_name>الغيشة</ar_name>
-		<county_code>314</county_code>
+		<county_code>0314</county_code>
 	</district>
 	<district>
 		<id>78</id>
 		<code>0315</code>
 		<name>Hadj mechri</name>
 		<ar_name>الحاج مشري</ar_name>
-		<county_code>313</county_code>
+		<county_code>0313</county_code>
 	</district>
 	<district>
 		<id>79</id>
 		<code>0316</code>
 		<name>Sebgag</name>
 		<ar_name>سبقاق</ar_name>
-		<county_code>319</county_code>
+		<county_code>0319</county_code>
 	</district>
 	<district>
 		<id>80</id>
 		<code>0317</code>
 		<name>Taouiala</name>
 		<ar_name>تاويالة</ar_name>
-		<county_code>313</county_code>
+		<county_code>0313</county_code>
 	</district>
 	<district>
 		<id>81</id>
 		<code>0318</code>
 		<name>Tadjrouna</name>
 		<ar_name>تاجرونة</ar_name>
-		<county_code>307</county_code>
+		<county_code>0307</county_code>
 	</district>
 	<district>
 		<id>82</id>
 		<code>0319</code>
 		<name>Aflou</name>
 		<ar_name>أفلو</ar_name>
-		<county_code>319</county_code>
+		<county_code>0319</county_code>
 	</district>
 	<district>
 		<id>83</id>
 		<code>0320</code>
 		<name>El assafia</name>
 		<ar_name>العسافية</ar_name>
-		<county_code>304</county_code>
+		<county_code>0304</county_code>
 	</district>
 	<district>
 		<id>84</id>
 		<code>0321</code>
 		<name>Oued morra</name>
 		<ar_name>وادي مرة</ar_name>
-		<county_code>321</county_code>
+		<county_code>0321</county_code>
 	</district>
 	<district>
 		<id>85</id>
 		<code>0322</code>
 		<name>Oued m'zi</name>
 		<ar_name>وادي مزي</ar_name>
-		<county_code>321</county_code>
+		<county_code>0321</county_code>
 	</district>
 	<district>
 		<id>86</id>
 		<code>0323</code>
 		<name>El haouaita</name>
 		<ar_name>الحويطة</ar_name>
-		<county_code>307</county_code>
+		<county_code>0307</county_code>
 	</district>
 	<district>
 		<id>87</id>
 		<code>0324</code>
 		<name>Sidi bouzid</name>
 		<ar_name>سيدي بوزيد</ar_name>
-		<county_code>319</county_code>
+		<county_code>0319</county_code>
 	</district>
 	<district>
 		<id>88</id>
 		<code>0401</code>
 		<name>Oum el bouaghi</name>
 		<ar_name>أم البواقي</ar_name>
-		<county_code>401</county_code>
+		<county_code>0401</county_code>
 	</district>
 	<district>
 		<id>89</id>
 		<code>0402</code>
 		<name>Ain beida</name>
 		<ar_name>عين البيضاء</ar_name>
-		<county_code>402</county_code>
+		<county_code>0402</county_code>
 	</district>
 	<district>
 		<id>90</id>
 		<code>0403</code>
 		<name>Ain m'lila</name>
 		<ar_name>عين مليلة</ar_name>
-		<county_code>403</county_code>
+		<county_code>0403</county_code>
 	</district>
 	<district>
 		<id>91</id>
 		<code>0404</code>
 		<name>Behir chergui</name>
 		<ar_name>بحير الشرقي</ar_name>
-		<county_code>424</county_code>
+		<county_code>0424</county_code>
 	</district>
 	<district>
 		<id>92</id>
 		<code>0405</code>
 		<name>El amiria</name>
 		<ar_name>العامرية</ar_name>
-		<county_code>406</county_code>
+		<county_code>0406</county_code>
 	</district>
 	<district>
 		<id>93</id>
 		<code>0406</code>
 		<name>Sigus</name>
 		<ar_name>سيقوس</ar_name>
-		<county_code>406</county_code>
+		<county_code>0406</county_code>
 	</district>
 	<district>
 		<id>94</id>
 		<code>0407</code>
 		<name>El belala</name>
 		<ar_name>البلالة</ar_name>
-		<county_code>424</county_code>
+		<county_code>0424</county_code>
 	</district>
 	<district>
 		<id>95</id>
 		<code>0408</code>
 		<name>Ain babouche</name>
 		<ar_name>عين ببوش</ar_name>
-		<county_code>408</county_code>
+		<county_code>0408</county_code>
 	</district>
 	<district>
 		<id>96</id>
 		<code>0409</code>
 		<name>Berriche</name>
 		<ar_name>بريش</ar_name>
-		<county_code>402</county_code>
+		<county_code>0402</county_code>
 	</district>
 	<district>
 		<id>97</id>
 		<code>0410</code>
 		<name>Ouled hamla</name>
 		<ar_name>أولاد حملة</ar_name>
-		<county_code>403</county_code>
+		<county_code>0403</county_code>
 	</district>
 	<district>
 		<id>98</id>
 		<code>0411</code>
 		<name>Dhalaa</name>
 		<ar_name>الضلعة</ar_name>
-		<county_code>411</county_code>
+		<county_code>0411</county_code>
 	</district>
 	<district>
 		<id>99</id>
 		<code>0412</code>
 		<name>Ain kercha</name>
 		<ar_name>عين كرشة</ar_name>
-		<county_code>412</county_code>
+		<county_code>0412</county_code>
 	</district>
 	<district>
 		<id>100</id>
 		<code>0413</code>
 		<name>Hanchir toumghani</name>
 		<ar_name>هنشير تومغني</ar_name>
-		<county_code>412</county_code>
+		<county_code>0412</county_code>
 	</district>
 	<district>
 		<id>101</id>
 		<code>0414</code>
 		<name>El djazia</name>
 		<ar_name>الجازية</ar_name>
-		<county_code>411</county_code>
+		<county_code>0411</county_code>
 	</district>
 	<district>
 		<id>102</id>
 		<code>0415</code>
 		<name>Ain diss</name>
 		<ar_name>عين الديس</ar_name>
-		<county_code>408</county_code>
+		<county_code>0408</county_code>
 	</district>
 	<district>
 		<id>103</id>
 		<code>0416</code>
 		<name>Fkirina</name>
 		<ar_name>فكيرينة</ar_name>
-		<county_code>416</county_code>
+		<county_code>0416</county_code>
 	</district>
 	<district>
 		<id>104</id>
 		<code>0417</code>
 		<name>Souk naamane</name>
 		<ar_name>سوق نعمان</ar_name>
-		<county_code>417</county_code>
+		<county_code>0417</county_code>
 	</district>
 	<district>
 		<id>105</id>
 		<code>0418</code>
 		<name>Zorg</name>
 		<ar_name>الزرق</ar_name>
-		<county_code>402</county_code>
+		<county_code>0402</county_code>
 	</district>
 	<district>
 		<id>106</id>
 		<code>0419</code>
 		<name>El fedjoudj boughrara sa</name>
 		<ar_name>الفجوج بوغرارة سعودي</ar_name>
-		<county_code>425</county_code>
+		<county_code>0425</county_code>
 	</district>
 	<district>
 		<id>107</id>
 		<code>0420</code>
 		<name>Ouled zouai</name>
 		<ar_name>أولاد زواي</ar_name>
-		<county_code>417</county_code>
+		<county_code>0417</county_code>
 	</district>
 	<district>
 		<id>108</id>
 		<code>0421</code>
 		<name>Bir chouhada</name>
 		<ar_name>بئر الشهداء</ar_name>
-		<county_code>417</county_code>
+		<county_code>0417</county_code>
 	</district>
 	<district>
 		<id>109</id>
 		<code>0422</code>
 		<name>Ksar sbahi</name>
 		<ar_name>قصر الصباحي</ar_name>
-		<county_code>422</county_code>
+		<county_code>0422</county_code>
 	</district>
 	<district>
 		<id>110</id>
 		<code>0423</code>
 		<name>Oued nini</name>
 		<ar_name>وادي نيني</ar_name>
-		<county_code>416</county_code>
+		<county_code>0416</county_code>
 	</district>
 	<district>
 		<id>111</id>
 		<code>0424</code>
 		<name>Meskiana</name>
 		<ar_name>مسكيانة</ar_name>
-		<county_code>424</county_code>
+		<county_code>0424</county_code>
 	</district>
 	<district>
 		<id>112</id>
 		<code>0425</code>
 		<name>Ain fekroun</name>
 		<ar_name>عين فكرون</ar_name>
-		<county_code>425</county_code>
+		<county_code>0425</county_code>
 	</district>
 	<district>
 		<id>113</id>
 		<code>0426</code>
 		<name>Rahia</name>
 		<ar_name>الرحية</ar_name>
-		<county_code>424</county_code>
+		<county_code>0424</county_code>
 	</district>
 	<district>
 		<id>114</id>
 		<code>0427</code>
 		<name>Ain zitoun</name>
 		<ar_name>عين الزيتون</ar_name>
-		<county_code>401</county_code>
+		<county_code>0401</county_code>
 	</district>
 	<district>
 		<id>115</id>
 		<code>0428</code>
 		<name>Ouled gacem</name>
 		<ar_name>أولاد قاسم</ar_name>
-		<county_code>403</county_code>
+		<county_code>0403</county_code>
 	</district>
 	<district>
 		<id>116</id>
 		<code>0429</code>
 		<name>El harmilia</name>
 		<ar_name>الحرملية</ar_name>
-		<county_code>412</county_code>
+		<county_code>0412</county_code>
 	</district>
 	<district>
 		<id>117</id>
 		<code>0501</code>
 		<name>Batna</name>
 		<ar_name>باتنة</ar_name>
-		<county_code>501</county_code>
+		<county_code>0501</county_code>
 	</district>
 	<district>
 		<id>118</id>
 		<code>0502</code>
 		<name>Ghassira</name>
 		<ar_name>غسيرة</ar_name>
-		<county_code>544</county_code>
+		<county_code>0544</county_code>
 	</district>
 	<district>
 		<id>119</id>
 		<code>0503</code>
 		<name>Maafa</name>
 		<ar_name>معافة</ar_name>
-		<county_code>545</county_code>
+		<county_code>0545</county_code>
 	</district>
 	<district>
 		<id>120</id>
 		<code>0504</code>
 		<name>Merouana</name>
 		<ar_name>مروانة</ar_name>
-		<county_code>504</county_code>
+		<county_code>0504</county_code>
 	</district>
 	<district>
 		<id>121</id>
 		<code>0505</code>
 		<name>Seriana</name>
 		<ar_name>سريانة</ar_name>
-		<county_code>505</county_code>
+		<county_code>0505</county_code>
 	</district>
 	<district>
 		<id>122</id>
 		<code>0506</code>
 		<name>Menaa</name>
 		<ar_name>منعة</ar_name>
-		<county_code>506</county_code>
+		<county_code>0506</county_code>
 	</district>
 	<district>
 		<id>123</id>
 		<code>0507</code>
 		<name>El madher</name>
 		<ar_name>المعذر</ar_name>
-		<county_code>507</county_code>
+		<county_code>0507</county_code>
 	</district>
 	<district>
 		<id>124</id>
 		<code>0508</code>
 		<name>Tazoult</name>
 		<ar_name>تازولت</ar_name>
-		<county_code>508</county_code>
+		<county_code>0508</county_code>
 	</district>
 	<district>
 		<id>125</id>
 		<code>0509</code>
 		<name>N gaous</name>
 		<ar_name>نقاوس</ar_name>
-		<county_code>509</county_code>
+		<county_code>0509</county_code>
 	</district>
 	<district>
 		<id>126</id>
 		<code>0510</code>
 		<name>Guigba</name>
 		<ar_name>القيقبة</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>127</id>
 		<code>0511</code>
 		<name>Inoughissen</name>
 		<ar_name>إينوغيسن</ar_name>
-		<county_code>530</county_code>
+		<county_code>0530</county_code>
 	</district>
 	<district>
 		<id>128</id>
 		<code>0512</code>
 		<name>Ouyoun el assafir</name>
 		<ar_name>عيون العصافير</ar_name>
-		<county_code>508</county_code>
+		<county_code>0508</county_code>
 	</district>
 	<district>
 		<id>129</id>
 		<code>0513</code>
 		<name>Djerma</name>
 		<ar_name>جرمة</ar_name>
-		<county_code>507</county_code>
+		<county_code>0507</county_code>
 	</district>
 	<district>
 		<id>130</id>
 		<code>0514</code>
 		<name>Bitam</name>
 		<ar_name>بيطام</ar_name>
-		<county_code>542</county_code>
+		<county_code>0542</county_code>
 	</district>
 	<district>
 		<id>131</id>
 		<code>0515</code>
 		<name>Azil abedelkader</name>
 		<ar_name>عزيل عبد القادر</ar_name>
-		<county_code>543</county_code>
+		<county_code>0543</county_code>
 	</district>
 	<district>
 		<id>132</id>
 		<code>0516</code>
 		<name>Arris</name>
 		<ar_name>أريس</ar_name>
-		<county_code>516</county_code>
+		<county_code>0516</county_code>
 	</district>
 	<district>
 		<id>133</id>
 		<code>0517</code>
 		<name>Kimmel</name>
 		<ar_name>كيمل</ar_name>
-		<county_code>544</county_code>
+		<county_code>0544</county_code>
 	</district>
 	<district>
 		<id>134</id>
 		<code>0518</code>
 		<name>Tilatou</name>
 		<ar_name>تيلاطو</ar_name>
-		<county_code>529</county_code>
+		<county_code>0529</county_code>
 	</district>
 	<district>
 		<id>135</id>
 		<code>0519</code>
 		<name>Ain djasser</name>
 		<ar_name>عين جاسر</ar_name>
-		<county_code>519</county_code>
+		<county_code>0519</county_code>
 	</district>
 	<district>
 		<id>136</id>
 		<code>0520</code>
 		<name>Ouled sellem</name>
 		<ar_name>أولاد سلام</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>137</id>
 		<code>0521</code>
 		<name>Tigharghar</name>
 		<ar_name>تغرغار</ar_name>
-		<county_code>506</county_code>
+		<county_code>0506</county_code>
 	</district>
 	<district>
 		<id>138</id>
 		<code>0522</code>
 		<name>Ain yagout</name>
 		<ar_name>عين ياقوت</ar_name>
-		<county_code>507</county_code>
+		<county_code>0507</county_code>
 	</district>
 	<district>
 		<id>139</id>
 		<code>0523</code>
 		<name>Fesdis</name>
 		<ar_name>فسديس</ar_name>
-		<county_code>501</county_code>
+		<county_code>0501</county_code>
 	</district>
 	<district>
 		<id>140</id>
 		<code>0524</code>
 		<name>Sefiane</name>
 		<ar_name>سفيان</ar_name>
-		<county_code>509</county_code>
+		<county_code>0509</county_code>
 	</district>
 	<district>
 		<id>141</id>
 		<code>0525</code>
 		<name>Rahbat</name>
 		<ar_name>الرحبات</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>142</id>
 		<code>0526</code>
 		<name>Tighanimine</name>
 		<ar_name>تيغانمين</ar_name>
-		<county_code>516</county_code>
+		<county_code>0516</county_code>
 	</district>
 	<district>
 		<id>143</id>
 		<code>0527</code>
 		<name>Lemcene</name>
 		<ar_name>لمسان</ar_name>
-		<county_code>553</county_code>
+		<county_code>0553</county_code>
 	</district>
 	<district>
 		<id>144</id>
 		<code>0528</code>
 		<name>Ksar bellezma</name>
 		<ar_name>قصر بلزمة</ar_name>
-		<county_code>504</county_code>
+		<county_code>0504</county_code>
 	</district>
 	<district>
 		<id>145</id>
 		<code>0529</code>
 		<name>Seggana</name>
 		<ar_name>سقانة</ar_name>
-		<county_code>529</county_code>
+		<county_code>0529</county_code>
 	</district>
 	<district>
 		<id>146</id>
 		<code>0530</code>
 		<name>Ichemoul</name>
 		<ar_name>إشمول</ar_name>
-		<county_code>530</county_code>
+		<county_code>0530</county_code>
 	</district>
 	<district>
 		<id>147</id>
 		<code>0531</code>
 		<name>Foum toub</name>
 		<ar_name>فم الطوب</ar_name>
-		<county_code>530</county_code>
+		<county_code>0530</county_code>
 	</district>
 	<district>
 		<id>148</id>
 		<code>0532</code>
 		<name>Beni foudhala el hakania</name>
 		<ar_name>بني فضالة الحقانية</ar_name>
-		<county_code>545</county_code>
+		<county_code>0545</county_code>
 	</district>
 	<district>
 		<id>149</id>
 		<code>0533</code>
 		<name>Oued el ma</name>
 		<ar_name>وادي الماء</ar_name>
-		<county_code>504</county_code>
+		<county_code>0504</county_code>
 	</district>
 	<district>
 		<id>150</id>
 		<code>0534</code>
 		<name>Talkhamt</name>
 		<ar_name>تالخمت</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>151</id>
 		<code>0535</code>
 		<name>Bouzina</name>
 		<ar_name>بوزينة</ar_name>
-		<county_code>535</county_code>
+		<county_code>0535</county_code>
 	</district>
 	<district>
 		<id>152</id>
 		<code>0536</code>
 		<name>Chemora</name>
 		<ar_name>الشمرة</ar_name>
-		<county_code>536</county_code>
+		<county_code>0536</county_code>
 	</district>
 	<district>
 		<id>153</id>
 		<code>0537</code>
 		<name>Oued chaaba</name>
 		<ar_name>وادي الشعبة</ar_name>
-		<county_code>501</county_code>
+		<county_code>0501</county_code>
 	</district>
 	<district>
 		<id>154</id>
 		<code>0538</code>
 		<name>Taxlent</name>
 		<ar_name>تاكسلانت</ar_name>
-		<county_code>553</county_code>
+		<county_code>0553</county_code>
 	</district>
 	<district>
 		<id>155</id>
 		<code>0539</code>
 		<name>Gosbat</name>
 		<ar_name>القصبات</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>156</id>
 		<code>0540</code>
 		<name>Ouled aouf</name>
 		<ar_name>أولاد عوف</ar_name>
-		<county_code>545</county_code>
+		<county_code>0545</county_code>
 	</district>
 	<district>
 		<id>157</id>
 		<code>0541</code>
 		<name>Boumagueur</name>
 		<ar_name>بومقر</ar_name>
-		<county_code>509</county_code>
+		<county_code>0509</county_code>
 	</district>
 	<district>
 		<id>158</id>
 		<code>0542</code>
 		<name>Barika</name>
 		<ar_name>بريكة</ar_name>
-		<county_code>542</county_code>
+		<county_code>0542</county_code>
 	</district>
 	<district>
 		<id>159</id>
 		<code>0543</code>
 		<name>Djezzar</name>
 		<ar_name>الجزار</ar_name>
-		<county_code>543</county_code>
+		<county_code>0543</county_code>
 	</district>
 	<district>
 		<id>160</id>
 		<code>0544</code>
 		<name>T kout</name>
 		<ar_name>تكوت</ar_name>
-		<county_code>544</county_code>
+		<county_code>0544</county_code>
 	</district>
 	<district>
 		<id>161</id>
 		<code>0545</code>
 		<name>Ain touta</name>
 		<ar_name>عين التوتة</ar_name>
-		<county_code>545</county_code>
+		<county_code>0545</county_code>
 	</district>
 	<district>
 		<id>162</id>
 		<code>0546</code>
 		<name>Hidoussa</name>
 		<ar_name>حيدوسة</ar_name>
-		<county_code>504</county_code>
+		<county_code>0504</county_code>
 	</district>
 	<district>
 		<id>163</id>
 		<code>0547</code>
 		<name>Teniet el abed</name>
 		<ar_name>ثنية العابد</ar_name>
-		<county_code>547</county_code>
+		<county_code>0547</county_code>
 	</district>
 	<district>
 		<id>164</id>
 		<code>0548</code>
 		<name>Oued taga</name>
 		<ar_name>وادي الطاقة</ar_name>
-		<county_code>547</county_code>
+		<county_code>0547</county_code>
 	</district>
 	<district>
 		<id>165</id>
 		<code>0549</code>
 		<name>Ouled fadel</name>
 		<ar_name>أولاد فاضل</ar_name>
-		<county_code>550</county_code>
+		<county_code>0550</county_code>
 	</district>
 	<district>
 		<id>166</id>
 		<code>0550</code>
 		<name>Timgad</name>
 		<ar_name>تيمقاد</ar_name>
-		<county_code>550</county_code>
+		<county_code>0550</county_code>
 	</district>
 	<district>
 		<id>167</id>
 		<code>0551</code>
 		<name>Ras el aioun</name>
 		<ar_name>رأس العيون</ar_name>
-		<county_code>551</county_code>
+		<county_code>0551</county_code>
 	</district>
 	<district>
 		<id>168</id>
 		<code>0552</code>
 		<name>Chir</name>
 		<ar_name>شير</ar_name>
-		<county_code>547</county_code>
+		<county_code>0547</county_code>
 	</district>
 	<district>
 		<id>169</id>
 		<code>0553</code>
 		<name>Ouled si slimane</name>
 		<ar_name>أولاد سي سليمان</ar_name>
-		<county_code>553</county_code>
+		<county_code>0553</county_code>
 	</district>
 	<district>
 		<id>170</id>
 		<code>0554</code>
 		<name>Zanet el beida</name>
 		<ar_name>زانة البيضاء</ar_name>
-		<county_code>505</county_code>
+		<county_code>0505</county_code>
 	</district>
 	<district>
 		<id>171</id>
 		<code>0555</code>
 		<name>M doukal</name>
 		<ar_name>إمدوكل</ar_name>
-		<county_code>542</county_code>
+		<county_code>0542</county_code>
 	</district>
 	<district>
 		<id>172</id>
 		<code>0556</code>
 		<name>Ouled ammar</name>
 		<ar_name>أولاد عمار</ar_name>
-		<county_code>543</county_code>
+		<county_code>0543</county_code>
 	</district>
 	<district>
 		<id>173</id>
 		<code>0557</code>
 		<name>El hassi</name>
 		<ar_name>الحاسي</ar_name>
-		<county_code>519</county_code>
+		<county_code>0519</county_code>
 	</district>
 	<district>
 		<id>174</id>
 		<code>0558</code>
 		<name>Lazrou</name>
 		<ar_name>لازرو</ar_name>
-		<county_code>505</county_code>
+		<county_code>0505</county_code>
 	</district>
 	<district>
 		<id>175</id>
 		<code>0559</code>
 		<name>Boumia</name>
 		<ar_name>بومية</ar_name>
-		<county_code>507</county_code>
+		<county_code>0507</county_code>
 	</district>
 	<district>
 		<id>176</id>
 		<code>0560</code>
 		<name>Boulhilat</name>
 		<ar_name>بولهيلات</ar_name>
-		<county_code>536</county_code>
+		<county_code>0536</county_code>
 	</district>
 	<district>
 		<id>177</id>
 		<code>0561</code>
 		<name>Larbaa</name>
 		<ar_name>لارباع</ar_name>
-		<county_code>535</county_code>
+		<county_code>0535</county_code>
 	</district>
 	<district>
 		<id>178</id>
 		<code>0601</code>
 		<name>Bejaia</name>
 		<ar_name>بجاية</ar_name>
-		<county_code>601</county_code>
+		<county_code>0601</county_code>
 	</district>
 	<district>
 		<id>179</id>
 		<code>0602</code>
 		<name>Amizour</name>
 		<ar_name>أميزور</ar_name>
-		<county_code>602</county_code>
+		<county_code>0602</county_code>
 	</district>
 	<district>
 		<id>180</id>
 		<code>0603</code>
 		<name>Feraoun</name>
 		<ar_name>فرعون</ar_name>
-		<county_code>602</county_code>
+		<county_code>0602</county_code>
 	</district>
 	<district>
 		<id>181</id>
 		<code>0604</code>
 		<name>Taourit ighil</name>
 		<ar_name>تاوريرت إغيل</ar_name>
-		<county_code>624</county_code>
+		<county_code>0624</county_code>
 	</district>
 	<district>
 		<id>182</id>
 		<code>0605</code>
 		<name>Chellata</name>
 		<ar_name>شلاطة</ar_name>
-		<county_code>625</county_code>
+		<county_code>0625</county_code>
 	</district>
 	<district>
 		<id>183</id>
 		<code>0606</code>
 		<name>Tamokra</name>
 		<ar_name>تامقرة</ar_name>
-		<county_code>625</county_code>
+		<county_code>0625</county_code>
 	</district>
 	<district>
 		<id>184</id>
 		<code>0607</code>
 		<name>Timezrit</name>
 		<ar_name>تيمزريت</ar_name>
-		<county_code>607</county_code>
+		<county_code>0607</county_code>
 	</district>
 	<district>
 		<id>185</id>
 		<code>0608</code>
 		<name>Souk el tenine</name>
 		<ar_name>سوق لإثنين</ar_name>
-		<county_code>608</county_code>
+		<county_code>0608</county_code>
 	</district>
 	<district>
 		<id>186</id>
 		<code>0609</code>
 		<name>M'cisna</name>
 		<ar_name>مسيسنة</ar_name>
-		<county_code>626</county_code>
+		<county_code>0626</county_code>
 	</district>
 	<district>
 		<id>187</id>
 		<code>0610</code>
 		<name>Tinebdar</name>
 		<ar_name>تينبدار</ar_name>
-		<county_code>639</county_code>
+		<county_code>0639</county_code>
 	</district>
 	<district>
 		<id>188</id>
 		<code>0611</code>
 		<name>Tichy</name>
 		<ar_name>تيشي</ar_name>
-		<county_code>611</county_code>
+		<county_code>0611</county_code>
 	</district>
 	<district>
 		<id>189</id>
 		<code>0612</code>
 		<name>Smaoun</name>
 		<ar_name>سمعون</ar_name>
-		<county_code>602</county_code>
+		<county_code>0602</county_code>
 	</district>
 	<district>
 		<id>190</id>
 		<code>0613</code>
 		<name>Kendira</name>
 		<ar_name>كنديرة</ar_name>
-		<county_code>634</county_code>
+		<county_code>0634</county_code>
 	</district>
 	<district>
 		<id>191</id>
 		<code>0614</code>
 		<name>Tifra</name>
 		<ar_name>تيفرة</ar_name>
-		<county_code>639</county_code>
+		<county_code>0639</county_code>
 	</district>
 	<district>
 		<id>192</id>
 		<code>0615</code>
 		<name>Ighram</name>
 		<ar_name>اغرم</ar_name>
-		<county_code>625</county_code>
+		<county_code>0625</county_code>
 	</district>
 	<district>
 		<id>193</id>
 		<code>0616</code>
 		<name>Amalou</name>
 		<ar_name>أمالو</ar_name>
-		<county_code>626</county_code>
+		<county_code>0626</county_code>
 	</district>
 	<district>
 		<id>194</id>
 		<code>0617</code>
 		<name>Ighil-ali</name>
 		<ar_name>إغيل علي</ar_name>
-		<county_code>617</county_code>
+		<county_code>0617</county_code>
 	</district>
 	<district>
 		<id>195</id>
 		<code>0618</code>
 		<name>Fenaia il maten</name>
 		<ar_name>فناية الماثن</ar_name>
-		<county_code>640</county_code>
+		<county_code>0640</county_code>
 	</district>
 	<district>
 		<id>196</id>
 		<code>0619</code>
 		<name>Toudja</name>
 		<ar_name>توجة</ar_name>
-		<county_code>640</county_code>
+		<county_code>0640</county_code>
 	</district>
 	<district>
 		<id>197</id>
 		<code>0620</code>
 		<name>Darguina</name>
 		<ar_name>درقينة</ar_name>
-		<county_code>620</county_code>
+		<county_code>0620</county_code>
 	</district>
 	<district>
 		<id>198</id>
 		<code>0621</code>
 		<name>Sidi ayad</name>
 		<ar_name>سيدي عياد</ar_name>
-		<county_code>639</county_code>
+		<county_code>0639</county_code>
 	</district>
 	<district>
 		<id>199</id>
 		<code>0622</code>
 		<name>Aokas</name>
 		<ar_name>أوقاس</ar_name>
-		<county_code>622</county_code>
+		<county_code>0622</county_code>
 	</district>
 	<district>
 		<id>200</id>
 		<code>0623</code>
 		<name>Beni djellil</name>
 		<ar_name>بني جليل</ar_name>
-		<county_code>602</county_code>
+		<county_code>0602</county_code>
 	</district>
 	<district>
 		<id>201</id>
 		<code>0624</code>
 		<name>Adekar</name>
 		<ar_name>أدكار</ar_name>
-		<county_code>624</county_code>
+		<county_code>0624</county_code>
 	</district>
 	<district>
 		<id>202</id>
 		<code>0625</code>
 		<name>Akbou</name>
 		<ar_name>أقبو</ar_name>
-		<county_code>625</county_code>
+		<county_code>0625</county_code>
 	</district>
 	<district>
 		<id>203</id>
 		<code>0626</code>
 		<name>Seddouk</name>
 		<ar_name>صدوق</ar_name>
-		<county_code>626</county_code>
+		<county_code>0626</county_code>
 	</district>
 	<district>
 		<id>204</id>
 		<code>0627</code>
 		<name>Tazmalt</name>
 		<ar_name>تازمالت</ar_name>
-		<county_code>627</county_code>
+		<county_code>0627</county_code>
 	</district>
 	<district>
 		<id>205</id>
 		<code>0628</code>
 		<name>Ait r'zine</name>
 		<ar_name>أيت رزين</ar_name>
-		<county_code>617</county_code>
+		<county_code>0617</county_code>
 	</district>
 	<district>
 		<id>206</id>
 		<code>0629</code>
 		<name>Chemini</name>
 		<ar_name>شميني</ar_name>
-		<county_code>629</county_code>
+		<county_code>0629</county_code>
 	</district>
 	<district>
 		<id>207</id>
 		<code>0630</code>
 		<name>Souk oufella</name>
 		<ar_name>سوق اوفلا</ar_name>
-		<county_code>629</county_code>
+		<county_code>0629</county_code>
 	</district>
 	<district>
 		<id>208</id>
 		<code>0631</code>
 		<name>Taskriout</name>
 		<ar_name>تاسكريوت</ar_name>
-		<county_code>620</county_code>
+		<county_code>0620</county_code>
 	</district>
 	<district>
 		<id>209</id>
 		<code>0632</code>
 		<name>Tibane</name>
 		<ar_name>طيبان</ar_name>
-		<county_code>629</county_code>
+		<county_code>0629</county_code>
 	</district>
 	<district>
 		<id>210</id>
 		<code>0633</code>
 		<name>Tala hamza</name>
 		<ar_name>تالة حمزة</ar_name>
-		<county_code>611</county_code>
+		<county_code>0611</county_code>
 	</district>
 	<district>
 		<id>211</id>
 		<code>0634</code>
 		<name>Barbacha</name>
 		<ar_name>برباشة</ar_name>
-		<county_code>634</county_code>
+		<county_code>0634</county_code>
 	</district>
 	<district>
 		<id>212</id>
 		<code>0635</code>
 		<name>Beni k'sila</name>
 		<ar_name>بني كسيلة</ar_name>
-		<county_code>624</county_code>
+		<county_code>0624</county_code>
 	</district>
 	<district>
 		<id>213</id>
 		<code>0636</code>
 		<name>Ouzellaguen</name>
 		<ar_name>أوزلاقن</ar_name>
-		<county_code>636</county_code>
+		<county_code>0636</county_code>
 	</district>
 	<district>
 		<id>214</id>
 		<code>0637</code>
 		<name>Bouhamza</name>
 		<ar_name>بوحمزة</ar_name>
-		<county_code>626</county_code>
+		<county_code>0626</county_code>
 	</district>
 	<district>
 		<id>215</id>
 		<code>0638</code>
 		<name>Beni-mallikeche</name>
 		<ar_name>بني مليكش</ar_name>
-		<county_code>627</county_code>
+		<county_code>0627</county_code>
 	</district>
 	<district>
 		<id>216</id>
 		<code>0639</code>
 		<name>Sidi-aich</name>
 		<ar_name>سيدي عيش</ar_name>
-		<county_code>639</county_code>
+		<county_code>0639</county_code>
 	</district>
 	<district>
 		<id>217</id>
 		<code>0640</code>
 		<name>El kseur</name>
 		<ar_name>القصر</ar_name>
-		<county_code>640</county_code>
+		<county_code>0640</county_code>
 	</district>
 	<district>
 		<id>218</id>
 		<code>0641</code>
 		<name>Melbou</name>
 		<ar_name>مالبو</ar_name>
-		<county_code>608</county_code>
+		<county_code>0608</county_code>
 	</district>
 	<district>
 		<id>219</id>
 		<code>0642</code>
 		<name>Akfadou</name>
 		<ar_name>أكفادو</ar_name>
-		<county_code>629</county_code>
+		<county_code>0629</county_code>
 	</district>
 	<district>
 		<id>220</id>
 		<code>0643</code>
 		<name>Leflaye</name>
 		<ar_name>الفلاي</ar_name>
-		<county_code>639</county_code>
+		<county_code>0639</county_code>
 	</district>
 	<district>
 		<id>221</id>
 		<code>0644</code>
 		<name>Kherrata</name>
 		<ar_name>خراطة</ar_name>
-		<county_code>644</county_code>
+		<county_code>0644</county_code>
 	</district>
 	<district>
 		<id>222</id>
 		<code>0645</code>
 		<name>Dra el caid</name>
 		<ar_name>ذراع القايد</ar_name>
-		<county_code>644</county_code>
+		<county_code>0644</county_code>
 	</district>
 	<district>
 		<id>223</id>
 		<code>0646</code>
 		<name>Tamridjet</name>
 		<ar_name>تامريجت</ar_name>
-		<county_code>608</county_code>
+		<county_code>0608</county_code>
 	</district>
 	<district>
 		<id>224</id>
 		<code>0647</code>
 		<name>Ait-smail</name>
 		<ar_name>أيت إسماعيل</ar_name>
-		<county_code>620</county_code>
+		<county_code>0620</county_code>
 	</district>
 	<district>
 		<id>225</id>
 		<code>0648</code>
 		<name>Boukhelifa</name>
 		<ar_name>بوخليفة</ar_name>
-		<county_code>611</county_code>
+		<county_code>0611</county_code>
 	</district>
 	<district>
 		<id>226</id>
 		<code>0649</code>
 		<name>Tizi-n'berber</name>
 		<ar_name>تيزي نبربر</ar_name>
-		<county_code>622</county_code>
+		<county_code>0622</county_code>
 	</district>
 	<district>
 		<id>227</id>
 		<code>0650</code>
 		<name>Benimaouche</name>
 		<ar_name>بني معوش</ar_name>
-		<county_code>650</county_code>
+		<county_code>0650</county_code>
 	</district>
 	<district>
 		<id>228</id>
 		<code>0651</code>
 		<name>Oued ghir</name>
 		<ar_name>وادي غير</ar_name>
-		<county_code>601</county_code>
+		<county_code>0601</county_code>
 	</district>
 	<district>
 		<id>229</id>
 		<code>0652</code>
 		<name>Boudjellil</name>
 		<ar_name>بو جليل</ar_name>
-		<county_code>627</county_code>
+		<county_code>0627</county_code>
 	</district>
 	<district>
 		<id>230</id>
 		<code>0701</code>
 		<name>Biskra</name>
 		<ar_name>بسكرة</ar_name>
-		<county_code>701</county_code>
+		<county_code>0701</county_code>
 	</district>
 	<district>
 		<id>231</id>
 		<code>0702</code>
 		<name>Oumache</name>
 		<ar_name>أوماش</ar_name>
-		<county_code>724</county_code>
+		<county_code>0724</county_code>
 	</district>
 	<district>
 		<id>232</id>
 		<code>0703</code>
 		<name>Branis</name>
 		<ar_name>برانيس</ar_name>
-		<county_code>720</county_code>
+		<county_code>0720</county_code>
 	</district>
 	<district>
 		<id>233</id>
 		<code>0704</code>
 		<name>Chetma</name>
 		<ar_name>شتمة</ar_name>
-		<county_code>711</county_code>
+		<county_code>0711</county_code>
 	</district>
 	<district>
 		<id>234</id>
 		<code>0705</code>
 		<name>Ouled djellal</name>
 		<ar_name>أولاد جلال</ar_name>
-		<county_code>705</county_code>
+		<county_code>0705</county_code>
 	</district>
 	<district>
 		<id>235</id>
 		<code>0706</code>
 		<name>Ras el miad</name>
 		<ar_name>رأس الميعاد</ar_name>
-		<county_code>708</county_code>
+		<county_code>0708</county_code>
 	</district>
 	<district>
 		<id>236</id>
 		<code>0707</code>
 		<name>Besbes</name>
 		<ar_name>بسباس</ar_name>
-		<county_code>708</county_code>
+		<county_code>0708</county_code>
 	</district>
 	<district>
 		<id>237</id>
 		<code>0708</code>
 		<name>Sidi khaled</name>
 		<ar_name>سيدي  خالد</ar_name>
-		<county_code>708</county_code>
+		<county_code>0708</county_code>
 	</district>
 	<district>
 		<id>238</id>
 		<code>0709</code>
 		<name>Doucen</name>
 		<ar_name>الدوسن</ar_name>
-		<county_code>705</county_code>
+		<county_code>0705</county_code>
 	</district>
 	<district>
 		<id>239</id>
 		<code>0710</code>
 		<name>Chaiba</name>
 		<ar_name>الشعيبة</ar_name>
-		<county_code>705</county_code>
+		<county_code>0705</county_code>
 	</district>
 	<district>
 		<id>240</id>
 		<code>0711</code>
 		<name>Sidi okba</name>
 		<ar_name>سيدي عقبة</ar_name>
-		<county_code>711</county_code>
+		<county_code>0711</county_code>
 	</district>
 	<district>
 		<id>241</id>
 		<code>0712</code>
 		<name>M'chouneche</name>
 		<ar_name>مشونش</ar_name>
-		<county_code>712</county_code>
+		<county_code>0712</county_code>
 	</district>
 	<district>
 		<id>242</id>
 		<code>0713</code>
 		<name>El haouch</name>
 		<ar_name>الحوش</ar_name>
-		<county_code>711</county_code>
+		<county_code>0711</county_code>
 	</district>
 	<district>
 		<id>243</id>
 		<code>0714</code>
 		<name>Ain naga</name>
 		<ar_name>عين الناقة</ar_name>
-		<county_code>711</county_code>
+		<county_code>0711</county_code>
 	</district>
 	<district>
 		<id>244</id>
 		<code>0715</code>
 		<name>Zeribet el oued</name>
 		<ar_name>زريبة الوادي</ar_name>
-		<county_code>715</county_code>
+		<county_code>0715</county_code>
 	</district>
 	<district>
 		<id>245</id>
 		<code>0716</code>
 		<name>El feidh</name>
 		<ar_name>الفيض</ar_name>
-		<county_code>715</county_code>
+		<county_code>0715</county_code>
 	</district>
 	<district>
 		<id>246</id>
 		<code>0717</code>
 		<name>El kantara</name>
 		<ar_name>القنطرة</ar_name>
-		<county_code>717</county_code>
+		<county_code>0717</county_code>
 	</district>
 	<district>
 		<id>247</id>
 		<code>0718</code>
 		<name>Ain zaatout</name>
 		<ar_name>عين زعطوط</ar_name>
-		<county_code>717</county_code>
+		<county_code>0717</county_code>
 	</district>
 	<district>
 		<id>248</id>
 		<code>0719</code>
 		<name>El outaya</name>
 		<ar_name>الوطاية</ar_name>
-		<county_code>719</county_code>
+		<county_code>0719</county_code>
 	</district>
 	<district>
 		<id>249</id>
 		<code>0720</code>
 		<name>Djemorah</name>
 		<ar_name>جمورة</ar_name>
-		<county_code>720</county_code>
+		<county_code>0720</county_code>
 	</district>
 	<district>
 		<id>250</id>
 		<code>0721</code>
 		<name>Tolga</name>
 		<ar_name>طولقة</ar_name>
-		<county_code>721</county_code>
+		<county_code>0721</county_code>
 	</district>
 	<district>
 		<id>251</id>
 		<code>0722</code>
 		<name>Lioua</name>
 		<ar_name>ليوة</ar_name>
-		<county_code>724</county_code>
+		<county_code>0724</county_code>
 	</district>
 	<district>
 		<id>252</id>
 		<code>0723</code>
 		<name>Lichana</name>
 		<ar_name>ليشانة</ar_name>
-		<county_code>721</county_code>
+		<county_code>0721</county_code>
 	</district>
 	<district>
 		<id>253</id>
 		<code>0724</code>
 		<name>Ourlal</name>
 		<ar_name>أورلال</ar_name>
-		<county_code>724</county_code>
+		<county_code>0724</county_code>
 	</district>
 	<district>
 		<id>254</id>
 		<code>0725</code>
 		<name>M'lili</name>
 		<ar_name>مليلي</ar_name>
-		<county_code>724</county_code>
+		<county_code>0724</county_code>
 	</district>
 	<district>
 		<id>255</id>
 		<code>0726</code>
 		<name>Foughala</name>
 		<ar_name>فوغالة</ar_name>
-		<county_code>726</county_code>
+		<county_code>0726</county_code>
 	</district>
 	<district>
 		<id>256</id>
 		<code>0727</code>
 		<name>Bordj ben azzouz</name>
 		<ar_name>برج بن عزوز</ar_name>
-		<county_code>721</county_code>
+		<county_code>0721</county_code>
 	</district>
 	<district>
 		<id>257</id>
 		<code>0728</code>
 		<name>Meziraa</name>
 		<ar_name>المزيرعة</ar_name>
-		<county_code>715</county_code>
+		<county_code>0715</county_code>
 	</district>
 	<district>
 		<id>258</id>
 		<code>0729</code>
 		<name>Bouchakroun</name>
 		<ar_name>بوشقرون</ar_name>
-		<county_code>721</county_code>
+		<county_code>0721</county_code>
 	</district>
 	<district>
 		<id>259</id>
 		<code>0730</code>
 		<name>Mekhadma</name>
 		<ar_name>مخادمة</ar_name>
-		<county_code>724</county_code>
+		<county_code>0724</county_code>
 	</district>
 	<district>
 		<id>260</id>
 		<code>0731</code>
 		<name>El ghrous</name>
 		<ar_name>الغروس</ar_name>
-		<county_code>726</county_code>
+		<county_code>0726</county_code>
 	</district>
 	<district>
 		<id>261</id>
 		<code>0732</code>
 		<name>El hadjab</name>
 		<ar_name>الحاجب</ar_name>
-		<county_code>701</county_code>
+		<county_code>0701</county_code>
 	</district>
 	<district>
 		<id>262</id>
 		<code>0733</code>
 		<name>Khenguet sidi nadji</name>
 		<ar_name>خنقة سيدي ناجي</ar_name>
-		<county_code>715</county_code>
+		<county_code>0715</county_code>
 	</district>
 	<district>
 		<id>263</id>
 		<code>0801</code>
 		<name>Bechar</name>
 		<ar_name>بشار</ar_name>
-		<county_code>801</county_code>
+		<county_code>0801</county_code>
 	</district>
 	<district>
 		<id>264</id>
 		<code>0802</code>
 		<name>Erg-ferradj</name>
 		<ar_name>عرق فراج</ar_name>
-		<county_code>817</county_code>
+		<county_code>0817</county_code>
 	</district>
 	<district>
 		<id>265</id>
 		<code>0803</code>
 		<name>Ouled-khodeir</name>
 		<ar_name>أولاد خضير</ar_name>
-		<county_code>803</county_code>
+		<county_code>0803</county_code>
 	</district>
 	<district>
 		<id>266</id>
 		<code>0804</code>
 		<name>Meridja</name>
 		<ar_name>المريجة</ar_name>
-		<county_code>810</county_code>
+		<county_code>0810</county_code>
 	</district>
 	<district>
 		<id>267</id>
 		<code>0805</code>
 		<name>Timoudi</name>
 		<ar_name>تيمودي</ar_name>
-		<county_code>818</county_code>
+		<county_code>0818</county_code>
 	</district>
 	<district>
 		<id>268</id>
 		<code>0806</code>
 		<name>Lahmar</name>
 		<ar_name>لحمر</ar_name>
-		<county_code>806</county_code>
+		<county_code>0806</county_code>
 	</district>
 	<district>
 		<id>269</id>
 		<code>0807</code>
 		<name>Beni-abbes</name>
 		<ar_name>بني عباس</ar_name>
-		<county_code>807</county_code>
+		<county_code>0807</county_code>
 	</district>
 	<district>
 		<id>270</id>
 		<code>0808</code>
 		<name>Beni-ikhlef</name>
 		<ar_name>بن يخلف</ar_name>
-		<county_code>818</county_code>
+		<county_code>0818</county_code>
 	</district>
 	<district>
 		<id>271</id>
 		<code>0809</code>
 		<name>Machraa-houari-boumediene</name>
 		<ar_name>مشرع هواري بومدين</ar_name>
-		<county_code>817</county_code>
+		<county_code>0817</county_code>
 	</district>
 	<district>
 		<id>272</id>
 		<code>0810</code>
 		<name>Kenadsa</name>
 		<ar_name>القنادسة</ar_name>
-		<county_code>810</county_code>
+		<county_code>0810</county_code>
 	</district>
 	<district>
 		<id>273</id>
 		<code>0811</code>
 		<name>Igli</name>
 		<ar_name>إقلي</ar_name>
-		<county_code>811</county_code>
+		<county_code>0811</county_code>
 	</district>
 	<district>
 		<id>274</id>
 		<code>0812</code>
 		<name>Tabelbala</name>
 		<ar_name>تبلبالة</ar_name>
-		<county_code>812</county_code>
+		<county_code>0812</county_code>
 	</district>
 	<district>
 		<id>275</id>
 		<code>0813</code>
 		<name>Taghit</name>
 		<ar_name>تاغيت</ar_name>
-		<county_code>813</county_code>
+		<county_code>0813</county_code>
 	</district>
 	<district>
 		<id>276</id>
 		<code>0814</code>
 		<name>El ouata</name>
 		<ar_name>الواتة</ar_name>
-		<county_code>814</county_code>
+		<county_code>0814</county_code>
 	</district>
 	<district>
 		<id>277</id>
 		<code>0815</code>
 		<name>Boukais</name>
 		<ar_name>بوكايس</ar_name>
-		<county_code>806</county_code>
+		<county_code>0806</county_code>
 	</district>
 	<district>
 		<id>278</id>
 		<code>0816</code>
 		<name>Mogheul</name>
 		<ar_name>موغل</ar_name>
-		<county_code>806</county_code>
+		<county_code>0806</county_code>
 	</district>
 	<district>
 		<id>279</id>
 		<code>0817</code>
 		<name>Abadla</name>
 		<ar_name>العبادلة</ar_name>
-		<county_code>817</county_code>
+		<county_code>0817</county_code>
 	</district>
 	<district>
 		<id>280</id>
 		<code>0818</code>
 		<name>Kerzaz</name>
 		<ar_name>كرزاز</ar_name>
-		<county_code>818</county_code>
+		<county_code>0818</county_code>
 	</district>
 	<district>
 		<id>281</id>
 		<code>0819</code>
 		<name>Ksabi</name>
 		<ar_name>القصابي</ar_name>
-		<county_code>803</county_code>
+		<county_code>0803</county_code>
 	</district>
 	<district>
 		<id>282</id>
 		<code>0820</code>
 		<name>Tamtert</name>
 		<ar_name>تامترت</ar_name>
-		<county_code>807</county_code>
+		<county_code>0807</county_code>
 	</district>
 	<district>
 		<id>283</id>
 		<code>0821</code>
 		<name>Beni-ounif</name>
 		<ar_name>بني ونيف</ar_name>
-		<county_code>821</county_code>
+		<county_code>0821</county_code>
 	</district>
 	<district>
 		<id>284</id>
 		<code>0901</code>
 		<name>Blida</name>
 		<ar_name>البليدة</ar_name>
-		<county_code>901</county_code>
+		<county_code>0901</county_code>
 	</district>
 	<district>
 		<id>285</id>
 		<code>0902</code>
 		<name>Chebli</name>
 		<ar_name>الشبلي</ar_name>
-		<county_code>903</county_code>
+		<county_code>0903</county_code>
 	</district>
 	<district>
 		<id>286</id>
 		<code>0903</code>
 		<name>Bouinan</name>
 		<ar_name>بوعينان</ar_name>
-		<county_code>903</county_code>
+		<county_code>0903</county_code>
 	</district>
 	<district>
 		<id>287</id>
 		<code>0904</code>
 		<name>Oued el alleug</name>
 		<ar_name>وادي العلايق</ar_name>
-		<county_code>904</county_code>
+		<county_code>0904</county_code>
 	</district>
 	<district>
 		<id>288</id>
 		<code>0905</code>
 		<name>Ouled yaich</name>
 		<ar_name>أولاد يعيش</ar_name>
-		<county_code>905</county_code>
+		<county_code>0905</county_code>
 	</district>
 	<district>
 		<id>289</id>
 		<code>0906</code>
 		<name>Chrea</name>
 		<ar_name>الشريعة</ar_name>
-		<county_code>905</county_code>
+		<county_code>0905</county_code>
 	</district>
 	<district>
 		<id>290</id>
 		<code>0907</code>
 		<name>El-affroun</name>
 		<ar_name>العفرون</ar_name>
-		<county_code>907</county_code>
+		<county_code>0907</county_code>
 	</district>
 	<district>
 		<id>291</id>
 		<code>0908</code>
 		<name>Chiffa</name>
 		<ar_name>الشفة</ar_name>
-		<county_code>912</county_code>
+		<county_code>0912</county_code>
 	</district>
 	<district>
 		<id>292</id>
 		<code>0909</code>
 		<name>Hammam elouane</name>
 		<ar_name>حمام ملوان</ar_name>
-		<county_code>922</county_code>
+		<county_code>0922</county_code>
 	</district>
 	<district>
 		<id>293</id>
 		<code>0910</code>
 		<name>Benkhelil</name>
 		<ar_name>بن خليل</ar_name>
-		<county_code>904</county_code>
+		<county_code>0904</county_code>
 	</district>
 	<district>
 		<id>294</id>
 		<code>0911</code>
 		<name>Soumaa</name>
 		<ar_name>الصومعة</ar_name>
-		<county_code>916</county_code>
+		<county_code>0916</county_code>
 	</district>
 	<district>
 		<id>295</id>
 		<code>0912</code>
 		<name>Mouzaia</name>
 		<ar_name>موزاية</ar_name>
-		<county_code>912</county_code>
+		<county_code>0912</county_code>
 	</district>
 	<district>
 		<id>296</id>
 		<code>0913</code>
 		<name>Souhane</name>
 		<ar_name>صوحان</ar_name>
-		<county_code>917</county_code>
+		<county_code>0917</county_code>
 	</district>
 	<district>
 		<id>297</id>
 		<code>0914</code>
 		<name>Meftah</name>
 		<ar_name>مفتاح</ar_name>
-		<county_code>914</county_code>
+		<county_code>0914</county_code>
 	</district>
 	<district>
 		<id>298</id>
 		<code>0915</code>
 		<name>Ouled slama</name>
 		<ar_name>اولاد سلامة</ar_name>
-		<county_code>922</county_code>
+		<county_code>0922</county_code>
 	</district>
 	<district>
 		<id>299</id>
 		<code>0916</code>
 		<name>Boufarik</name>
 		<ar_name>بوفاريك</ar_name>
-		<county_code>916</county_code>
+		<county_code>0916</county_code>
 	</district>
 	<district>
 		<id>300</id>
 		<code>0917</code>
 		<name>Larbaa</name>
 		<ar_name>الأربعاء</ar_name>
-		<county_code>917</county_code>
+		<county_code>0917</county_code>
 	</district>
 	<district>
 		<id>301</id>
 		<code>0918</code>
 		<name>Oued  djer</name>
 		<ar_name>وادي جر</ar_name>
-		<county_code>907</county_code>
+		<county_code>0907</county_code>
 	</district>
 	<district>
 		<id>302</id>
 		<code>0919</code>
 		<name>Beni-tamou</name>
 		<ar_name>بني تامو</ar_name>
-		<county_code>904</county_code>
+		<county_code>0904</county_code>
 	</district>
 	<district>
 		<id>303</id>
 		<code>0920</code>
 		<name>Bouarfa</name>
 		<ar_name>بوعرفة</ar_name>
-		<county_code>901</county_code>
+		<county_code>0901</county_code>
 	</district>
 	<district>
 		<id>304</id>
 		<code>0921</code>
 		<name>Beni mered</name>
 		<ar_name>بني مراد</ar_name>
-		<county_code>905</county_code>
+		<county_code>0905</county_code>
 	</district>
 	<district>
 		<id>305</id>
 		<code>0922</code>
 		<name>Bougara</name>
 		<ar_name>بوقرة</ar_name>
-		<county_code>922</county_code>
+		<county_code>0922</county_code>
 	</district>
 	<district>
 		<id>306</id>
 		<code>0923</code>
 		<name>Guerrouaou</name>
 		<ar_name>قرواو</ar_name>
-		<county_code>916</county_code>
+		<county_code>0916</county_code>
 	</district>
 	<district>
 		<id>307</id>
 		<code>0924</code>
 		<name>Ain romana</name>
 		<ar_name>عين الرمانة</ar_name>
-		<county_code>912</county_code>
+		<county_code>0912</county_code>
 	</district>
 	<district>
 		<id>308</id>
 		<code>0925</code>
 		<name>Djebabra</name>
 		<ar_name>جبابرة</ar_name>
-		<county_code>914</county_code>
+		<county_code>0914</county_code>
 	</district>
 	<district>
 		<id>309</id>
