@@ -1,4 +1,4 @@
-"id", "code", "name", "ar_name"
+"id", "code", "name", "ar_name","state_code"
 "1","0101","Adrar","أدرار","01"
 "2","0103","Charouine","شروين","01"
 "3","0104","Reggane","رقان","01"

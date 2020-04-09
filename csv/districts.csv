@@ -1,4 +1,4 @@
-"id", "code", "name", "ar_name"
+"id", "code", "name", "ar_name","county_code"
 "1","0101","Adrar","أدرار","0101"
 "2","0102","Tamest","تامست","0115"
 "3","0103","Charouine","شروين","0103"
