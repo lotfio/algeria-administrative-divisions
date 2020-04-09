@@ -927,7 +927,7 @@
 	<county>
 		<id>133</id>
 		<code>1090</code>
-		<name>Timimoun (wilaya déléguée)</name>
+		<name>Timimoun (delegate state)</name>
 		<ar_name>تيميمون (ولاية منتدبة)</ar_name>
 		<state_code>1</state_code>
 	</county>
@@ -962,7 +962,7 @@
 	<county>
 		<id>138</id>
 		<code>1104</code>
-		<name>Ain guezzam (wilaya déléguée)</name>
+		<name>Ain guezzam (delegate state)</name>
 		<ar_name>عين قزام (ولاية منتدبة)</ar_name>
 		<state_code>11</state_code>
 	</county>
@@ -990,7 +990,7 @@
 	<county>
 		<id>142</id>
 		<code>1108</code>
-		<name>Ain salah (wilaya déléguée)</name>
+		<name>Ain salah (delegate state)</name>
 		<ar_name>عين صالح (ولاية منتدبة)</ar_name>
 		<state_code>11</state_code>
 	</county>
@@ -1081,7 +1081,7 @@
 	<county>
 		<id>155</id>
 		<code>1250</code>
-		<name>Bordj badji mokhtar (wilaya déléguée)</name>
+		<name>Bordj badji mokhtar (delegate state)</name>
 		<ar_name>برج باجي مختار (ولاية منتدبة)</ar_name>
 		<state_code>1</state_code>
 	</county>
@@ -2705,7 +2705,7 @@
 	<county>
 		<id>387</id>
 		<code>3013</code>
-		<name>Touggourt (wilaya déléguée)</name>
+		<name>Touggourt (delegate state)</name>
 		<ar_name>تقرت</ar_name>
 		<state_code>30</state_code>
 	</county>
@@ -2887,7 +2887,7 @@
 	<county>
 		<id>413</id>
 		<code>3302</code>
-		<name>Djanet (wilaya déléguée)</name>
+		<name>Djanet (delegate state)</name>
 		<ar_name>جانت (ولاية منتدبة)</ar_name>
 		<state_code>33</state_code>
 	</county>
@@ -3216,7 +3216,7 @@
 	<county>
 		<id>460</id>
 		<code>3927</code>
-		<name>El meghaier (wilaya déléguée)</name>
+		<name>El meghaier (delegate state)</name>
 		<ar_name>المغير</ar_name>
 		<state_code>39</state_code>
 	</county>
@@ -3741,7 +3741,7 @@
 	<county>
 		<id>535</id>
 		<code>4702</code>
-		<name>El menia (wilaya déléguée)</name>
+		<name>El menia (delegate state)</name>
 		<ar_name>المنيعة (ولاية منتدبة)</ar_name>
 		<state_code>47</state_code>
 	</county>
@@ -3888,14 +3888,14 @@
 	<county>
 		<id>556</id>
 		<code>7050</code>
-		<name>Ouled djellal (wilaya déléguée)</name>
+		<name>Ouled djellal (delegate state)</name>
 		<ar_name>أولاد جلال (ولاية منتدبة)</ar_name>
 		<state_code>7</state_code>
 	</county>
 	<county>
 		<id>557</id>
 		<code>8070</code>
-		<name>Beni abbes (wilaya déléguée)</name>
+		<name>Beni abbes (delegate state)</name>
 		<ar_name>بني عباس (ولاية منتدبة)</ar_name>
 		<state_code>8</state_code>
 	</county>

@@ -1059,7 +1059,7 @@
   array (
     'id' => '133',
     'code' => '1090',
-    'name' => 'Timimoun (wilaya déléguée)',
+    'name' => 'Timimoun (delegate state)',
     'ar_name' => 'تيميمون (ولاية منتدبة)',
     'state_code' => '1',
   ),
@@ -1099,7 +1099,7 @@
   array (
     'id' => '138',
     'code' => '1104',
-    'name' => 'Ain guezzam (wilaya déléguée)',
+    'name' => 'Ain guezzam (delegate state)',
     'ar_name' => 'عين قزام (ولاية منتدبة)',
     'state_code' => '11',
   ),
@@ -1131,7 +1131,7 @@
   array (
     'id' => '142',
     'code' => '1108',
-    'name' => 'Ain salah (wilaya déléguée)',
+    'name' => 'Ain salah (delegate state)',
     'ar_name' => 'عين صالح (ولاية منتدبة)',
     'state_code' => '11',
   ),
@@ -1235,7 +1235,7 @@
   array (
     'id' => '155',
     'code' => '1250',
-    'name' => 'Bordj badji mokhtar (wilaya déléguée)',
+    'name' => 'Bordj badji mokhtar (delegate state)',
     'ar_name' => 'برج باجي مختار (ولاية منتدبة)',
     'state_code' => '1',
   ),
@@ -3091,7 +3091,7 @@
   array (
     'id' => '387',
     'code' => '3013',
-    'name' => 'Touggourt (wilaya déléguée)',
+    'name' => 'Touggourt (delegate state)',
     'ar_name' => 'تقرت',
     'state_code' => '30',
   ),
@@ -3299,7 +3299,7 @@
   array (
     'id' => '413',
     'code' => '3302',
-    'name' => 'Djanet (wilaya déléguée)',
+    'name' => 'Djanet (delegate state)',
     'ar_name' => 'جانت (ولاية منتدبة)',
     'state_code' => '33',
   ),
@@ -3675,7 +3675,7 @@
   array (
     'id' => '460',
     'code' => '3927',
-    'name' => 'El meghaier (wilaya déléguée)',
+    'name' => 'El meghaier (delegate state)',
     'ar_name' => 'المغير',
     'state_code' => '39',
   ),
@@ -4275,7 +4275,7 @@
   array (
     'id' => '535',
     'code' => '4702',
-    'name' => 'El menia (wilaya déléguée)',
+    'name' => 'El menia (delegate state)',
     'ar_name' => 'المنيعة (ولاية منتدبة)',
     'state_code' => '47',
   ),
@@ -4443,7 +4443,7 @@
   array (
     'id' => '556',
     'code' => '7050',
-    'name' => 'Ouled djellal (wilaya déléguée)',
+    'name' => 'Ouled djellal (delegate state)',
     'ar_name' => 'أولاد جلال (ولاية منتدبة)',
     'state_code' => '7',
   ),
@@ -4451,7 +4451,7 @@
   array (
     'id' => '557',
     'code' => '8070',
-    'name' => 'Beni abbes (wilaya déléguée)',
+    'name' => 'Beni abbes (delegate state)',
     'ar_name' => 'بني عباس (ولاية منتدبة)',
     'state_code' => '8',
   ),
