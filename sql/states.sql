@@ -14,7 +14,7 @@
 -- Dumping structure for table mlc.states
 CREATE TABLE IF NOT EXISTS `states` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `code` int(10) unsigned NOT NULL,
+  `code` tinyint(2) unsigned zerofill NOT NULL,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `ar_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
@@ -22,21 +22,21 @@ CREATE TABLE IF NOT EXISTS `states` (
   `deleted_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`),
   KEY `states_code_index` (`code`)
-) ENGINE=InnoDB AUTO_INCREMENT=49 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- Dumping data for table mlc.states: ~48 rows (approximately)
 DELETE FROM `states`;
 /*!40000 ALTER TABLE `states` DISABLE KEYS */;
 INSERT INTO `states` (`id`, `code`, `name`, `ar_name`, `created_at`, `updated_at`, `deleted_at`) VALUES
-	(1, 1, 'Adrar', 'أدرار', '2020-03-02 18:25:16', NULL, NULL),
-	(2, 2, 'Chlef', 'الشلف', '2020-03-02 18:25:16', NULL, NULL),
-	(3, 3, 'Laghouat', 'الأغواط', '2020-03-02 18:25:16', NULL, NULL),
-	(4, 4, 'Oum el bouaghi', 'أم البواقي', '2020-03-02 18:25:16', NULL, NULL),
-	(5, 5, 'Batna', 'باتنة', '2020-03-02 18:25:16', NULL, NULL),
-	(6, 6, 'Béjaïa', 'بجاية', '2020-03-02 18:25:16', NULL, NULL),
-	(7, 7, 'Biskra', 'بسكرة', '2020-03-02 18:25:16', NULL, NULL),
-	(8, 8, 'Bechar', 'بشار', '2020-03-02 18:25:16', NULL, NULL),
-	(9, 9, 'Blida', 'البليدة', '2020-03-02 18:25:16', NULL, NULL),
+	(1, 01, 'Adrar', 'أدرار', '2020-03-02 18:25:16', NULL, NULL),
+	(2, 02, 'Chlef', 'الشلف', '2020-03-02 18:25:16', NULL, NULL),
+	(3, 03, 'Laghouat', 'الأغواط', '2020-03-02 18:25:16', NULL, NULL),
+	(4, 04, 'Oum el bouaghi', 'أم البواقي', '2020-03-02 18:25:16', NULL, NULL),
+	(5, 05, 'Batna', 'باتنة', '2020-03-02 18:25:16', NULL, NULL),
+	(6, 06, 'Béjaïa', 'بجاية', '2020-03-02 18:25:16', NULL, NULL),
+	(7, 07, 'Biskra', 'بسكرة', '2020-03-02 18:25:16', NULL, NULL),
+	(8, 08, 'Bechar', 'بشار', '2020-03-02 18:25:16', NULL, NULL),
+	(9, 09, 'Blida', 'البليدة', '2020-03-02 18:25:16', NULL, NULL),
 	(10, 10, 'Bouira', 'البويرة', '2020-03-02 18:25:16', NULL, NULL),
 	(11, 11, 'Tamanrasset', 'تمنراست', '2020-03-02 18:25:16', NULL, NULL),
 	(12, 12, 'Tbessa', 'تبسة', '2020-03-02 18:25:16', NULL, NULL),
