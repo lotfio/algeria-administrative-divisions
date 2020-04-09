@@ -1,21 +1,19 @@
- <p align="center">
-  <img src="https://github.com/lotfio/algeria-administrative-division/blob/master/dz.svg" width="200"  alt="skeleton Preview">
+<p align="center">
+    <img src="https://github.com/lotfio/algeria-administrative-division/blob/master/dz.svg" width="200"  alt="Algeria administrative division">
   <p align="center">
     <img src="https://img.shields.io/badge/1-JSON-ffd32a.svg" alt="JSON">
     <img src="https://img.shields.io/badge/2-CSV-808e9b.svg" alt="CSV">
     <img src="https://img.shields.io/badge/3-EXCEL-f53b57.svg" alt="EXCEL">
     <img src="https://img.shields.io/badge/4-PHP-27ae60.svg" alt="PHP">
-   <img src="https://img.shields.io/badge/5-SQL-27ae60.svg" alt="PHP">
-   <img src="https://img.shields.io/badge/6-XML-27ae60.svg" alt="PHP">
+   <img src="https://img.shields.io/badge/5-SQL-27ae60.svg" alt="SQL">
+   <img src="https://img.shields.io/badge/6-XML-27ae60.svg" alt="XML">
     </p>
   <p align="center">
     <strong>:algeria: Algeria administrative division :algeria:</strong>
   </p>
 </p>
  
- ### :fire: Introduction :
-
- #### This repo contains the algerian administrative division files in different formats :
+ #### :fire: This repo contains the algerian administrative division files in different formats :
 
  - ***JSON***
  - ***CSV***
@@ -24,7 +22,7 @@
  - ***SQL***
  - ***XML***
 
- #### This Administrative division includes the newly added delegate states :
+ #### :sparkles: This Administrative division includes the newly added delegate states :
  
  - Timimoun (delegate state)
  - Ain guezzam (delegate state)
@@ -37,7 +35,8 @@
  - Ouled djellal (delegate state)
  - Beni abbes (delegate state)
  
-####  The Administrative division includes (wilaya, dairas, baladiyah).
+#### :star: The Administrative division includes (wilaya, dairas, baladiyah) :
+
  - states    => wilayas
  - counties  => dairas
  - districts => baladiyah
