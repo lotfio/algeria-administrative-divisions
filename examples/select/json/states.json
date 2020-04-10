@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "code": "01",
+        "name": "Adrar",
+        "ar_name": "أدرار"
+    },
+    {
+        "id": 2,
+        "code": "02",
+        "name": "Chlef",
+        "ar_name": "الشلف"
+    },
+    {
+        "id": 3,
+        "code": "03",
+        "name": "Laghouat",
+        "ar_name": "الأغواط"
+    },
+    {
+        "id": 4,
+        "code": "04",
+        "name": "Oum el bouaghi",
+        "ar_name": "أم البواقي"
+    },
+    {
+        "id": 5,
+        "code": "05",
+        "name": "Batna",
+        "ar_name": "باتنة"
+    },
+    {
+        "id": 6,
+        "code": "06",
+        "name": "Béjaïa",
+        "ar_name": "بجاية"
+    },
+    {
+        "id": 7,
+        "code": "07",
+        "name": "Biskra",
+        "ar_name": "بسكرة"
+    },
+    {
+        "id": 8,
+        "code": "08",
+        "name": "Bechar",
+        "ar_name": "بشار"
+    },
+    {
+        "id": 9,
+        "code": "09",
+        "name": "Blida",
+        "ar_name": "البليدة"
+    },
+    {
+        "id": 10,
+        "code": "10",
+        "name": "Bouira",
+        "ar_name": "البويرة"
+    },
+    {
+        "id": 11,
+        "code": "11",
+        "name": "Tamanrasset",
+        "ar_name": "تمنراست"
+    },
+    {
+        "id": 12,
+        "code": "12",
+        "name": "Tbessa",
+        "ar_name": "تبسة"
+    },
+    {
+        "id": 13,
+        "code": "13",
+        "name": "Tlemcen",
+        "ar_name": "تلمسان"
+    },
+    {
+        "id": 14,
+        "code": "14",
+        "name": "Tiaret",
+        "ar_name": "تيارت"
+    },
+    {
+        "id": 15,
+        "code": "15",
+        "name": "Tizi ouzou",
+        "ar_name": "تيزي وزو"
+    },
+    {
+        "id": 16,
+        "code": "16",
+        "name": "Alger",
+        "ar_name": "الجزائر"
+    },
+    {
+        "id": 17,
+        "code": "17",
+        "name": "Djelfa",
+        "ar_name": "الجلفة"
+    },
+    {
+        "id": 18,
+        "code": "18",
+        "name": "Jijel",
+        "ar_name": "جيجل"
+    },
+    {
+        "id": 19,
+        "code": "19",
+        "name": "Sétif",
+        "ar_name": "سطيف"
+    },
+    {
+        "id": 20,
+        "code": "20",
+        "name": "Saefda",
+        "ar_name": "سعيدة"
+    },
+    {
+        "id": 21,
+        "code": "21",
+        "name": "Skikda",
+        "ar_name": "سكيكدة"
+    },
+    {
+        "id": 22,
+        "code": "22",
+        "name": "Sidi bel abbes",
+        "ar_name": "سيدي بلعباس"
+    },
+    {
+        "id": 23,
+        "code": "23",
+        "name": "Annaba",
+        "ar_name": "عنابة"
+    },
+    {
+        "id": 24,
+        "code": "24",
+        "name": "Guelma",
+        "ar_name": "قالمة"
+    },
+    {
+        "id": 25,
+        "code": "25",
+        "name": "Constantine",
+        "ar_name": "قسنطينة"
+    },
+    {
+        "id": 26,
+        "code": "26",
+        "name": "Medea",
+        "ar_name": "المدية"
+    },
+    {
+        "id": 27,
+        "code": "27",
+        "name": "Mostaganem",
+        "ar_name": "مستغانم"
+    },
+    {
+        "id": 28,
+        "code": "28",
+        "name": "M'sila",
+        "ar_name": "المسيلة"
+    },
+    {
+        "id": 29,
+        "code": "29",
+        "name": "Mascara",
+        "ar_name": "معسكر"
+    },
+    {
+        "id": 30,
+        "code": "30",
+        "name": "Ouargla",
+        "ar_name": "ورقلة"
+    },
+    {
+        "id": 31,
+        "code": "31",
+        "name": "Oran",
+        "ar_name": "وهران"
+    },
+    {
+        "id": 32,
+        "code": "32",
+        "name": "El bayadh",
+        "ar_name": "البيض"
+    },
+    {
+        "id": 33,
+        "code": "33",
+        "name": "Illizi",
+        "ar_name": "إليزي"
+    },
+    {
+        "id": 34,
+        "code": "34",
+        "name": "Bordj bou arreridj",
+        "ar_name": "برج بوعريريج"
+    },
+    {
+        "id": 35,
+        "code": "35",
+        "name": "Boumerdes",
+        "ar_name": "بومرداس"
+    },
+    {
+        "id": 36,
+        "code": "36",
+        "name": "El tarf",
+        "ar_name": "الطارف"
+    },
+    {
+        "id": 37,
+        "code": "37",
+        "name": "Tindouf",
+        "ar_name": "تندوف"
+    },
+    {
+        "id": 38,
+        "code": "38",
+        "name": "Tissemsilt",
+        "ar_name": "تيسمسيلت"
+    },
+    {
+        "id": 39,
+        "code": "39",
+        "name": "El oued",
+        "ar_name": "الوادي"
+    },
+    {
+        "id": 40,
+        "code": "40",
+        "name": "Khenchela",
+        "ar_name": "خنشلة"
+    },
+    {
+        "id": 41,
+        "code": "41",
+        "name": "Souk ahras",
+        "ar_name": "سوق أهراس"
+    },
+    {
+        "id": 42,
+        "code": "42",
+        "name": "Tipaza",
+        "ar_name": "تيبازة"
+    },
+    {
+        "id": 43,
+        "code": "43",
+        "name": "Mila",
+        "ar_name": "ميلة"
+    },
+    {
+        "id": 44,
+        "code": "44",
+        "name": "Ain defla",
+        "ar_name": "عين الدفلى"
+    },
+    {
+        "id": 45,
+        "code": "45",
+        "name": "Naama",
+        "ar_name": "النعامة"
+    },
+    {
+        "id": 46,
+        "code": "46",
+        "name": "Ain temouchent",
+        "ar_name": "عين تموشنت"
+    },
+    {
+        "id": 47,
+        "code": "47",
+        "name": "Ghardaïa",
+        "ar_name": "غرداية"
+    },
+    {
+        "id": 48,
+        "code": "48",
+        "name": "Relizane",
+        "ar_name": "غليزان"
+    }
+]

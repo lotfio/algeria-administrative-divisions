@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JS States Select picker example</title>
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="row mt-4">
+            <div class="col-md-12">
+
+                <select id="states" class="selectpicker" disabled>
+                    <option value=""> -- select state -- </option>
+                </select>
+
+                <select id="counties" class="selectpicker" disabled>
+                    <option value=""> -- select county -- </option>
+                </select>
+
+                <select id="districts" class="selectpicker" disabled>
+                    <option value=""> -- select district -- </option>
+                </select>
+
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://getbootstrap.com/docs/4.1/assets/js/vendor/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+
+    <script>
+
+
+        /**
+        ** ajax request example
+        **/
+        let ajax = (url, callback, data = {}) =>
+        {
+            $.ajax({
+                url: url,
+                type: "GET",
+                data: data,
+                dataType: "json",
+                success: (res) => { callback(res)},
+                error:   (res) => { console.log(res)}
+            });
+        }
+
+        // load states
+        ajax('./json/states.json', (res) => {
+
+            $('#states').selectpicker();
+            $('#states').attr('disabled', false);
+
+            $('#states').html('<option value="">-- select state --</option>');
+            
+            for(let i = 0; i < res.length; i++)
+                $('#states').append('<option value="'+ res[i].code +'">' + res[i].name + '</option>');
+            
+            $('#states').selectpicker('refresh');
+        });
+
+        // load counties
+        $('#states').on('change', (e) => {
+
+            let selected = $("#states option:selected").val();
+
+            // reset districts
+            $('#districts').html('');
+            $('#districts').selectpicker('refresh');
+
+            ajax('./json/counties.json', (res) => {
+
+                $('#counties').attr('disabled', false);
+                $('#counties').html('');
+                
+                for(let i = 0; i < res.length; i++)
+                {
+                    if(res[i].state_code == selected)
+                        $('#counties').append('<option value="'+ res[i].code +'">' + res[i].name + '</option>');
+                }
+
+                $('#counties').selectpicker('refresh');
+            });
+
+        });
+
+         // load districts
+         $('#counties').on('change', (e) => {
+
+            let selected = $("#counties option:selected").val();
+
+            ajax('./json/districts.json', (res) => {
+
+                $('#districts').attr('disabled', false);
+                $('#districts').html('');
+                
+                for(let i = 0; i < res.length; i++)
+                {
+                    if(res[i].county_code == selected)
+                        $('#districts').append('<option value="'+ res[i].code +'">' + res[i].name + '</option>');
+                }
+
+                $('#districts').selectpicker('refresh');
+            });
+
+        });
+    
+    </script>
+
+</body>
+</html>
