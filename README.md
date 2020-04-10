@@ -40,6 +40,14 @@
  - states    => wilayas
  - counties  => dairas
  - districts => baladiyah
+ 
+ 
+### TODO
+ - adding postal codes.
+ - adding latitudes and longitudes.
+ - adding surface area.
+ - adding number of population.
+ - adding boundaries.
 
 
 ### :computer: Contributing
