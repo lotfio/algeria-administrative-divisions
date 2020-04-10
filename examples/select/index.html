@@ -83,7 +83,7 @@
             ajax('./json/counties.json', (res) => {
 
                 $('#counties').attr('disabled', false);
-                $('#counties').html('');
+                $('#counties').html('<option value="">-- select county --</option>');
                 
                 for(let i = 0; i < res.length; i++)
                 {
