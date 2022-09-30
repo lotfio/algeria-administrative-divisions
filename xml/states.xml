@@ -287,4 +287,64 @@
 		<name>Relizane</name>
 		<ar_name>غليزان</ar_name>
 	</state>
+	<state>
+		<id>49</id>
+		<code>49</code>
+		<name>Timimoun</name>
+		<ar_name>تيميمون</ar_name>
+	</state>
+  	<state>
+  		<id>50</id>
+		<code>50</code>
+		<name>Bordj Badji Mokhtar </name>
+		<ar_name>برج باجي مختار</ar_name>
+	</state>
+  	<state>
+  		<id>51</id>
+		<code>51</code>
+		<name>Ouled Djellal</name>
+		<ar_name>أولاد جلال</ar_name>
+	</state>
+  	<state>
+  		<id>52</id>
+		<code>52</code>
+		<name>Béni Abbès</name>
+		<ar_name>بني عباس</ar_name>
+	</state>
+  	<state>
+  		<id>53</id>
+		<code>53</code>
+		<name>In Salah</name>
+		<ar_name>عين صالح</ar_name>
+	</state>
+  	<state>
+  		<id>54</id>
+		<code>54</code>
+		<name>In Guezzam</name>
+		<ar_name>عين قزام</ar_name>
+	</state>
+  	<state>
+  		<id>55</id>
+		<code>55</code>
+		<name>Touggourt</name>
+		<ar_name>تقرت</ar_name>
+	</state>
+  	<state>
+  		<id>56</id>
+		<code>56</code>
+		<name>Djanet</name>
+		<ar_name>جانت</ar_name>
+	</state>
+  	<state>
+  		<id>57</id>
+		<code>57</code>
+		<name>El M'Ghair</name>
+		<ar_name>المغير</ar_name>
+	</state>
+  	<state>
+  		<id>58</id>
+		<code>58</code>
+		<name>El Meniaa</name>
+		<ar_name>المنيعة</ar_name>
+	</state>
 </states>
