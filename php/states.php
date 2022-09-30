@@ -335,4 +335,65 @@
     'name' => 'Relizane',
     'ar_name' => 'غليزان',
   ),
+
+  array (
+    'id' =>49,
+    'code' => 49,
+    'name' => 'Timimoun',
+    'ar_name' =>'تيميمون',
+  ),
+  array (
+    'id' =>50,
+    'code' => 50,
+    'name' => 'Bordj Badji Mokhtar' ,
+    'ar_name' =>'برج باجي مختار',
+  ),
+  array (
+    'id' =>51,
+    'code' => 51,
+    'name' => 'Ouled Djellal',
+    'ar_name' =>'أولاد جلال',
+  ),
+  array (
+    'id' =>52,
+    'code' => 52,
+    'name' => 'Béni Abbès',
+    'ar_name' =>'بني عباس',
+  ),
+  array (
+    'id' =>53,
+    'code' => 53,
+    'name' => 'In Salah',
+    'ar_name' =>'عين صالح',
+  ),
+  array (
+    'id' =>54,
+    'code' => 54,
+    'name' => 'In Guezzam',
+    'ar_name' =>'عين قزام',
+  ),
+  array (
+    'id' =>55,
+    'code' => 55,
+    'name' => 'Touggourt',
+    'ar_name' =>'تقرت',
+  ),
+  array (
+    'id' =>56,
+    'code' => 56,
+    'name' => 'Djanet',
+    'ar_name' =>'جانت',
+  ),
+  array (
+    'id' =>57,
+    'code' => 57,
+    'name' => 'El M\'Ghair',
+    'ar_name' =>'المغير',
+  ),
+  array (
+    'id' =>58,
+    'code' => 58,
+    'name' => 'El Meniaa',
+    'ar_name' =>'المنيعة' 
+  ),
 );
